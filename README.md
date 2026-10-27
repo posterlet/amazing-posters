@@ -118,9 +118,12 @@ Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3
 
 ## Linking to a single poster
 
-Every entry carries an anchor built from its slug, so any one poster can be cited directly:
+A poster's permanent URL is its posterlet.com page. The slug is the identifier, so the link stays valid
+however these files are re-split, re-ordered or re-paginated:
 
-`gallery/halloween/sale.md#bead-art-halloween-sale-pop-art-poster`
+`https://posterlet.com/poster/bead-art-halloween-sale-pop-art-poster`
+
+Every thumbnail links there, and each record in `data/*.jsonl` exposes the same URL as `page`.
 
 ## Using these prompts
 
