@@ -41,12 +41,12 @@ MIN_PROMPT = 40
 # collection. Groups are split so every row shares one height — mixed ratios in a
 # single row leave the short ones looking like afterthoughts.
 TITLE_PICKS = {
-    "halloween": "a-wondrous-halloween-night-poster",
+    "halloween": "halloween-event-schedule-infographic-poster",
     "black-friday": "black-friday-annual-blowout-sale-poster",
     "christmas": "3d-gingerbread-christmas-village-diorama-poster",
     "product-thumbnails": "floating-teal-sneaker-on-clouds",
     "infographic": "data-center-power-evolution",
-    "gig-covers": "minimal-logo-design-portfolio-showcase",
+    "gig-covers": "full-stack-web-development-fiverr-gig-cover-2",
 }
 TITLE_ROWS = [
     (300, ["halloween", "black-friday", "christmas"]),
@@ -436,11 +436,12 @@ def dpath(bucket_key, sub):
 def title_strip(groups, order):
     """One poster per collection, two rows, each row a single height.
     Returns (markdown_block, record_used_as_example)."""
-    by_slug, first_of, first_sub = {}, {}, {}
+    by_slug, sub_of_slug, first_of, first_sub = {}, {}, {}, {}
     for bucket_key, sub in order:
         items = groups[(bucket_key, sub)]
         for a in items:
             by_slug.setdefault(a["slug"], a)
+            sub_of_slug.setdefault(a["slug"], sub)
         first_of.setdefault(bucket_key, items[0])
         first_sub.setdefault(bucket_key, sub)
 
@@ -457,7 +458,9 @@ def title_strip(groups, order):
             if example is None:
                 example = a
             n = sum(len(groups[x]) for x in order if x[0] == k)
-            rel = gpath(k, first_sub[k], 1)
+            # link the tile to the subcollection the picture actually came from,
+            # otherwise the thumbnail and the list behind it disagree
+            rel = gpath(k, sub_of_slug.get(a["slug"], first_sub[k]), 1)
             stem = os.path.splitext(a["fileName"])[0]
             alt = attr(f"{a['title']} — {reduce_ratio(a['width'], a['height'])} example poster")
             cells.append(
