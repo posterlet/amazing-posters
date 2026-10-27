@@ -1,10 +1,10 @@
 # amazing-posters
 
-**4637 poster prompt specs** — the exact structured text behind each image, paired with the
+**4507 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-4637-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-4507-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 [![](https://files.posterlet.com/assets/generated/md/mroflsfmw2hu.webp)](https://posterlet.com/poster/bead-art-halloween-sale-pop-art-poster)
@@ -12,7 +12,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4637
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4507
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
@@ -27,13 +27,13 @@ version.
 | | [`data/halloween/event.jsonl`](data/halloween/event.jsonl) | 0.66 MB |
 | | [`data/halloween/atmosphere.jsonl`](data/halloween/atmosphere.jsonl) | 0.23 MB |
 | **Black Friday & Cyber Monday** | 431 | |
-| | [`data/black-friday.jsonl`](data/black-friday.jsonl) | 1.06 MB |
+| | [`data/black-friday/sale.jsonl`](data/black-friday/sale.jsonl) | 1.07 MB |
 | **Christmas & Holiday** | 356 | |
 | | [`data/christmas/sale.jsonl`](data/christmas/sale.jsonl) | 0.16 MB |
 | | [`data/christmas/event.jsonl`](data/christmas/event.jsonl) | 0.13 MB |
 | | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.34 MB |
 | **Infographics** | 168 | |
-| | [`data/infographic.jsonl`](data/infographic.jsonl) | 0.77 MB |
+| | [`data/infographic/data-visualization.jsonl`](data/infographic/data-visualization.jsonl) | 0.77 MB |
 | **Product Thumbnails** | 1847 | |
 | | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 0.87 MB |
 | | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.08 MB |
@@ -54,8 +54,6 @@ version.
 | | [`data/gig-covers/writing-biz.jsonl`](data/gig-covers/writing-biz.jsonl) | 0.19 MB |
 | | [`data/gig-covers/photo-3d.jsonl`](data/gig-covers/photo-3d.jsonl) | 0.16 MB |
 | | [`data/gig-covers/general.jsonl`](data/gig-covers/general.jsonl) | 0.36 MB |
-| **Other Poster Designs** | 130 | |
-| | [`data/poster-designs.jsonl`](data/poster-designs.jsonl) | 0.28 MB |
 
 Each record looks like this:
 
@@ -89,12 +87,12 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Sales & Discounts](gallery/halloween/sale.md) | 109 (3p) |
 | | [Events & Parties](gallery/halloween/event.md) | 358 (9p) |
 | | [Greeting & Decor](gallery/halloween/atmosphere.md) | 126 (4p) |
-| **[Black Friday & Cyber Monday](gallery/black-friday.md)** | | 431 |
+| **[Black Friday & Cyber Monday](gallery/black-friday/sale.md)** | | 431 |
 | **Christmas & Holiday** | | 356 |
 | | [Sales & Discounts](gallery/christmas/sale.md) | 92 (3p) |
 | | [Events & Parties](gallery/christmas/event.md) | 73 (2p) |
 | | [Greeting & Decor](gallery/christmas/atmosphere.md) | 191 (5p) |
-| **[Infographics](gallery/infographic.md)** | | 168 |
+| **[Infographics](gallery/infographic/data-visualization.md)** | | 168 |
 | **Product Thumbnails** | | 1847 |
 | | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 395 (10p) |
 | | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 490 (13p) |
@@ -115,7 +113,6 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Writing & Business](gallery/gig-covers/writing-biz.md) | 69 (2p) |
 | | [Photo & 3D](gallery/gig-covers/photo-3d.md) | 59 (2p) |
 | | [General Services](gallery/gig-covers/general.md) | 131 (4p) |
-| **[Other Poster Designs](gallery/poster-designs.md)** | | 130 |
 
 Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3.md` and so on.
 

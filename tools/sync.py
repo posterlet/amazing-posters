@@ -153,14 +153,16 @@ BUCKETS = [
                ("event", "Events & Parties", EVENT_KW),
                ("atmosphere", "Greeting & Decor", None)]),
     dict(key="black-friday", theme="black friday sale", theme_slug="black-friday-sale-posters", name="Black Friday & Cyber Monday",
-         blurb="High-contrast discount posters built for peak sale season.", subs=None),
+         blurb="High-contrast discount posters built for peak sale season.",
+         single=("sale", "Sale Posters")),
     dict(key="christmas", theme="christmas", theme_slug="christmas-sale-and-event-poster-designs", name="Christmas & Holiday",
          blurb="Festive retail, greeting and event posters for the holiday season.",
          subs=[("sale", "Sales & Discounts", SALE_KW),
                ("event", "Events & Parties", EVENT_KW),
                ("atmosphere", "Greeting & Decor", None)]),
     dict(key="infographic", theme="infographic", theme_slug="infographic", name="Infographics",
-         blurb="Data storytelling layouts: process, comparison, timeline, anatomy.", subs=None),
+         blurb="Data storytelling layouts: process, comparison, timeline, anatomy.",
+         single=("data-visualization", "Data Visualization")),
     dict(key="product-thumbnails", theme="product thumbnail", theme_slug="product-thumbnails", name="Product Thumbnails",
          blurb="E-commerce main images and listing thumbnails on clean grounds.",
          subs=PRODUCT_SUBS),
@@ -320,13 +322,24 @@ def match(tags, keywords):
     return False
 
 
+def subs_of(bucket):
+    """Every collection is a directory, so every collection needs at least one sub.
+    Homogeneous ones (black friday, infographics) declare a `single` sub instead."""
+    if bucket.get("single"):
+        return [bucket["single"]]
+    return bucket.get("subs") or []
+
+
 def classify(theme_key, tags):
-    """theme_key is a posterlet theme slug (or legacy name) -> (bucket, sub, label)"""
+    """theme_key is a posterlet theme slug (or legacy name) -> (bucket, sub, label).
+    Assets with no theme are dropped: they belong to no collection."""
     key = str(theme_key or "").strip().lower()
     bucket = THEME_SLUG_MAP.get(key) or THEME_MAP.get(key)
     if bucket is None:
-        return FALLBACK["key"], None, None
-    subs = bucket.get("subs")
+        return None, None, None
+    if bucket.get("single"):
+        return bucket["key"], bucket["single"][0], bucket["single"][1]
+    subs = bucket.get("subs") or []
     if not subs:
         return bucket["key"], None, None
     for key, label, kws in subs:
@@ -357,11 +370,14 @@ def esc(t):
 
 
 def collect(rows):
+    kept = []
     for r in rows:
         r["_score"] = score(r)
         r["_bucket"], r["_sub"], r["_sub_label"] = classify(r["_theme"], r["tags"])
+        if r["_bucket"]:
+            kept.append(r)
     groups = defaultdict(list)
-    for r in rows:
+    for r in kept:
         groups[(r["_bucket"], r["_sub"])].append(r)
     for k in groups:
         groups[k].sort(key=lambda r: (-r["_score"], r["slug"]))
@@ -371,12 +387,9 @@ def collect(rows):
 def order_groups(groups):
     order = []
     for b in BUCKETS:
-        subs = [s[0] for s in b["subs"]] if b.get("subs") else [None]
-        for s in subs:
+        for s in [x[0] for x in subs_of(b)]:
             if (b["key"], s) in groups:
                 order.append((b["key"], s))
-    if (FALLBACK["key"], None) in groups:
-        order.append((FALLBACK["key"], None))
     return order
 
 
@@ -384,9 +397,12 @@ def order_groups(groups):
 def sub_name(bucket_key, sub):
     if sub is None:
         return BY_KEY.get(bucket_key, FALLBACK)["name"], None
-    for k, label, _kw in BY_KEY[bucket_key]["subs"]:
+    b = BY_KEY[bucket_key]
+    if b.get("single") and b["single"][0] == sub:
+        return b["name"], b["single"][1]
+    for k, label, _kw in (b.get("subs") or []):
         if k == sub:
-            return BY_KEY[bucket_key]["name"], label
+            return b["name"], label
     return bucket_key, sub.replace("-", " ").title()
 
 
@@ -542,10 +558,12 @@ def main():
     for bucket_key, sub, name, label, n, npages, rel in index:
         if bucket_key != cur:
             cur = bucket_key
-            tot = sum(x[4] for x in index if x[0] == bucket_key)
-            head = f"**[{name}]({rel})**" if sub is None else f"**{name}**"
+            here = [x for x in index if x[0] == bucket_key]
+            tot = sum(x[4] for x in here)
+            sole = len(here) == 1          # one sub -> link the collection row itself
+            head = f"**[{name}]({rel})**" if sole else f"**{name}**"
             lines.append(f"| {head} | | {tot} |")
-        if sub is not None:
+        if not sole:
             lines.append(f"| | [{label}]({rel}) | {n} ({npages}p) |")
     rows_md = "\n".join(lines)
 
