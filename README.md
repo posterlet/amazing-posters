@@ -1,4 +1,4 @@
-# amazing-posters
+# Amazing Posters — generated posters with the prompts behind them
 
 **4507 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.

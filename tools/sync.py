@@ -33,6 +33,7 @@ from collections import Counter, defaultdict
 SITE = "https://posterlet.com"
 CDN = "https://files.posterlet.com/assets/generated"
 REPO = "amazing-posters"
+HEADLINE = "Amazing Posters — generated posters with the prompts behind them"
 PAGE_SIZE = 40
 MIN_PROMPT = 40
 
@@ -641,7 +642,7 @@ def main():
     title_md, hero = title_strip(groups, order)
     hero_stem = os.path.splitext(hero["fileName"])[0]
     hero_slug = hero["slug"]
-    readme = f"""# {REPO}
+    readme = f"""# {HEADLINE}
 
 **{n_total} poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
