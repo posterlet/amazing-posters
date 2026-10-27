@@ -1,23 +1,73 @@
 # amazing-posters
 
-**250 production-grade poster prompt specs** — structured text-to-image prompts, each paired with a
+**4637 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-250-e02020)](data/posters.jsonl)
+[![](https://img.shields.io/badge/prompts-4637-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
-[![](https://files.posterlet.com/assets/generated/md/zjh4ho2izbhi.webp)](https://posterlet.com/poster/halloween-party-recap-social-poster)
+[![](https://files.posterlet.com/assets/generated/md/mroflsfmw2hu.webp)](https://posterlet.com/poster/bead-art-halloween-sale-pop-art-poster)
 
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 250
-of the specs behind its output — the exact text that produced each image, with no abridging — so you can see
-how layout, color, typography and subject are constrained separately, and copy the patterns into your own
-pipeline.
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4637
+of the specs behind its output — the exact text that produced each image — so you can see how layout,
+color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
-Each spec is written in English and split into sections, which is what makes the output reproducible:
+All prompt text lives in **[`data/`](data/)**, one JSON object per poster, split into one file per
+subcollection. The galleries below are the browsable index: every thumbnail links to the live, editable
+version.
+
+| Collection | Records | File size |
+|---|---|---|
+| **Halloween Posters** | 593 | |
+| | [`data/halloween/sale.jsonl`](data/halloween/sale.jsonl) | 0.20 MB |
+| | [`data/halloween/event.jsonl`](data/halloween/event.jsonl) | 0.66 MB |
+| | [`data/halloween/atmosphere.jsonl`](data/halloween/atmosphere.jsonl) | 0.23 MB |
+| **Black Friday & Cyber Monday** | 431 | |
+| | [`data/black-friday.jsonl`](data/black-friday.jsonl) | 1.06 MB |
+| **Christmas & Holiday** | 356 | |
+| | [`data/christmas/sale.jsonl`](data/christmas/sale.jsonl) | 0.16 MB |
+| | [`data/christmas/event.jsonl`](data/christmas/event.jsonl) | 0.13 MB |
+| | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.34 MB |
+| **Infographics** | 168 | |
+| | [`data/infographic.jsonl`](data/infographic.jsonl) | 0.77 MB |
+| **Product Thumbnails** | 1847 | |
+| | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 0.87 MB |
+| | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.08 MB |
+| | [`data/product-thumbnails/apparel.jsonl`](data/product-thumbnails/apparel.jsonl) | 0.36 MB |
+| | [`data/product-thumbnails/electronics.jsonl`](data/product-thumbnails/electronics.jsonl) | 0.27 MB |
+| | [`data/product-thumbnails/home-appliance.jsonl`](data/product-thumbnails/home-appliance.jsonl) | 0.30 MB |
+| | [`data/product-thumbnails/home-living.jsonl`](data/product-thumbnails/home-living.jsonl) | 0.11 MB |
+| | [`data/product-thumbnails/health.jsonl`](data/product-thumbnails/health.jsonl) | 0.13 MB |
+| | [`data/product-thumbnails/baby-kids.jsonl`](data/product-thumbnails/baby-kids.jsonl) | 0.16 MB |
+| | [`data/product-thumbnails/general.jsonl`](data/product-thumbnails/general.jsonl) | 0.79 MB |
+| **Gig Covers** | 1112 | |
+| | [`data/gig-covers/web-app.jsonl`](data/gig-covers/web-app.jsonl) | 0.91 MB |
+| | [`data/gig-covers/design-brand.jsonl`](data/gig-covers/design-brand.jsonl) | 0.54 MB |
+| | [`data/gig-covers/marketing-seo.jsonl`](data/gig-covers/marketing-seo.jsonl) | 0.28 MB |
+| | [`data/gig-covers/data-analytics.jsonl`](data/gig-covers/data-analytics.jsonl) | 0.20 MB |
+| | [`data/gig-covers/video-anim.jsonl`](data/gig-covers/video-anim.jsonl) | 0.12 MB |
+| | [`data/gig-covers/audio.jsonl`](data/gig-covers/audio.jsonl) | 0.23 MB |
+| | [`data/gig-covers/writing-biz.jsonl`](data/gig-covers/writing-biz.jsonl) | 0.19 MB |
+| | [`data/gig-covers/photo-3d.jsonl`](data/gig-covers/photo-3d.jsonl) | 0.16 MB |
+| | [`data/gig-covers/general.jsonl`](data/gig-covers/general.jsonl) | 0.36 MB |
+| **Other Poster Designs** | 130 | |
+| | [`data/poster-designs.jsonl`](data/poster-designs.jsonl) | 0.28 MB |
+
+Each record looks like this:
+
+```json
+{"slug": "...", "title": "...", "collection": "halloween", "subcollection": "sale",
+ "ratio": "9:16", "width": 1536, "height": 2752, "style": "3d", "tags": ["..."],
+ "prompt": "[Format] ... [Colors] ... [Layout] ...",
+ "image_md": ".../md/x.webp", "image_lg": "...", "image_full": "...",
+ "page": "https://posterlet.com/poster/..."}
+```
+
+Most specs are split into labelled sections, which is what makes the output reproducible:
 
 | Section | What it controls |
 |---|---|
@@ -33,26 +83,47 @@ whole-page diagram is easier to specify as one description than as independent b
 
 ## Galleries
 
-| Collection | Prompts |
-|---|---|
-| [Halloween Posters](gallery/halloween.md) | 39 |
-| [Black Friday & Cyber Monday](gallery/black-friday.md) | 39 |
-| [Christmas & Holiday](gallery/christmas.md) | 38 |
-| [Infographics](gallery/infographic.md) | 38 |
-| [Product Thumbnails](gallery/product-thumbnails.md) | 38 |
-| [Gig Covers](gallery/gig-covers.md) | 38 |
-| [Other Poster Designs](gallery/poster-designs.md) | 20 |
+| Collection | Subcollection | Prompts |
+|---|---|---|
+| **Halloween Posters** | | 593 |
+| | [Sales & Discounts](gallery/halloween/sale.md) | 109 (3p) |
+| | [Events & Parties](gallery/halloween/event.md) | 358 (9p) |
+| | [Greeting & Decor](gallery/halloween/atmosphere.md) | 126 (4p) |
+| **[Black Friday & Cyber Monday](gallery/black-friday.md)** | | 431 |
+| **Christmas & Holiday** | | 356 |
+| | [Sales & Discounts](gallery/christmas/sale.md) | 92 (3p) |
+| | [Events & Parties](gallery/christmas/event.md) | 73 (2p) |
+| | [Greeting & Decor](gallery/christmas/atmosphere.md) | 191 (5p) |
+| **[Infographics](gallery/infographic.md)** | | 168 |
+| **Product Thumbnails** | | 1847 |
+| | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 395 (10p) |
+| | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 490 (13p) |
+| | [Apparel & Accessories](gallery/product-thumbnails/apparel.md) | 169 (5p) |
+| | [Electronics](gallery/product-thumbnails/electronics.md) | 119 (3p) |
+| | [Home & Kitchen Appliances](gallery/product-thumbnails/home-appliance.md) | 133 (4p) |
+| | [Home & Living](gallery/product-thumbnails/home-living.md) | 49 (2p) |
+| | [Health & Wellness](gallery/product-thumbnails/health.md) | 57 (2p) |
+| | [Baby & Kids](gallery/product-thumbnails/baby-kids.md) | 73 (2p) |
+| | [General Products](gallery/product-thumbnails/general.md) | 362 (10p) |
+| **Gig Covers** | | 1112 |
+| | [Web & App Development](gallery/gig-covers/web-app.md) | 337 (9p) |
+| | [Design & Branding](gallery/gig-covers/design-brand.md) | 207 (6p) |
+| | [Marketing & SEO](gallery/gig-covers/marketing-seo.md) | 100 (3p) |
+| | [Data & Analytics](gallery/gig-covers/data-analytics.md) | 70 (2p) |
+| | [Video & Animation](gallery/gig-covers/video-anim.md) | 46 (2p) |
+| | [Audio & Podcast](gallery/gig-covers/audio.md) | 93 (3p) |
+| | [Writing & Business](gallery/gig-covers/writing-biz.md) | 69 (2p) |
+| | [Photo & 3D](gallery/gig-covers/photo-3d.md) | 59 (2p) |
+| | [General Services](gallery/gig-covers/general.md) | 131 (4p) |
+| **[Other Poster Designs](gallery/poster-designs.md)** | | 130 |
 
-Every image in a gallery links to its live page on [posterlet.com](https://posterlet.com), where you can view it full size,
-remix it as a template, or browse the same tags. Click a title to open that poster's full prompt in place.
+Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3.md` and so on.
 
 ## Linking to a single poster
 
-Each entry carries an anchor built from its slug, so any one poster can be cited directly:
-`gallery/halloween.md#halloween-party-recap-social-poster`.
+Every entry carries an anchor built from its slug, so any one poster can be cited directly:
 
-`data/posters.jsonl` holds the same 250 records as JSON lines — slug, title, ratio, tags, prompt, image
-URLs and page URL — if you want to load them programmatically instead of scraping the tables.
+`gallery/halloween/sale.md#bead-art-halloween-sale-pop-art-poster`
 
 ## Using these prompts
 
@@ -62,6 +133,11 @@ palette and subject are already pinned down by their own sections.
 
 Text rendering (headlines, prices, tags) is the usual failure point: keep quoted copy short, explicitly name
 the type style, and state the position twice — once in `[Layout]`, once in `[Headline]`.
+
+## Updates
+
+This repository is generated, never hand-edited. `tools/sync.py` pulls every public poster from the
+posterlet.com API and rebuilds the files; a scheduled GitHub Action re-runs it weekly.
 
 ## License
 
