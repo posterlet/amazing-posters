@@ -35,6 +35,23 @@ CDN = "https://files.posterlet.com/assets/generated"
 REPO = "amazing-posters"
 PAGE_SIZE = 40
 MIN_PROMPT = 40
+
+# One representative poster per collection, shown at the top of the README. Picked
+# by eye: each one has to stay legible at ~190px tall and actually look like its
+# collection. Groups are split so every row shares one height — mixed ratios in a
+# single row leave the short ones looking like afterthoughts.
+TITLE_PICKS = {
+    "halloween": "a-wondrous-halloween-night-poster",
+    "black-friday": "black-friday-annual-blowout-sale-poster",
+    "christmas": "3d-gingerbread-christmas-village-diorama-poster",
+    "product-thumbnails": "floating-teal-sneaker-on-clouds",
+    "infographic": "data-center-power-evolution",
+    "gig-covers": "minimal-logo-design-portfolio-showcase",
+}
+TITLE_ROWS = [
+    (300, ["halloween", "black-friday", "christmas"]),
+    (190, ["product-thumbnails", "infographic", "gig-covers"]),
+]
 UA = {"User-Agent": "amazing-posters-sync/1.0 (+https://posterlet.com)"}
 
 CI_WORKFLOW = """name: Sync posters
@@ -416,6 +433,43 @@ def dpath(bucket_key, sub):
     return f"data/{bucket_key}/{sub}.jsonl" if sub else f"data/{bucket_key}.jsonl"
 
 
+def title_strip(groups, order):
+    """One poster per collection, two rows, each row a single height.
+    Returns (markdown_block, record_used_as_example)."""
+    by_slug, first_of, first_sub = {}, {}, {}
+    for bucket_key, sub in order:
+        items = groups[(bucket_key, sub)]
+        for a in items:
+            by_slug.setdefault(a["slug"], a)
+        first_of.setdefault(bucket_key, items[0])
+        first_sub.setdefault(bucket_key, sub)
+
+    def attr(t):
+        return esc(t).replace('"', "&quot;")
+
+    out, example = [], None
+    for h, keys in TITLE_ROWS:
+        cells = []
+        for k in keys:
+            a = by_slug.get(TITLE_PICKS.get(k, "")) or first_of.get(k)
+            if a is None:
+                continue
+            if example is None:
+                example = a
+            n = sum(len(groups[x]) for x in order if x[0] == k)
+            rel = gpath(k, first_sub[k], 1)
+            stem = os.path.splitext(a["fileName"])[0]
+            alt = attr(f"{a['title']} — {reduce_ratio(a['width'], a['height'])} example poster")
+            cells.append(
+                f'<td align="center"><a href="{SITE}/poster/{a["slug"]}">'
+                f'<img src="{CDN}/md/{stem}.webp" height="{h}" alt="{alt}"></a><br>'
+                f'<sub><a href="{rel}">{esc(BY_KEY[k]["name"])}</a> · {n}</sub></td>')
+        if cells:
+            out.append('<div align="center">\n<table><tr>\n'
+                       + "\n".join(cells) + "\n</tr></table>\n</div>\n")
+    return "\n".join(out), example
+
+
 def write_gallery(bucket_key, sub, chunk, part, n_pages, total_sub):
     name, label = sub_name(bucket_key, sub)
     blurb = BY_KEY.get(bucket_key, FALLBACK)["blurb"]
@@ -581,6 +635,7 @@ def main():
     data_md = "\n".join(lines)
 
     hero = groups[order[0]][0]
+    title_md, hero = title_strip(groups, order)
     hero_stem = os.path.splitext(hero["fileName"])[0]
     hero_slug = hero["slug"]
     readme = f"""# {REPO}
@@ -592,7 +647,7 @@ finished example. Free to copy, adapt and ship.
 [![](https://img.shields.io/badge/prompts-{n_total}-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
-[![]({CDN}/md/{hero_stem}.webp)]({SITE}/poster/{hero_slug})
+{title_md}
 
 ## What this is
 

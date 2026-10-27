@@ -7,7 +7,22 @@ finished example. Free to copy, adapt and ship.
 [![](https://img.shields.io/badge/prompts-4507-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
-[![](https://files.posterlet.com/assets/generated/md/mroflsfmw2hu.webp)](https://posterlet.com/poster/bead-art-halloween-sale-pop-art-poster)
+<div align="center">
+<table><tr>
+<td align="center"><a href="https://posterlet.com/poster/a-wondrous-halloween-night-poster"><img src="https://files.posterlet.com/assets/generated/md/pz97eyiobynr.webp" height="300" alt="A Wondrous Halloween Night Poster — 9:16 example poster"></a><br><sub><a href="gallery/halloween/sale.md">Halloween Posters</a> · 593</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/black-friday-annual-blowout-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/z7hxi1q9fp3z.webp" height="300" alt="Black Friday Annual Blowout Sale Poster — 9:16 example poster"></a><br><sub><a href="gallery/black-friday/sale.md">Black Friday &amp; Cyber Monday</a> · 431</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="300" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/sale.md">Christmas &amp; Holiday</a> · 356</sub></td>
+</tr></table>
+</div>
+
+<div align="center">
+<table><tr>
+<td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/beauty.md">Product Thumbnails</a> · 1847</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/data-center-power-evolution"><img src="https://files.posterlet.com/assets/generated/md/uxzakhsy59qj.webp" height="190" alt="Data Center Power Evolution — 16:9 example poster"></a><br><sub><a href="gallery/infographic/data-visualization.md">Infographics</a> · 168</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/minimal-logo-design-portfolio-showcase"><img src="https://files.posterlet.com/assets/generated/md/u7m8vi2v5136.webp" height="190" alt="Minimal Logo Design Portfolio Showcase — 16:9 example poster"></a><br><sub><a href="gallery/gig-covers/web-app.md">Gig Covers</a> · 1112</sub></td>
+</tr></table>
+</div>
+
 
 ## What this is
 
@@ -121,7 +136,7 @@ Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3
 A poster's permanent URL is its posterlet.com page. The slug is the identifier, so the link stays valid
 however these files are re-split, re-ordered or re-paginated:
 
-`https://posterlet.com/poster/bead-art-halloween-sale-pop-art-poster`
+`https://posterlet.com/poster/a-wondrous-halloween-night-poster`
 
 Every thumbnail links there, and each record in `data/*.jsonl` exposes the same URL as `page`.
 
