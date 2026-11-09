@@ -256,9 +256,13 @@ def save_theme_map(path, owner):
 
 
 def fetch_assets(load=None, save=None, max_extra=6):
-    """`limit` is honoured but `page` is not: page N returns a fresh random slice,
-    so paging yields ~35% duplicates. One oversized limit gets everything, and if
-    the server ever caps it we top up with a few extra draws and dedupe by id."""
+    """One oversized `limit` gets the whole gallery (5000 is the server cap).
+
+    v1.5.11 fixed `page` — it used to return a fresh random slice every call, so
+    paging lost ~35% of rows and the old code topped up with extra draws. Paging
+    is deterministic now (`createdAt DESC, id DESC`), but a single 10 MB call is
+    still fewer round-trips than five pages, so the top-up loop stays as a
+    guard for the day the server caps `limit` below `total`."""
     if load and os.path.exists(load):
         rows = json.load(open(load, encoding="utf-8"))
         print(f"  cache {load}: {len(rows)} assets")
