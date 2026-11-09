@@ -43,6 +43,7 @@ MIN_PROMPT = 40
 # single row leave the short ones looking like afterthoughts.
 TITLE_PICKS = {
     "halloween": "halloween-event-schedule-infographic-poster",
+    "thanksgiving": "sunlit-thanksgiving-dinner-poster-with-glazed-turkey",
     "black-friday": "black-friday-annual-blowout-sale-poster",
     "christmas": "3d-gingerbread-christmas-village-diorama-poster",
     "product-thumbnails": "floating-teal-sneaker-on-clouds",
@@ -50,7 +51,7 @@ TITLE_PICKS = {
     "gig-covers": "full-stack-web-development-fiverr-gig-cover-2",
 }
 TITLE_ROWS = [
-    (300, ["halloween", "black-friday", "christmas"]),
+    (250, ["halloween", "thanksgiving", "black-friday", "christmas"]),
     (190, ["product-thumbnails", "infographic", "gig-covers"]),
 ]
 UA = {"User-Agent": "amazing-posters-sync/1.0 (+https://posterlet.com)"}
@@ -170,6 +171,11 @@ BUCKETS = [
          subs=[("sale", "Sales & Discounts", SALE_KW),
                ("event", "Events & Parties", EVENT_KW),
                ("atmosphere", "Greeting & Decor", None)]),
+    dict(key="thanksgiving", theme="thanksgiving", theme_slug="thanksgiving-poster-designs", name="Thanksgiving",
+         blurb="Gratitude, greeting and dinner-invite posters for the November harvest season.",
+         subs=[("sale", "Sales & Promotions", SALE_KW),
+               ("event", "Events & Invitations", EVENT_KW),
+               ("greeting", "Greeting & Gratitude", None)]),
     dict(key="black-friday", theme="black friday sale", theme_slug="black-friday-sale-posters", name="Black Friday & Cyber Monday",
          blurb="High-contrast discount posters built for peak sale season.",
          single=("sale", "Sale Posters")),
@@ -188,7 +194,7 @@ BUCKETS = [
          blurb="Marketplace service covers for freelancers and studios.", subs=GIG_SUBS),
 ]
 FALLBACK = dict(key="poster-designs", name="Other Poster Designs",
-                blurb="Campaign, brand and editorial posters outside the six main collections.")
+                blurb="Campaign, brand and editorial posters outside the seven main collections.")
 THEME_MAP = {b["theme"]: b for b in BUCKETS}
 THEME_SLUG_MAP = {b["theme_slug"]: b for b in BUCKETS}
 BY_KEY = {b["key"]: b for b in BUCKETS}
@@ -559,8 +565,23 @@ def main():
     else:
         print("fetching themes ...")
         owner = fetch_theme_members()
-        if args.theme_map and owner:
-            save_theme_map(args.theme_map, owner)
+        if args.theme_map:
+            # A theme whose slug changed shape server-side can join nothing
+            # (`gig cover` -> `fiverr-gig-cover` is a suffix, so the v1.5.11
+            # backfill skipped 1,112 rows and the theme reports total 0). Fill
+            # those ids from the last good snapshot instead of shipping a repo
+            # with a whole collection silently missing.
+            extra = 0
+            if os.path.exists(args.theme_map):
+                for aid, key in load_theme_map(args.theme_map).items():
+                    if aid in owner:
+                        continue
+                    b = THEME_SLUG_MAP.get(key) or THEME_MAP.get(key)
+                    owner[aid] = b["theme_slug"] if b else key
+                    extra += 1
+            print(f"  theme map gap-fill: +{extra} from {args.theme_map}")
+            if owner:
+                save_theme_map(args.theme_map, owner)
     print("fetching assets ...")
     rows, total = fetch_assets(load=args.cache if args.use_cache else None,
                                save=args.cache or None)
@@ -570,6 +591,7 @@ def main():
     groups = collect(rows)
     order = order_groups(groups)
     n_total = sum(len(groups[k]) for k in order)
+    n_fmt = f"{n_total:,}"   # 4771 -> 4,771; a bare 4-digit count reads as a year
     n_pages = sum(math.ceil(len(groups[k]) / PAGE_SIZE) for k in order)
     print(f"TOTAL={n_total} COLLECTIONS={len(order)} PAGES={n_pages}")
     for k in order:
@@ -644,11 +666,11 @@ def main():
     hero_slug = hero["slug"]
     readme = f"""# {HEADLINE}
 
-**{n_total} poster prompt specs** — the exact structured text behind each image, paired with the
+**{n_fmt} poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)]({SITE})
-[![](https://img.shields.io/badge/prompts-{n_total}-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-{n_fmt}-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 {title_md}
@@ -656,7 +678,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com]({SITE}) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes {n_total}
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes {n_fmt}
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 

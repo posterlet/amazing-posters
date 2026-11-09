@@ -1,8 +1,8 @@
 <h2>Black Friday & Cyber Monday — Sale Posters</h2>
 
-<p><b>Part 2 of 11</b> — 41–80 of 431 · [← Previous](sale.md) · [Next →](sale-3.md)</p>
+<p><b>Part 2 of 11</b> — 41–80 of 430 · [← Previous](sale.md) · [Next →](sale-3.md)</p>
 
-<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 431 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 430 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -204,11 +204,6 @@
 <div><sub>black friday · sale poster · e-commerce · promo</sub></div></td>
 </tr>
 <tr>
-<td valign="top" width="25%"><a id="black-friday-mega-sale-promotion"></a>
-<a href="https://posterlet.com/poster/black-friday-mega-sale-promotion"><img src="https://files.posterlet.com/assets/generated/md/0lcprug9rqys.webp" alt="Black Friday Mega Sale Promotion — 9:16 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Mega Sale Promotion</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-promotion">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · sale poster · e-commerce · shopping deal</sub></div></td>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-shopping-spree"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-shopping-spree"><img src="https://files.posterlet.com/assets/generated/md/cox5z0bk3qai.webp" alt="Black Friday Mega Sale Shopping Spree — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Shopping Spree</b></div>
@@ -224,6 +219,11 @@
 <div style="margin-top: 8px;"><b>Black Friday Neon Dinosaur Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-neon-dinosaur-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · neon · dinosaur mascot</sub></div></td>
+<td valign="top" width="25%"><a id="black-friday-neon-dollar-sale-poster"></a>
+<a href="https://posterlet.com/poster/black-friday-neon-dollar-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/y2qukvour9ao.webp" alt="Black Friday Neon Dollar Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Black Friday Neon Dollar Sale Poster</b></div>
+<div>3:7 · <a href="https://posterlet.com/poster/black-friday-neon-dollar-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>Black Friday · sale poster · neon cyberpunk · dollar sign</sub></div></td>
 </tr>
 </table>
 

@@ -1,11 +1,16 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 8 of 10</b> — 281–320 of 362 · [← Previous](general-7.md) · [Next →](general-9.md)</p>
+<p><b>Part 8 of 10</b> — 281–320 of 363 · [← Previous](general-7.md) · [Next →](general-9.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 362 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 363 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="loud-flash-sale-promotional-poster"></a>
+<a href="https://posterlet.com/poster/loud-flash-sale-promotional-poster"><img src="https://files.posterlet.com/assets/generated/md/1by5ljen1zr5.webp" alt="Loud Flash Sale Promotional Poster — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Loud Flash Sale Promotional Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/loud-flash-sale-promotional-poster">Open on posterlet.com →</a></div>
+<div><sub>flash sale · promotion poster · sale banner · coupon design</sub></div></td>
 <td valign="top" width="25%"><a id="luxurious-chinese-liquor-bottle-gift-set"></a>
 <a href="https://posterlet.com/poster/luxurious-chinese-liquor-bottle-gift-set"><img src="https://files.posterlet.com/assets/generated/md/54ve7vwf0u9i.webp" alt="Luxurious Chinese Liquor Bottle Gift Set — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxurious Chinese Liquor Bottle Gift Set</b></div>
@@ -21,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Men's Premium Electric Rotary Shaver</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mens-premium-electric-rotary-shaver">Open on posterlet.com →</a></div>
 <div><sub>electric shaver · men's grooming · rotary razor · premium shaver</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="mid-autumn-mooncake-festival-sale"></a>
 <a href="https://posterlet.com/poster/mid-autumn-mooncake-festival-sale"><img src="https://files.posterlet.com/assets/generated/md/1royd56slupb.webp" alt="Mid-Autumn Mooncake Festival Sale — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Mid-Autumn Mooncake Festival Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mid-autumn-mooncake-festival-sale">Open on posterlet.com →</a></div>
 <div><sub>mooncake · mid-autumn festival · chinese pastry · product photography</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="minimal-blue-white-membership-promo-product-image"></a>
 <a href="https://posterlet.com/poster/minimal-blue-white-membership-promo-product-image"><img src="https://files.posterlet.com/assets/generated/md/61jmiyid1aty.webp" alt="Minimal Blue White Membership Promo Product Image — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Minimal Blue White Membership Promo Product Image</b></div>
@@ -43,13 +48,13 @@
 <div style="margin-top: 8px;"><b>Natural Camellia Dish Soap Product Shot</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/natural-camellia-dish-soap-product-shot">Open on posterlet.com →</a></div>
 <div><sub>dish soap · camellia extract · kitchen cleaner · antibacterial</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="negative-ion-quick-dry-hair-dryer"></a>
 <a href="https://posterlet.com/poster/negative-ion-quick-dry-hair-dryer"><img src="https://files.posterlet.com/assets/generated/md/cyholfei441l.webp" alt="Negative-Ion Quick-Dry Hair Dryer — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Negative-Ion Quick-Dry Hair Dryer</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/negative-ion-quick-dry-hair-dryer">Open on posterlet.com →</a></div>
 <div><sub>hair dryer · negative ion · product image · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="new-9-series-rotary-shaver-pro"></a>
 <a href="https://posterlet.com/poster/new-9-series-rotary-shaver-pro"><img src="https://files.posterlet.com/assets/generated/md/7njkdtq21t8w.webp" alt="New 9 Series Rotary Shaver Pro — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New 9 Series Rotary Shaver Pro</b></div>
@@ -65,13 +70,13 @@
 <div style="margin-top: 8px;"><b>New Arrivals Tan Leather Heels</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/new-arrivals-tan-leather-heels">Open on posterlet.com →</a></div>
 <div><sub>heels · sandal · fashion · footwear</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="new-breathable-canvas-sneakers"></a>
 <a href="https://posterlet.com/poster/new-breathable-canvas-sneakers"><img src="https://files.posterlet.com/assets/generated/md/cztokfs1dxat.webp" alt="New Breathable Canvas Sneakers — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New Breathable Canvas Sneakers</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/new-breathable-canvas-sneakers">Open on posterlet.com →</a></div>
 <div><sub>sneakers · canvas shoes · white sneakers · breathable footwear</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="new-year-festive-sale-gift-box-banner"></a>
 <a href="https://posterlet.com/poster/new-year-festive-sale-gift-box-banner"><img src="https://files.posterlet.com/assets/generated/md/td99p2uertn3.webp" alt="New Year Festive Sale Gift Box Banner — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New Year Festive Sale Gift Box Banner</b></div>
@@ -87,13 +92,13 @@
 <div style="margin-top: 8px;"><b>Pamper Yourself — Luxury Journal Set</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/pamper-yourself-luxury-journal-set">Open on posterlet.com →</a></div>
 <div><sub>luxury journal · gold stationery · premium gift set · fountain pen</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="peace-lily-plant-sale"></a>
 <a href="https://posterlet.com/poster/peace-lily-plant-sale"><img src="https://files.posterlet.com/assets/generated/md/3jsz9kj6yf9h.webp" alt="Peace Lily Plant Sale — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Peace Lily Plant Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/peace-lily-plant-sale">Open on posterlet.com →</a></div>
 <div><sub>peace lily · potted plant · indoor plant · home garden</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="perfect-home-drill-multi-function-power-tool"></a>
 <a href="https://posterlet.com/poster/perfect-home-drill-multi-function-power-tool"><img src="https://files.posterlet.com/assets/generated/md/e4mxggnb9xqd.webp" alt="Perfect Home Drill – Multi-Function Power Tool — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Perfect Home Drill – Multi-Function Power Tool</b></div>
@@ -109,13 +114,13 @@
 <div style="margin-top: 8px;"><b>Precision Capacitive Stylus Pen — Special Price</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/precision-capacitive-stylus-pen-special-price">Open on posterlet.com →</a></div>
 <div><sub>stylus pen · capacitive pen · pressure-sensitive · digital accessory</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="precision-industrial-pulleys-factory-direct"></a>
 <a href="https://posterlet.com/poster/precision-industrial-pulleys-factory-direct"><img src="https://files.posterlet.com/assets/generated/md/ezywi8unjwrm.webp" alt="Precision Industrial Pulleys Factory Direct — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Precision Industrial Pulleys Factory Direct</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/precision-industrial-pulleys-factory-direct">Open on posterlet.com →</a></div>
 <div><sub>automotive pulley · industrial parts · alternator clutch pulley · factory direct</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-cotton-boxer-briefs-antibacterial-comfort"></a>
 <a href="https://posterlet.com/poster/premium-cotton-boxer-briefs-antibacterial-comfort"><img src="https://files.posterlet.com/assets/generated/md/zvhwn8lkcd39.webp" alt="Premium Cotton Boxer Briefs – Antibacterial Comfort — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Cotton Boxer Briefs – Antibacterial Comfort</b></div>
@@ -131,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Premium Fountain Pen Collection Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-fountain-pen-collection-poster">Open on posterlet.com →</a></div>
 <div><sub>fountain pens · premium stationery · Parker pens · teal design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-fountain-pen-promo-image"></a>
 <a href="https://posterlet.com/poster/premium-fountain-pen-promo-image"><img src="https://files.posterlet.com/assets/generated/md/llrzgrilox41.webp" alt="Premium Fountain Pen Promo Image — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Fountain Pen Promo Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-fountain-pen-promo-image">Open on posterlet.com →</a></div>
 <div><sub>fountain pen · promo · product image · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-mens-watch-on-peach-minimalist-pedestal"></a>
 <a href="https://posterlet.com/poster/premium-mens-watch-on-peach-minimalist-pedestal"><img src="https://files.posterlet.com/assets/generated/md/zjdm7zbj209h.webp" alt="Premium Men's Watch on Peach Minimalist Pedestal — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Men's Watch on Peach Minimalist Pedestal</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Premium Smartphone Deal Bundle with Gifts</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-smartphone-deal-bundle-with-gifts">Open on posterlet.com →</a></div>
 <div><sub>smartphone · deal · bundle · e-commerce</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-wireless-headphones-e-commerce-product-image"></a>
 <a href="https://posterlet.com/poster/premium-wireless-headphones-e-commerce-product-image"><img src="https://files.posterlet.com/assets/generated/md/i71e7c104pqe.webp" alt="Premium Wireless Headphones E-Commerce Product Image — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Wireless Headphones E-Commerce Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-wireless-headphones-e-commerce-product-image">Open on posterlet.com →</a></div>
 <div><sub>headphones · wireless headphones · product image · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-wireless-headphones-with-deep-noise-cancelling"></a>
 <a href="https://posterlet.com/poster/premium-wireless-headphones-with-deep-noise-cancelling"><img src="https://files.posterlet.com/assets/generated/md/7t24v1r0e80h.webp" alt="Premium Wireless Headphones with Deep Noise Cancelling — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Wireless Headphones with Deep Noise Cancelling</b></div>
@@ -175,13 +180,13 @@
 <div style="margin-top: 8px;"><b>Professional Aluminium Carbon Trekking Poles</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/professional-aluminium-carbon-trekking-poles">Open on posterlet.com →</a></div>
 <div><sub>trekking poles · hiking poles · outdoor gear · alpine hiking</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="purple-festival-clearance-shopping-event"></a>
 <a href="https://posterlet.com/poster/purple-festival-clearance-shopping-event"><img src="https://files.posterlet.com/assets/generated/md/hn5ra4nf92ue.webp" alt="Purple Festival Clearance Shopping Event — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Purple Festival Clearance Shopping Event</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/purple-festival-clearance-shopping-event">Open on posterlet.com →</a></div>
 <div><sub>shopping festival · cross-border e-commerce · duty-free sale · festival clearance</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="purple-skin-cashews-premium-roasted"></a>
 <a href="https://posterlet.com/poster/purple-skin-cashews-premium-roasted"><img src="https://files.posterlet.com/assets/generated/md/4p296lpes9wa.webp" alt="Purple Skin Cashews Premium Roasted — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Purple Skin Cashews Premium Roasted</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>Red Cordless Brushless Drill Promo Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/red-cordless-brushless-drill-promo-poster">Open on posterlet.com →</a></div>
 <div><sub>power tool · cordless drill · brushless motor · product advertisement</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="red-coupon-festival-sale-banner"></a>
 <a href="https://posterlet.com/poster/red-coupon-festival-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/8fr96vacpfaq.webp" alt="Red Coupon Festival Sale Banner — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Red Coupon Festival Sale Banner</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/red-coupon-festival-sale-banner">Open on posterlet.com →</a></div>
 <div><sub>coupon sale · discount banner · promo poster · gift box sale</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="red-hard-shell-suitcase-travel-ready"></a>
 <a href="https://posterlet.com/poster/red-hard-shell-suitcase-travel-ready"><img src="https://files.posterlet.com/assets/generated/md/l9di62n9tel9.webp" alt="Red Hard-Shell Suitcase Travel Ready — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Red Hard-Shell Suitcase Travel Ready</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Retro Trend Neon Sneaker Drop</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/retro-trend-neon-sneaker-drop">Open on posterlet.com →</a></div>
 <div><sub>retro sneakers · streetwear · neon grid · product image</sub></div></td>
-<td valign="top" width="25%"><a id="romantic-silver-watch-with-heart-price-seal"></a>
-<a href="https://posterlet.com/poster/romantic-silver-watch-with-heart-price-seal"><img src="https://files.posterlet.com/assets/generated/md/epda10e1llro.webp" alt="Romantic Silver Watch with Heart Price Seal — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Romantic Silver Watch with Heart Price Seal</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/romantic-silver-watch-with-heart-price-seal">Open on posterlet.com →</a></div>
-<div><sub>silver watch · women's wristwatch · romantic jewellery · product photography</sub></div></td>
 </tr>
 </table>
 

@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 4 of 10</b> — 121–160 of 362 · [← Previous](general-3.md) · [Next →](general-5.md)</p>
+<p><b>Part 4 of 10</b> — 121–160 of 363 · [← Previous](general-3.md) · [Next →](general-5.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 362 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 363 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

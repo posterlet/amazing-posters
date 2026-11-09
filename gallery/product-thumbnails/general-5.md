@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 5 of 10</b> — 161–200 of 362 · [← Previous](general-4.md) · [Next →](general-6.md)</p>
+<p><b>Part 5 of 10</b> — 161–200 of 363 · [← Previous](general-4.md) · [Next →](general-6.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 362 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 363 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -204,6 +204,11 @@
 <div><sub>boudoir lingerie · sale promotion · product thumbnail · lace bralette</sub></div></td>
 </tr>
 <tr>
+<td valign="top" width="25%"><a id="black-friday-mega-sale-promotion"></a>
+<a href="https://posterlet.com/poster/black-friday-mega-sale-promotion"><img src="https://files.posterlet.com/assets/generated/md/0lcprug9rqys.webp" alt="Black Friday Mega Sale Promotion — 9:16 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Black Friday Mega Sale Promotion</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-promotion">Open on posterlet.com →</a></div>
+<div><sub>Black Friday · sale poster · e-commerce · shopping deal</sub></div></td>
 <td valign="top" width="25%"><a id="black-mesh-running-sneakers-breathable-stylish"></a>
 <a href="https://posterlet.com/poster/black-mesh-running-sneakers-breathable-stylish"><img src="https://files.posterlet.com/assets/generated/md/9wpw1nh4s4t4.webp" alt="Black Mesh Running Sneakers - Breathable &amp; Stylish — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Mesh Running Sneakers - Breathable &amp; Stylish</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Black Sneakers Purple Gradient Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/black-sneakers-purple-gradient-promo">Open on posterlet.com →</a></div>
 <div><sub>sneakers · running shoes · product promo · e-commerce</sub></div></td>
-<td valign="top" width="25%"><a id="blue-coupon-promo-gift-card-design"></a>
-<a href="https://posterlet.com/poster/blue-coupon-promo-gift-card-design"><img src="https://files.posterlet.com/assets/generated/md/71b1d6n8tytl.webp" alt="Blue Coupon Promo Gift Card Design — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Blue Coupon Promo Gift Card Design</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/blue-coupon-promo-gift-card-design">Open on posterlet.com →</a></div>
-<div><sub>coupon · promo · e-commerce · sale</sub></div></td>
 </tr>
 </table>
 

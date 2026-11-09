@@ -1,16 +1,11 @@
 <h2>Black Friday & Cyber Monday — Sale Posters</h2>
 
-<p><b>Part 9 of 11</b> — 321–360 of 431 · [← Previous](sale-8.md) · [Next →](sale-10.md)</p>
+<p><b>Part 9 of 11</b> — 321–360 of 430 · [← Previous](sale-8.md) · [Next →](sale-10.md)</p>
 
-<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 431 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 430 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
-<td valign="top" width="25%"><a id="black-friday-mega-deals-incoming-sale-poster"></a>
-<a href="https://posterlet.com/poster/black-friday-mega-deals-incoming-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/ux36o3321o3g.webp" alt="Black Friday Mega Deals Incoming Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Mega Deals Incoming Sale Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-deals-incoming-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · sale poster · coupon · deal</sub></div></td>
 <td valign="top" width="25%"><a id="black-friday-mega-deals-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-deals-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/hugcc169c8jm.webp" alt="Black Friday Mega Deals Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Deals Sale Poster</b></div>
@@ -26,13 +21,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Deals Unleashed</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-deals-unleashed">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · shopping cart · 3D promo</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-event-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-event-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/x011o6900h47.webp" alt="Black Friday Mega Event Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Event Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-event-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · livestream</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-fest-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-fest-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/ia1gq0f79fe7.webp" alt="Black Friday Mega Fest Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Fest Sale Poster</b></div>
@@ -48,13 +43,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Giveaway 3D Sale Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-giveaway-3d-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>black friday · mega giveaway · 3D cartoon style · e-commerce sale</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-giveaway-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-giveaway-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/pqkam3a5yj0y.webp" alt="Black Friday Mega Giveaway Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Giveaway Sale Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-giveaway-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · e-commerce · mega giveaway</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-open-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-open-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/ns0y7oce27uj.webp" alt="Black Friday Mega Open Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Open Sale Poster</b></div>
@@ -70,13 +65,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Beauty Salon Promo</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/black-friday-mega-sale-beauty-salon-promo">Open on posterlet.com →</a></div>
 <div><sub>black friday · beauty salon · sale poster · mega sale</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-carnival"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-carnival"><img src="https://files.posterlet.com/assets/generated/md/kdr0mnfgu8cr.webp" alt="Black Friday Mega Sale Carnival — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Carnival</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-sale-carnival">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · e-commerce · discount</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-event"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-event"><img src="https://files.posterlet.com/assets/generated/md/9znnara15b18.webp" alt="Black Friday Mega Sale Event — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Event</b></div>
@@ -92,13 +87,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Live Stream Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-sale-live-stream-poster">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · live stream</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-neon-stage-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-neon-stage-poster"><img src="https://files.posterlet.com/assets/generated/md/ldijtireu65q.webp" alt="Black Friday MEGA SALE Neon Stage Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday MEGA SALE Neon Stage Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-sale-neon-stage-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · neon sign · e-commerce</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/8u8rd4a9ouu1.webp" alt="Black Friday Mega Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
@@ -114,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-2">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · e-commerce · ticket stub</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-poster-4"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-4"><img src="https://files.posterlet.com/assets/generated/md/1bsq1nq5d2jm.webp" alt="Black Friday Mega Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-4">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · livestream graphics</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-poster-5"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-5"><img src="https://files.posterlet.com/assets/generated/md/cmvzw7xidswk.webp" alt="Black Friday Mega Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
@@ -136,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-7">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · torn paper collage</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-poster-8"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-8"><img src="https://files.posterlet.com/assets/generated/md/obrjn0byo5el.webp" alt="Black Friday Mega Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-8">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · coupon cards · crayon style</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-poster-with-cute-3d-lamb-mascot"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-poster-with-cute-3d-lamb-mascot"><img src="https://files.posterlet.com/assets/generated/md/48p8azsu8plu.webp" alt="Black Friday Mega Sale Poster with Cute 3D Lamb Mascot — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Poster with Cute 3D Lamb Mascot</b></div>
@@ -158,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Shopping Cart</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-shopping-cart">Open on posterlet.com →</a></div>
 <div><sub>black friday · mega sale · shopping cart · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-week"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-week"><img src="https://files.posterlet.com/assets/generated/md/gqr7bo3f8w4p.webp" alt="Black Friday Mega Sale Week — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Week</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-week">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · discount</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-with-glowing-gift-bag"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-with-glowing-gift-bag"><img src="https://files.posterlet.com/assets/generated/md/77jq3b9mfw8h.webp" alt="Black Friday Mega Sale with Glowing Gift Bag — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale with Glowing Gift Bag</b></div>
@@ -180,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Mega Shop Sale Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-mega-shop-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · e-commerce · shopping cart</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-shopping-carnival-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-shopping-carnival-poster"><img src="https://files.posterlet.com/assets/generated/md/aka5o4ipq3zv.webp" alt="Black Friday Mega Shopping Carnival Poster — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Shopping Carnival Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-shopping-carnival-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · retro comic · pop art</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-member-carnival-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-member-carnival-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/064k4xyi2ptf.webp" alt="Black Friday Member Carnival Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Member Carnival Sale Poster</b></div>
@@ -202,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Black Friday Neon Cyber Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-neon-cyber-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · cyber sale · neon poster · chrome 3D</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-night-street-shopping-spree"></a>
 <a href="https://posterlet.com/poster/black-friday-night-street-shopping-spree"><img src="https://files.posterlet.com/assets/generated/md/cj391hq4qjw6.webp" alt="Black Friday Night Street Shopping Spree — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Night Street Shopping Spree</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-night-street-shopping-spree">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · e-commerce sale · coupon poster · neon red street</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="black-friday-opening-blitz-sale"></a>
 <a href="https://posterlet.com/poster/black-friday-opening-blitz-sale"><img src="https://files.posterlet.com/assets/generated/md/spb8uxwf0fvj.webp" alt="Black Friday Opening Blitz Sale — 3:7 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Opening Blitz Sale</b></div>
@@ -224,6 +219,11 @@
 <div style="margin-top: 8px;"><b>Black Friday Pre-Sale Blitz Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-pre-sale-blitz-poster">Open on posterlet.com →</a></div>
 <div><sub>black friday · sale poster · pre-sale · e-commerce</sub></div></td>
+<td valign="top" width="25%"><a id="black-friday-pre-sale-livestream-poster"></a>
+<a href="https://posterlet.com/poster/black-friday-pre-sale-livestream-poster"><img src="https://files.posterlet.com/assets/generated/md/ascvk0ksjep7.webp" alt="Black Friday Pre-Sale Livestream Poster — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Black Friday Pre-Sale Livestream Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/black-friday-pre-sale-livestream-poster">Open on posterlet.com →</a></div>
+<div><sub>Black Friday · livestream overlay · sale poster · e-commerce</sub></div></td>
 </tr>
 </table>
 
