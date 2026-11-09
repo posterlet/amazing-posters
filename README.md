@@ -1,16 +1,16 @@
 # Amazing Posters — generated posters with the prompts behind them
 
-**4,634 poster prompt specs** — the exact structured text behind each image, paired with the
+**4,725 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-4,634-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-4,725-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 <div align="center">
 <table><tr>
 <td align="center"><a href="https://posterlet.com/poster/halloween-event-schedule-infographic-poster"><img src="https://files.posterlet.com/assets/generated/md/joybnm2bsmkc.webp" height="250" alt="Halloween Event Schedule Infographic Poster — 9:16 example poster"></a><br><sub><a href="gallery/halloween/event.md">Halloween Posters</a> · 593</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 127</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 218</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/black-friday-annual-blowout-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/z7hxi1q9fp3z.webp" height="250" alt="Black Friday Annual Blowout Sale Poster — 9:16 example poster"></a><br><sub><a href="gallery/black-friday/sale.md">Black Friday &amp; Cyber Monday</a> · 430</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="250" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/atmosphere.md">Christmas &amp; Holiday</a> · 356</sub></td>
 </tr></table>
@@ -28,7 +28,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4,634
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4,725
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
@@ -42,10 +42,10 @@ version.
 | | [`data/halloween/sale.jsonl`](data/halloween/sale.jsonl) | 0.20 MB |
 | | [`data/halloween/event.jsonl`](data/halloween/event.jsonl) | 0.66 MB |
 | | [`data/halloween/atmosphere.jsonl`](data/halloween/atmosphere.jsonl) | 0.23 MB |
-| **Thanksgiving** | 127 | |
-| | [`data/thanksgiving/sale.jsonl`](data/thanksgiving/sale.jsonl) | 0.05 MB |
-| | [`data/thanksgiving/event.jsonl`](data/thanksgiving/event.jsonl) | 0.04 MB |
-| | [`data/thanksgiving/greeting.jsonl`](data/thanksgiving/greeting.jsonl) | 0.19 MB |
+| **Thanksgiving** | 218 | |
+| | [`data/thanksgiving/sale.jsonl`](data/thanksgiving/sale.jsonl) | 0.07 MB |
+| | [`data/thanksgiving/event.jsonl`](data/thanksgiving/event.jsonl) | 0.07 MB |
+| | [`data/thanksgiving/greeting.jsonl`](data/thanksgiving/greeting.jsonl) | 0.29 MB |
 | **Black Friday & Cyber Monday** | 430 | |
 | | [`data/black-friday/sale.jsonl`](data/black-friday/sale.jsonl) | 1.07 MB |
 | **Christmas & Holiday** | 356 | |
@@ -107,10 +107,10 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Sales & Discounts](gallery/halloween/sale.md) | 109 (3p) |
 | | [Events & Parties](gallery/halloween/event.md) | 358 (9p) |
 | | [Greeting & Decor](gallery/halloween/atmosphere.md) | 126 (4p) |
-| **Thanksgiving** | | 127 |
-| | [Sales & Promotions](gallery/thanksgiving/sale.md) | 24 (1p) |
-| | [Events & Invitations](gallery/thanksgiving/event.md) | 17 (1p) |
-| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 86 (3p) |
+| **Thanksgiving** | | 218 |
+| | [Sales & Promotions](gallery/thanksgiving/sale.md) | 36 (1p) |
+| | [Events & Invitations](gallery/thanksgiving/event.md) | 38 (1p) |
+| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 144 (4p) |
 | **[Black Friday & Cyber Monday](gallery/black-friday/sale.md)** | | 430 |
 | **Christmas & Holiday** | | 356 |
 | | [Sales & Discounts](gallery/christmas/sale.md) | 92 (3p) |
