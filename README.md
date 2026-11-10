@@ -1,10 +1,10 @@
 # Amazing Posters — generated posters with the prompts behind them
 
-**4,865 poster prompt specs** — the exact structured text behind each image, paired with the
+**4,875 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-4,865-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-4,875-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 <div align="center">
@@ -21,6 +21,7 @@ finished example. Free to copy, adapt and ship.
 <td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/apparel.md">Product Thumbnails</a> · 1848</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/data-center-power-evolution"><img src="https://files.posterlet.com/assets/generated/md/uxzakhsy59qj.webp" height="190" alt="Data Center Power Evolution — 16:9 example poster"></a><br><sub><a href="gallery/infographic/data-visualization.md">Infographics</a> · 168</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/full-stack-web-development-fiverr-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/x3c91athwgmi.webp" height="190" alt="Full-Stack Web Development Fiverr Gig Cover — 16:9 example poster"></a><br><sub><a href="gallery/gig-covers/web-app.md">Gig Covers</a> · 1112</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/build-in-flow-ai-native-editor-launch"><img src="https://files.posterlet.com/assets/generated/md/fef09rc0qrcs.webp" height="190" alt="Build in Flow AI Native Editor Launch — 16:9 example poster"></a><br><sub><a href="gallery/software-launch/launch.md">Software Launch Posters</a> · 10</sub></td>
 </tr></table>
 </div>
 
@@ -28,7 +29,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4,865
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4,875
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
@@ -74,6 +75,8 @@ version.
 | | [`data/gig-covers/writing-biz.jsonl`](data/gig-covers/writing-biz.jsonl) | 0.19 MB |
 | | [`data/gig-covers/photo-3d.jsonl`](data/gig-covers/photo-3d.jsonl) | 0.16 MB |
 | | [`data/gig-covers/general.jsonl`](data/gig-covers/general.jsonl) | 0.36 MB |
+| **Software Launch Posters** | 10 | |
+| | [`data/software-launch/launch.jsonl`](data/software-launch/launch.jsonl) | 0.03 MB |
 
 Each record looks like this:
 
@@ -137,6 +140,7 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Writing & Business](gallery/gig-covers/writing-biz.md) | 69 (2p) |
 | | [Photo & 3D](gallery/gig-covers/photo-3d.md) | 59 (2p) |
 | | [General Services](gallery/gig-covers/general.md) | 131 (4p) |
+| **[Software Launch Posters](gallery/software-launch/launch.md)** | | 10 |
 
 Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3.md` and so on.
 
