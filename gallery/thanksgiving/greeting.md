@@ -1,8 +1,8 @@
 <h2>Thanksgiving — Greeting & Gratitude</h2>
 
-<p><b>Part 1 of 5</b> — 1–40 of 186 · [Next →](greeting-2.md)</p>
+<p><b>Part 1 of 7</b> — 1–40 of 258 · [Next →](greeting-2.md)</p>
 
-<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 186 specs is in <a href="../../data/thanksgiving/greeting.jsonl">data/thanksgiving/greeting.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 258 specs is in <a href="../../data/thanksgiving/greeting.jsonl">data/thanksgiving/greeting.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -38,18 +38,23 @@
 <div style="margin-top: 8px;"><b>Autumn Thanksgiving Flat-Lay Banner</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/autumn-thanksgiving-flat-lay-banner">Open on posterlet.com →</a></div>
 <div><sub>Thanksgiving · flat lay · autumn produce · banner design</sub></div></td>
+<td valign="top" width="25%"><a id="autumn-thanksgiving-table-setting"></a>
+<a href="https://posterlet.com/poster/autumn-thanksgiving-table-setting"><img src="https://files.posterlet.com/assets/generated/md/f4bxu33wkie0.webp" alt="Autumn Thanksgiving Table Setting — 1:1 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Autumn Thanksgiving Table Setting</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/autumn-thanksgiving-table-setting">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · dinner · autumn · gratitude</sub></div></td>
 <td valign="top" width="25%"><a id="baked-with-love-thanksgiving-pie-poster"></a>
 <a href="https://posterlet.com/poster/baked-with-love-thanksgiving-pie-poster"><img src="https://files.posterlet.com/assets/generated/md/hmg46ajb4pjd.webp" alt="Baked With Love Thanksgiving Pie Poster — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Baked With Love Thanksgiving Pie Poster</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/baked-with-love-thanksgiving-pie-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · pie · baking · autumn</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="beauty-salon-grateful-social-post"></a>
 <a href="https://posterlet.com/poster/beauty-salon-grateful-social-post"><img src="https://files.posterlet.com/assets/generated/md/uwfqdir8x0ug.webp" alt="Beauty Salon Grateful Social Post — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Beauty Salon Grateful Social Post</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/beauty-salon-grateful-social-post">Open on posterlet.com →</a></div>
 <div><sub>beauty salon · social media post · gratitude campaign · free gift promotion</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="beauty-salon-thanksgiving-gift-packages"></a>
 <a href="https://posterlet.com/poster/beauty-salon-thanksgiving-gift-packages"><img src="https://files.posterlet.com/assets/generated/md/ki6d2ht8koe7.webp" alt="Beauty Salon Thanksgiving Gift Packages — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Beauty Salon Thanksgiving Gift Packages</b></div>
@@ -65,18 +70,30 @@
 <div style="margin-top: 8px;"><b>Botanical Thanksgiving Greeting Card Illustration</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/botanical-thanksgiving-greeting-card-illustration">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · greeting card · botanical illustration · hand drawn flowers</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="contemporary-thank-you-frosted-glass-poster"></a>
+<a href="https://posterlet.com/poster/contemporary-thank-you-frosted-glass-poster"><img src="https://files.posterlet.com/assets/generated/md/t2pqsbxolwlp.webp" alt="Contemporary Thank You Frosted Glass Poster — 3:4 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Contemporary Thank You Frosted Glass Poster</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/contemporary-thank-you-frosted-glass-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · frosted glass · thank you · minimalist</sub></div></td>
+<td valign="top" width="25%"><a id="contemporary-thanksgiving-gratitude-poster"></a>
+<a href="https://posterlet.com/poster/contemporary-thanksgiving-gratitude-poster"><img src="https://files.posterlet.com/assets/generated/md/4un7xubcjxrq.webp" alt="Contemporary Thanksgiving Gratitude Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Contemporary Thanksgiving Gratitude Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/contemporary-thanksgiving-gratitude-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · gratitude · contemporary poster · frosted glass</sub></div></td>
 <td valign="top" width="25%"><a id="cozy-knitted-flower-thanksgiving-poster"></a>
 <a href="https://posterlet.com/poster/cozy-knitted-flower-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/xdyk2rmi90r6.webp" alt="Cozy Knitted Flower Thanksgiving Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Knitted Flower Thanksgiving Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-knitted-flower-thanksgiving-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving poster · knitted flower · crochet bouquet · handmade textile</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cozy-thanksgiving-morning-in-bed"></a>
 <a href="https://posterlet.com/poster/cozy-thanksgiving-morning-in-bed"><img src="https://files.posterlet.com/assets/generated/md/q86as24822rj.webp" alt="Cozy Thanksgiving Morning in Bed — 4:3 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Thanksgiving Morning in Bed</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/cozy-thanksgiving-morning-in-bed">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · gratitude · breakfast in bed · autumn</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cream-thanksgiving-dinner-restaurant-banner"></a>
 <a href="https://posterlet.com/poster/cream-thanksgiving-dinner-restaurant-banner"><img src="https://files.posterlet.com/assets/generated/md/jm156i9epzpp.webp" alt="Cream Thanksgiving Dinner Restaurant Banner — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cream Thanksgiving Dinner Restaurant Banner</b></div>
@@ -92,13 +109,18 @@
 <div style="margin-top: 8px;"><b>Crystal Rose Meets Chrome Thankful Heart</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/crystal-rose-meets-chrome-thankful-heart">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving poster · crystal rose · robotic hand · futuristic warmth</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cuddly-thanksgiving-greeting-with-knitted-mascot"></a>
 <a href="https://posterlet.com/poster/cuddly-thanksgiving-greeting-with-knitted-mascot"><img src="https://files.posterlet.com/assets/generated/md/hfdk56mu9dw9.webp" alt="Cuddly Thanksgiving Greeting with Knitted Mascot — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cuddly Thanksgiving Greeting with Knitted Mascot</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cuddly-thanksgiving-greeting-with-knitted-mascot">Open on posterlet.com →</a></div>
 <div><sub>Thanksgiving · knitted mascot · plush toy · soft toy</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="cute-turkey-thanksgiving-poster"></a>
+<a href="https://posterlet.com/poster/cute-turkey-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/dw6rh5hl1mr4.webp" alt="Cute Turkey Thanksgiving Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cute Turkey Thanksgiving Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cute-turkey-thanksgiving-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · turkey · pie · fall</sub></div></td>
 <td valign="top" width="25%"><a id="dark-red-thanksgiving-feast-banner-with-roast-turkey"></a>
 <a href="https://posterlet.com/poster/dark-red-thanksgiving-feast-banner-with-roast-turkey"><img src="https://files.posterlet.com/assets/generated/md/ox8r4pger7ab.webp" alt="Dark Red Thanksgiving Feast Banner with Roast Turkey — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Dark Red Thanksgiving Feast Banner with Roast Turkey</b></div>
@@ -131,99 +153,77 @@
 <div style="margin-top: 8px;"><b>Dreamy Thanksgiving Heart Greeting</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/dreamy-thanksgiving-heart-greeting">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · grateful · heart · sunset</sub></div></td>
+<td valign="top" width="25%"><a id="elegant-frosted-glass-thanksgiving-gratitude-poster"></a>
+<a href="https://posterlet.com/poster/elegant-frosted-glass-thanksgiving-gratitude-poster"><img src="https://files.posterlet.com/assets/generated/md/yqtxhhxma715.webp" alt="Elegant Frosted Glass Thanksgiving Gratitude Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Frosted Glass Thanksgiving Gratitude Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/elegant-frosted-glass-thanksgiving-gratitude-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · gratitude · frosted glass · autumn design</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="elegant-gratitude-thanksgiving-typography-poster"></a>
+<a href="https://posterlet.com/poster/elegant-gratitude-thanksgiving-typography-poster"><img src="https://files.posterlet.com/assets/generated/md/up3t9jrsn5sa.webp" alt="Elegant Gratitude Thanksgiving Typography Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Gratitude Thanksgiving Typography Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/elegant-gratitude-thanksgiving-typography-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · gratitude · typography poster · minimalist design</sub></div></td>
+<td valign="top" width="25%"><a id="elegant-rose-thanksgiving-thank-you-floral-poster"></a>
+<a href="https://posterlet.com/poster/elegant-rose-thanksgiving-thank-you-floral-poster"><img src="https://files.posterlet.com/assets/generated/md/xcxythcym4ti.webp" alt="Elegant Rose Thanksgiving Thank You Floral Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Rose Thanksgiving Thank You Floral Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/elegant-rose-thanksgiving-thank-you-floral-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · rose bouquet · elegant floral · thank you poster</sub></div></td>
 <td valign="top" width="25%"><a id="elegant-thank-you-bouquet-poster"></a>
 <a href="https://posterlet.com/poster/elegant-thank-you-bouquet-poster"><img src="https://files.posterlet.com/assets/generated/md/ep6zyb8796ea.webp" alt="Elegant Thank You Bouquet Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Elegant Thank You Bouquet Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/elegant-thank-you-bouquet-poster">Open on posterlet.com →</a></div>
 <div><sub>thank you · bouquet · flowers · floral</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="elegant-thank-you-thanksgiving-greeting-card"></a>
 <a href="https://posterlet.com/poster/elegant-thank-you-thanksgiving-greeting-card"><img src="https://files.posterlet.com/assets/generated/md/hfhbm81vrqsy.webp" alt="Elegant Thank You Thanksgiving Greeting Card — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Elegant Thank You Thanksgiving Greeting Card</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/elegant-thank-you-thanksgiving-greeting-card">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving poster · thank you card · elegant greeting card · fall floral design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="elegant-thanksgiving-gratitude-velvet-poster"></a>
 <a href="https://posterlet.com/poster/elegant-thanksgiving-gratitude-velvet-poster"><img src="https://files.posterlet.com/assets/generated/md/4murbmwtmn1t.webp" alt="Elegant Thanksgiving Gratitude Velvet Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Elegant Thanksgiving Gratitude Velvet Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/elegant-thanksgiving-gratitude-velvet-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · gratitude · thank you · velvet texture</sub></div></td>
+<td valign="top" width="25%"><a id="elegant-thanksgiving-still-life-poster"></a>
+<a href="https://posterlet.com/poster/elegant-thanksgiving-still-life-poster"><img src="https://files.posterlet.com/assets/generated/md/v0dqbca12gnn.webp" alt="Elegant Thanksgiving Still Life Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Thanksgiving Still Life Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/elegant-thanksgiving-still-life-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · still life · dried grass · ceramic vase</sub></div></td>
 <td valign="top" width="25%"><a id="elegant-thanksgiving-thank-you-frosted-glass-poster"></a>
 <a href="https://posterlet.com/poster/elegant-thanksgiving-thank-you-frosted-glass-poster"><img src="https://files.posterlet.com/assets/generated/md/esp40sbyipnj.webp" alt="Elegant Thanksgiving Thank You Frosted Glass Poster — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Elegant Thanksgiving Thank You Frosted Glass Poster</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/elegant-thanksgiving-thank-you-frosted-glass-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · thank you · frosted glass · blush tones</sub></div></td>
+<td valign="top" width="25%"><a id="elegant-thanksgiving-thank-you-poster"></a>
+<a href="https://posterlet.com/poster/elegant-thanksgiving-thank-you-poster"><img src="https://files.posterlet.com/assets/generated/md/31js2sscmw5s.webp" alt="Elegant Thanksgiving Thank You Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Thanksgiving Thank You Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/elegant-thanksgiving-thank-you-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · typography · minimalist poster · gratitude</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="elegant-thanksgiving-typography-poster"></a>
+<a href="https://posterlet.com/poster/elegant-thanksgiving-typography-poster"><img src="https://files.posterlet.com/assets/generated/md/hu272oqwmjjn.webp" alt="Elegant Thanksgiving Typography Poster — 1:1 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Elegant Thanksgiving Typography Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/elegant-thanksgiving-typography-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · typography · poster · minimalist design</sub></div></td>
+<td valign="top" width="25%"><a id="farm-stand-thanksgiving-poster"></a>
+<a href="https://posterlet.com/poster/farm-stand-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/8tog0bd9p69l.webp" alt="Farm Stand Thanksgiving Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Farm Stand Thanksgiving Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/farm-stand-thanksgiving-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · farm stand · harvest · poster design</sub></div></td>
 <td valign="top" width="25%"><a id="felt-craft-thank-you-gratitude-poster"></a>
 <a href="https://posterlet.com/poster/felt-craft-thank-you-gratitude-poster"><img src="https://files.posterlet.com/assets/generated/md/a19o4dzx0ywh.webp" alt="Felt Craft Thank You Gratitude Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Felt Craft Thank You Gratitude Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/felt-craft-thank-you-gratitude-poster">Open on posterlet.com →</a></div>
 <div><sub>thank you · gratitude · thanksgiving · felt craft</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="finger-heart-thanksgiving-poster"></a>
 <a href="https://posterlet.com/poster/finger-heart-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/gna68fa28nae.webp" alt="Finger Heart Thanksgiving Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Finger Heart Thanksgiving Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/finger-heart-thanksgiving-poster">Open on posterlet.com →</a></div>
 <div><sub>Thanksgiving · finger heart · thankful · gratitude</sub></div></td>
-<td valign="top" width="25%"><a id="friends-celebrating-thanksgiving-together"></a>
-<a href="https://posterlet.com/poster/friends-celebrating-thanksgiving-together"><img src="https://files.posterlet.com/assets/generated/md/7i9fg4fnjols.webp" alt="Friends Celebrating Thanksgiving Together — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Friends Celebrating Thanksgiving Together</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/friends-celebrating-thanksgiving-together">Open on posterlet.com →</a></div>
-<div><sub>Thanksgiving · friendship · gratitude · autumn</sub></div></td>
-<td valign="top" width="25%"><a id="give-thanks-thanksgiving-typography-poster"></a>
-<a href="https://posterlet.com/poster/give-thanks-thanksgiving-typography-poster"><img src="https://files.posterlet.com/assets/generated/md/fx72bj47sf6w.webp" alt="Give Thanks Thanksgiving Typography Poster — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Give Thanks Thanksgiving Typography Poster</b></div>
-<div>21:9 · <a href="https://posterlet.com/poster/give-thanks-thanksgiving-typography-poster">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · typography poster · give thanks · season of gratitude</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-at-heart-thanksgiving-poster"></a>
-<a href="https://posterlet.com/poster/grateful-at-heart-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/8jum10os2bfv.webp" alt="Grateful at Heart Thanksgiving Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful at Heart Thanksgiving Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-at-heart-thanksgiving-poster">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · grateful · heart · hands</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="grateful-autumn-leaf-thanksgiving-card"></a>
-<a href="https://posterlet.com/poster/grateful-autumn-leaf-thanksgiving-card"><img src="https://files.posterlet.com/assets/generated/md/kjagt1ygudx7.webp" alt="Grateful Autumn Leaf Thanksgiving Card — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful Autumn Leaf Thanksgiving Card</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-autumn-leaf-thanksgiving-card">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · gratitude card · fall leaves · autumn design</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-customer-testimonial-star-badge-poster"></a>
-<a href="https://posterlet.com/poster/grateful-customer-testimonial-star-badge-poster"><img src="https://files.posterlet.com/assets/generated/md/qrddq00tiwxd.webp" alt="Grateful Customer Testimonial Star Badge Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful Customer Testimonial Star Badge Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-customer-testimonial-star-badge-poster">Open on posterlet.com →</a></div>
-<div><sub>testimonial · star badge · appreciation · trust</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-for-small-good-things-thanksgiving-coffee-poster"></a>
-<a href="https://posterlet.com/poster/grateful-for-small-good-things-thanksgiving-coffee-poster"><img src="https://files.posterlet.com/assets/generated/md/ggp3qjhpvcbp.webp" alt="Grateful for Small Good Things — Thanksgiving Coffee Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful for Small Good Things — Thanksgiving Coffee Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-for-small-good-things-thanksgiving-coffee-poster">Open on posterlet.com →</a></div>
-<div><sub>Thanksgiving · autumn poster · coffee illustration · cozy fall art</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-for-this-city-thanksgiving-night"></a>
-<a href="https://posterlet.com/poster/grateful-for-this-city-thanksgiving-night"><img src="https://files.posterlet.com/assets/generated/md/hk6ppfm2jfcn.webp" alt="Grateful For This City Thanksgiving Night — 21:9 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful For This City Thanksgiving Night</b></div>
-<div>21:9 · <a href="https://posterlet.com/poster/grateful-for-this-city-thanksgiving-night">Open on posterlet.com →</a></div>
-<div><sub>Thanksgiving · banner · navy blue · gold ribbons</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="grateful-for-you-thanksgiving-appreciation"></a>
-<a href="https://posterlet.com/poster/grateful-for-you-thanksgiving-appreciation"><img src="https://files.posterlet.com/assets/generated/md/ev8v6trjajin.webp" alt="Grateful for You Thanksgiving Appreciation — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful for You Thanksgiving Appreciation</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-for-you-thanksgiving-appreciation">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · gratitude · autumn bouquet · gift box</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-for-you-thanksgiving-family-poster"></a>
-<a href="https://posterlet.com/poster/grateful-for-you-thanksgiving-family-poster"><img src="https://files.posterlet.com/assets/generated/md/qaolyej23ndp.webp" alt="Grateful For You — Thanksgiving Family Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful For You — Thanksgiving Family Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-for-you-thanksgiving-family-poster">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving poster · family gratitude · burnt sienna design · glowing heart</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-for-you-vintage-typewriter-thanksgiving-card"></a>
-<a href="https://posterlet.com/poster/grateful-for-you-vintage-typewriter-thanksgiving-card"><img src="https://files.posterlet.com/assets/generated/md/c429usj1q43a.webp" alt="Grateful for You Vintage Typewriter Thanksgiving Card — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful for You Vintage Typewriter Thanksgiving Card</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-for-you-vintage-typewriter-thanksgiving-card">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving card · vintage typewriter · gratitude illustration · risograph print</sub></div></td>
-<td valign="top" width="25%"><a id="grateful-for-your-trust-real-estate-poster"></a>
-<a href="https://posterlet.com/poster/grateful-for-your-trust-real-estate-poster"><img src="https://files.posterlet.com/assets/generated/md/lqsc4mtgnlk7.webp" alt="Grateful For Your Trust Real Estate Poster — 9:16 Greeting &amp; Gratitude poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grateful For Your Trust Real Estate Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/grateful-for-your-trust-real-estate-poster">Open on posterlet.com →</a></div>
-<div><sub>real estate poster · gratitude poster · property branding · housewarming poster</sub></div></td>
 </tr>
 </table>
 

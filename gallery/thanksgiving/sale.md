@@ -1,6 +1,8 @@
 <h2>Thanksgiving — Sales & Promotions</h2>
 
-<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 40 specs is in <a href="../../data/thanksgiving/sale.jsonl">data/thanksgiving/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p><b>Part 1 of 2</b> — 1–40 of 44 · [Next →](sale-2.md)</p>
+
+<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 44 specs is in <a href="../../data/thanksgiving/sale.jsonl">data/thanksgiving/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -9,6 +11,11 @@
 <div style="margin-top: 8px;"><b>Bright Yellow Discount Banner 40% Off Storewide</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/bright-yellow-discount-banner-40-off-storewide">Open on posterlet.com →</a></div>
 <div><sub>sale · discount banner · typography · promotion</sub></div></td>
+<td valign="top" width="25%"><a id="country-inn-autumn-escape-poster"></a>
+<a href="https://posterlet.com/poster/country-inn-autumn-escape-poster"><img src="https://files.posterlet.com/assets/generated/md/cje0dgxw23rj.webp" alt="Country Inn Autumn Escape Poster — 4:3 Sales &amp; Promotions poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Country Inn Autumn Escape Poster</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/country-inn-autumn-escape-poster">Open on posterlet.com →</a></div>
+<div><sub>Thanksgiving · autumn · country inn · farmhouse</sub></div></td>
 <td valign="top" width="25%"><a id="elegant-blush-leather-handbag-thanksgiving-gift"></a>
 <a href="https://posterlet.com/poster/elegant-blush-leather-handbag-thanksgiving-gift"><img src="https://files.posterlet.com/assets/generated/md/kf05bxy854n6.webp" alt="Elegant Blush Leather Handbag Thanksgiving Gift — 3:4 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Elegant Blush Leather Handbag Thanksgiving Gift</b></div>
@@ -19,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Grateful Always ThankYou Plush Heart Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/grateful-always-thankyou-plush-heart-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · plush heart · grateful · thank you</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="ink-sketch-thanksgiving-heart-poster"></a>
 <a href="https://posterlet.com/poster/ink-sketch-thanksgiving-heart-poster"><img src="https://files.posterlet.com/assets/generated/md/b8z98x2dmuxj.webp" alt="Ink Sketch Thanksgiving Heart Poster — 3:4 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Ink Sketch Thanksgiving Heart Poster</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/ink-sketch-thanksgiving-heart-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · hand-drawn poster · heart illustration · ink sketch</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="last-chance-thanksgiving-sale-comic-promo"></a>
 <a href="https://posterlet.com/poster/last-chance-thanksgiving-sale-comic-promo"><img src="https://files.posterlet.com/assets/generated/md/2r9sjxpjl3xr.webp" alt="Last Chance Thanksgiving Sale Comic Promo — 1:1 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Last Chance Thanksgiving Sale Comic Promo</b></div>
@@ -41,13 +48,13 @@
 <div style="margin-top: 8px;"><b>Mother Child Flower Discount Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/mother-child-flower-discount-poster">Open on posterlet.com →</a></div>
 <div><sub>mother · child · flowers · bouquet</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="peaches-thanks-romantic-promo"></a>
 <a href="https://posterlet.com/poster/peaches-thanks-romantic-promo"><img src="https://files.posterlet.com/assets/generated/md/ytes5vfod0q1.webp" alt="Peaches &amp; Thanks Romantic Promo — 1:1 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Peaches &amp; Thanks Romantic Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/peaches-thanks-romantic-promo">Open on posterlet.com →</a></div>
 <div><sub>thank you promo · peach illustration · soft pink aesthetic · romantic gift card</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="pink-thanksgiving-gratitude-gift-poster"></a>
 <a href="https://posterlet.com/poster/pink-thanksgiving-gratitude-gift-poster"><img src="https://files.posterlet.com/assets/generated/md/mx53xl9vxt91.webp" alt="Pink Thanksgiving Gratitude Gift Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pink Thanksgiving Gratitude Gift Poster</b></div>
@@ -63,13 +70,13 @@
 <div style="margin-top: 8px;"><b>Retro 1960s Thanksgiving Harvest Event Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/retro-1960s-thanksgiving-harvest-event-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving poster · retro thanksgiving · vintage poster · harvest event</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="retro-american-thanksgiving-harvest-poster-design"></a>
 <a href="https://posterlet.com/poster/retro-american-thanksgiving-harvest-poster-design"><img src="https://files.posterlet.com/assets/generated/md/8ovvwe2hu3cf.webp" alt="Retro American Thanksgiving Harvest Poster Design — 21:9 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Retro American Thanksgiving Harvest Poster Design</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/retro-american-thanksgiving-harvest-poster-design">Open on posterlet.com →</a></div>
 <div><sub>retro thanksgiving poster · american thanksgiving · harvest sale · mid-century design</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="rich-maroon-thanksgiving-sale-banner"></a>
 <a href="https://posterlet.com/poster/rich-maroon-thanksgiving-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/ee9ginzh0hsr.webp" alt="Rich Maroon Thanksgiving Sale Banner — 21:9 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Rich Maroon Thanksgiving Sale Banner</b></div>
@@ -85,13 +92,13 @@
 <div style="margin-top: 8px;"><b>Thanksgiving Beauty Salon Self-Care Sale</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/thanksgiving-beauty-salon-self-care-sale">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving sale · beauty salon promo · skincare discount · self-care treatment</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thanksgiving-buttercream-cake-promotion"></a>
 <a href="https://posterlet.com/poster/thanksgiving-buttercream-cake-promotion"><img src="https://files.posterlet.com/assets/generated/md/yajip8shpv8l.webp" alt="Thanksgiving Buttercream Cake Promotion — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Buttercream Cake Promotion</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-buttercream-cake-promotion">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · buttercream cake · patisserie · autumn dessert</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-client-appreciation-exclusive"></a>
 <a href="https://posterlet.com/poster/thanksgiving-client-appreciation-exclusive"><img src="https://files.posterlet.com/assets/generated/md/jv5rx5448mhh.webp" alt="Thanksgiving Client Appreciation Exclusive — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Client Appreciation Exclusive</b></div>
@@ -107,13 +114,13 @@
 <div style="margin-top: 8px;"><b>Thanksgiving Gift Cards Festive Poster</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/thanksgiving-gift-cards-festive-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · gift cards · flat vector · greeting card</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thanksgiving-gift-sack-sale-poster"></a>
 <a href="https://posterlet.com/poster/thanksgiving-gift-sack-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/l4xtzdzlpwz8.webp" alt="Thanksgiving Gift Sack Sale Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Gift Sack Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-gift-sack-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · gift sale · holiday promotion · 3D render</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-gratitude-giveaway-promotion-sheet"></a>
 <a href="https://posterlet.com/poster/thanksgiving-gratitude-giveaway-promotion-sheet"><img src="https://files.posterlet.com/assets/generated/md/jmgq3x2yot2m.webp" alt="Thanksgiving Gratitude Giveaway Promotion Sheet — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Gratitude Giveaway Promotion Sheet</b></div>
@@ -129,33 +136,50 @@
 <div style="margin-top: 8px;"><b>Thanksgiving Mall Warm Gratitude Promotion</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-mall-warm-gratitude-promotion">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · mall promotion · grateful · amber warmth</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thanksgiving-rewards-promotion"></a>
 <a href="https://posterlet.com/poster/thanksgiving-rewards-promotion"><img src="https://files.posterlet.com/assets/generated/md/ma14isg3ajvn.webp" alt="Thanksgiving Rewards Promotion — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Rewards Promotion</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-rewards-promotion">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · promotion · red envelope · coupon</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-shop-window-autumn-poster"></a>
 <a href="https://posterlet.com/poster/thanksgiving-shop-window-autumn-poster"><img src="https://files.posterlet.com/assets/generated/md/uk6egpxs8dcx.webp" alt="Thanksgiving Shop Window Autumn Poster — 21:9 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Shop Window Autumn Poster</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/thanksgiving-shop-window-autumn-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · autumn · shop window · small business</sub></div></td>
+<td valign="top" width="25%"><a id="thanksgiving-thank-you-giveaway-poster"></a>
+<a href="https://posterlet.com/poster/thanksgiving-thank-you-giveaway-poster"><img src="https://files.posterlet.com/assets/generated/md/e2rsq7gzh724.webp" alt="Thanksgiving Thank You Giveaway Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Thanksgiving Thank You Giveaway Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-thank-you-giveaway-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · giveaway · posters · autumn sale</sub></div></td>
 <td valign="top" width="25%"><a id="3-days-to-thanksgiving-countdown-poster"></a>
 <a href="https://posterlet.com/poster/3-days-to-thanksgiving-countdown-poster"><img src="https://files.posterlet.com/assets/generated/md/xb7z96004i5q.webp" alt="3 Days to Thanksgiving Countdown Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>3 Days to Thanksgiving Countdown Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/3-days-to-thanksgiving-countdown-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving countdown · sale poster · limited time offer · holiday promotion</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="grateful-hearts-thanksgiving-celebration-poster"></a>
 <a href="https://posterlet.com/poster/grateful-hearts-thanksgiving-celebration-poster"><img src="https://files.posterlet.com/assets/generated/md/udxjr1yvzbfr.webp" alt="Grateful Hearts Thanksgiving Celebration Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Grateful Hearts Thanksgiving Celebration Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/grateful-hearts-thanksgiving-celebration-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · posters · event · retro</sub></div></td>
+<td valign="top" width="25%"><a id="thanksgiving-gift-cards-sale-poster"></a>
+<a href="https://posterlet.com/poster/thanksgiving-gift-cards-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/qa3539e97d7r.webp" alt="Thanksgiving Gift Cards Sale Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Thanksgiving Gift Cards Sale Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-gift-cards-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>Thanksgiving · gift cards · flat illustration · holiday promotion</sub></div></td>
 <td valign="top" width="25%"><a id="thanksgiving-treat-gift-banner"></a>
 <a href="https://posterlet.com/poster/thanksgiving-treat-gift-banner"><img src="https://files.posterlet.com/assets/generated/md/fh11zztj9m82.webp" alt="Thanksgiving Treat Gift Banner — 21:9 Sales &amp; Promotions poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Treat Gift Banner</b></div>
 <div>21:9 · <a href="https://posterlet.com/poster/thanksgiving-treat-gift-banner">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · retail banner · gift box · coral floral</sub></div></td>
+<td valign="top" width="25%"><a id="warm-harvest-weekend-market-poster"></a>
+<a href="https://posterlet.com/poster/warm-harvest-weekend-market-poster"><img src="https://files.posterlet.com/assets/generated/md/5sfi112l3jnr.webp" alt="Warm Harvest Weekend Market Poster — 3:4 Sales &amp; Promotions poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Warm Harvest Weekend Market Poster</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/warm-harvest-weekend-market-poster">Open on posterlet.com →</a></div>
+<div><sub>thanksgiving · harvest festival · farmers market · fall seasonal</sub></div></td>
 </tr>
 <tr>
 <td valign="top" width="25%"><a id="beauty-salon-gratitude-thank-you-offer"></a>
@@ -201,26 +225,6 @@
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-prize-giveaway">Open on posterlet.com →</a></div>
 <div><sub>giveaway · thanksgiving · prizes · promo</sub></div></td>
 </tr>
-<tr>
-<td valign="top" width="25%"><a id="thanksgiving-sale-poster-with-pumpkin-pie"></a>
-<a href="https://posterlet.com/poster/thanksgiving-sale-poster-with-pumpkin-pie"><img src="https://files.posterlet.com/assets/generated/md/zy09qrdrr7s7.webp" alt="Thanksgiving Sale Poster with Pumpkin Pie — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Thanksgiving Sale Poster with Pumpkin Pie</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-sale-poster-with-pumpkin-pie">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · thanksgiving sale · pumpkin pie · fall sale</sub></div></td>
-<td valign="top" width="25%"><a id="thanksgiving-watercolor-heart-coupon-poster"></a>
-<a href="https://posterlet.com/poster/thanksgiving-watercolor-heart-coupon-poster"><img src="https://files.posterlet.com/assets/generated/md/hh7lzane19xr.webp" alt="Thanksgiving Watercolor Heart Coupon Poster — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Thanksgiving Watercolor Heart Coupon Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-watercolor-heart-coupon-poster">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving · coupon · promotion · discount</sub></div></td>
-<td valign="top" width="25%"><a id="happy-thanksgiving-gift-unveiling-sale"></a>
-<a href="https://posterlet.com/poster/happy-thanksgiving-gift-unveiling-sale"><img src="https://files.posterlet.com/assets/generated/md/j84mb9f44d1l.webp" alt="Happy Thanksgiving Gift Unveiling Sale — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Happy Thanksgiving Gift Unveiling Sale</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/happy-thanksgiving-gift-unveiling-sale">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving sale · gift promotion · beauty deals · holiday offer</sub></div></td>
-<td valign="top" width="25%"><a id="thanksgiving-glow-beauty-clinic-offer"></a>
-<a href="https://posterlet.com/poster/thanksgiving-glow-beauty-clinic-offer"><img src="https://files.posterlet.com/assets/generated/md/3lxrjazv5h29.webp" alt="Thanksgiving Glow Beauty Clinic Offer — 9:16 Sales &amp; Promotions poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Thanksgiving Glow Beauty Clinic Offer</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-glow-beauty-clinic-offer">Open on posterlet.com →</a></div>
-<div><sub>thanksgiving sale · beauty clinic · cosmetic treatment · deep cleanse</sub></div></td>
-</tr>
 </table>
+
+<p>[Next →](sale-2.md)</p>
