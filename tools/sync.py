@@ -49,11 +49,11 @@ TITLE_PICKS = {
     "product-thumbnails": "floating-teal-sneaker-on-clouds",
     "infographic": "data-center-power-evolution",
     "gig-covers": "full-stack-web-development-fiverr-gig-cover-2",
-    "software-launch": "build-in-flow-ai-native-editor-launch",
+    "app-screenshots": "build-in-flow-ai-native-editor-launch",
 }
 TITLE_ROWS = [
     (250, ["halloween", "thanksgiving", "black-friday", "christmas"]),
-    (190, ["product-thumbnails", "infographic", "gig-covers", "software-launch"]),
+    (190, ["product-thumbnails", "infographic", "gig-covers", "app-screenshots"]),
 ]
 UA = {"User-Agent": "amazing-posters-sync/1.0 (+https://posterlet.com)"}
 
@@ -193,10 +193,14 @@ BUCKETS = [
          subs=PRODUCT_SUBS),
     dict(key="gig-covers", theme="gig cover", theme_slug="fiverr-gig-cover", name="Gig Covers",
          blurb="Marketplace service covers for freelancers and studios.", subs=GIG_SUBS),
-    dict(key="software-launch", theme="software launch", theme_slug="software-launch-posters",
-         name="Software Launch Posters",
-         blurb="Release announcements for dev tools, apps and changelogs: one oversized headline, one monospace line.",
-         single=("launch", "Launch & Release")),
+    # App Store screenshot design. One homogeneous bucket: no subcollection, the
+    # gallery page is the collection. The empty label keeps the page title as the
+    # collection name instead of "App Screenshots - App Screenshots".
+    dict(key="app-screenshots", theme="app screenshots", theme_slug="app-screenshots",
+         name="App Screenshots",
+         blurb="Store-listing screenshots for apps: one oversized headline, one device frame, "
+               "the interface abstracted to grey bars.",
+         single=("screenshots", "")),
 ]
 FALLBACK = dict(key="poster-designs", name="Other Poster Designs",
                 blurb="Campaign, brand and editorial posters outside the seven main collections.")
