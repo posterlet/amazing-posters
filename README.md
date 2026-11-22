@@ -1,10 +1,10 @@
 # Amazing Posters — generated posters with the prompts behind them
 
-**4,875 poster prompt specs** — the exact structured text behind each image, paired with the
+**6,318 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-4,875-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-6,318-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 <div align="center">
@@ -18,10 +18,10 @@ finished example. Free to copy, adapt and ship.
 
 <div align="center">
 <table><tr>
-<td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/apparel.md">Product Thumbnails</a> · 1848</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/apparel.md">Product Thumbnails</a> · 2613</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/data-center-power-evolution"><img src="https://files.posterlet.com/assets/generated/md/uxzakhsy59qj.webp" height="190" alt="Data Center Power Evolution — 16:9 example poster"></a><br><sub><a href="gallery/infographic/data-visualization.md">Infographics</a> · 168</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/full-stack-web-development-fiverr-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/x3c91athwgmi.webp" height="190" alt="Full-Stack Web Development Fiverr Gig Cover — 16:9 example poster"></a><br><sub><a href="gallery/gig-covers/web-app.md">Gig Covers</a> · 1112</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/build-in-flow-ai-native-editor-launch"><img src="https://files.posterlet.com/assets/generated/md/fef09rc0qrcs.webp" height="190" alt="Build in Flow AI Native Editor Launch — 16:9 example poster"></a><br><sub><a href="gallery/app-screenshots/screenshots.md">App Screenshots</a> · 10</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/build-in-flow-ai-native-editor-launch"><img src="https://files.posterlet.com/assets/generated/md/fef09rc0qrcs.webp" height="190" alt="Build in Flow AI Native Editor Launch — 16:9 example poster"></a><br><sub><a href="gallery/app-screenshots/screenshots.md">App Screenshots</a> · 688</sub></td>
 </tr></table>
 </div>
 
@@ -29,7 +29,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 4,875
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 6,318
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
@@ -55,16 +55,16 @@ version.
 | | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.35 MB |
 | **Infographics** | 168 | |
 | | [`data/infographic/data-visualization.jsonl`](data/infographic/data-visualization.jsonl) | 0.77 MB |
-| **Product Thumbnails** | 1848 | |
-| | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 0.87 MB |
-| | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.08 MB |
-| | [`data/product-thumbnails/apparel.jsonl`](data/product-thumbnails/apparel.jsonl) | 0.36 MB |
-| | [`data/product-thumbnails/electronics.jsonl`](data/product-thumbnails/electronics.jsonl) | 0.27 MB |
-| | [`data/product-thumbnails/home-appliance.jsonl`](data/product-thumbnails/home-appliance.jsonl) | 0.30 MB |
-| | [`data/product-thumbnails/home-living.jsonl`](data/product-thumbnails/home-living.jsonl) | 0.11 MB |
-| | [`data/product-thumbnails/health.jsonl`](data/product-thumbnails/health.jsonl) | 0.13 MB |
-| | [`data/product-thumbnails/baby-kids.jsonl`](data/product-thumbnails/baby-kids.jsonl) | 0.16 MB |
-| | [`data/product-thumbnails/general.jsonl`](data/product-thumbnails/general.jsonl) | 0.79 MB |
+| **Product Thumbnails** | 2613 | |
+| | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 1.36 MB |
+| | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.42 MB |
+| | [`data/product-thumbnails/apparel.jsonl`](data/product-thumbnails/apparel.jsonl) | 0.51 MB |
+| | [`data/product-thumbnails/electronics.jsonl`](data/product-thumbnails/electronics.jsonl) | 0.33 MB |
+| | [`data/product-thumbnails/home-appliance.jsonl`](data/product-thumbnails/home-appliance.jsonl) | 0.33 MB |
+| | [`data/product-thumbnails/home-living.jsonl`](data/product-thumbnails/home-living.jsonl) | 0.16 MB |
+| | [`data/product-thumbnails/health.jsonl`](data/product-thumbnails/health.jsonl) | 0.17 MB |
+| | [`data/product-thumbnails/baby-kids.jsonl`](data/product-thumbnails/baby-kids.jsonl) | 0.23 MB |
+| | [`data/product-thumbnails/general.jsonl`](data/product-thumbnails/general.jsonl) | 1.05 MB |
 | **Gig Covers** | 1112 | |
 | | [`data/gig-covers/web-app.jsonl`](data/gig-covers/web-app.jsonl) | 0.91 MB |
 | | [`data/gig-covers/design-brand.jsonl`](data/gig-covers/design-brand.jsonl) | 0.54 MB |
@@ -75,8 +75,8 @@ version.
 | | [`data/gig-covers/writing-biz.jsonl`](data/gig-covers/writing-biz.jsonl) | 0.19 MB |
 | | [`data/gig-covers/photo-3d.jsonl`](data/gig-covers/photo-3d.jsonl) | 0.16 MB |
 | | [`data/gig-covers/general.jsonl`](data/gig-covers/general.jsonl) | 0.36 MB |
-| **App Screenshots** | 10 | |
-| | [`data/app-screenshots/screenshots.jsonl`](data/app-screenshots/screenshots.jsonl) | 0.03 MB |
+| **App Screenshots** | 688 | |
+| | [`data/app-screenshots/screenshots.jsonl`](data/app-screenshots/screenshots.jsonl) | 2.43 MB |
 
 Each record looks like this:
 
@@ -120,16 +120,16 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Events & Parties](gallery/christmas/event.md) | 73 (2p) |
 | | [Greeting & Decor](gallery/christmas/atmosphere.md) | 191 (5p) |
 | **[Infographics](gallery/infographic/data-visualization.md)** | | 168 |
-| **Product Thumbnails** | | 1848 |
-| | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 395 (10p) |
-| | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 490 (13p) |
-| | [Apparel & Accessories](gallery/product-thumbnails/apparel.md) | 169 (5p) |
-| | [Electronics](gallery/product-thumbnails/electronics.md) | 119 (3p) |
-| | [Home & Kitchen Appliances](gallery/product-thumbnails/home-appliance.md) | 133 (4p) |
-| | [Home & Living](gallery/product-thumbnails/home-living.md) | 49 (2p) |
-| | [Health & Wellness](gallery/product-thumbnails/health.md) | 57 (2p) |
-| | [Baby & Kids](gallery/product-thumbnails/baby-kids.md) | 73 (2p) |
-| | [General Products](gallery/product-thumbnails/general.md) | 363 (10p) |
+| **Product Thumbnails** | | 2613 |
+| | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 648 (17p) |
+| | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 666 (17p) |
+| | [Apparel & Accessories](gallery/product-thumbnails/apparel.md) | 247 (7p) |
+| | [Electronics](gallery/product-thumbnails/electronics.md) | 150 (4p) |
+| | [Home & Kitchen Appliances](gallery/product-thumbnails/home-appliance.md) | 149 (4p) |
+| | [Home & Living](gallery/product-thumbnails/home-living.md) | 75 (2p) |
+| | [Health & Wellness](gallery/product-thumbnails/health.md) | 78 (2p) |
+| | [Baby & Kids](gallery/product-thumbnails/baby-kids.md) | 106 (3p) |
+| | [General Products](gallery/product-thumbnails/general.md) | 494 (13p) |
 | **Gig Covers** | | 1112 |
 | | [Web & App Development](gallery/gig-covers/web-app.md) | 337 (9p) |
 | | [Design & Branding](gallery/gig-covers/design-brand.md) | 207 (6p) |
@@ -140,7 +140,7 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Writing & Business](gallery/gig-covers/writing-biz.md) | 69 (2p) |
 | | [Photo & 3D](gallery/gig-covers/photo-3d.md) | 59 (2p) |
 | | [General Services](gallery/gig-covers/general.md) | 131 (4p) |
-| **[App Screenshots](gallery/app-screenshots/screenshots.md)** | | 10 |
+| **[App Screenshots](gallery/app-screenshots/screenshots.md)** | | 688 |
 
 Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3.md` and so on.
 

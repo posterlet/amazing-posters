@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Baby & Kids</h2>
 
-<p><b>Part 2 of 2</b> — 41–73 of 73 · [← Previous](baby-kids.md)</p>
+<p><b>Part 2 of 3</b> — 41–80 of 106 · [← Previous](baby-kids.md) · [Next →](baby-kids-3.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 73 specs is in <a href="../../data/product-thumbnails/baby-kids.jsonl">data/product-thumbnails/baby-kids.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 106 specs is in <a href="../../data/product-thumbnails/baby-kids.jsonl">data/product-thumbnails/baby-kids.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -175,13 +175,50 @@
 <div style="margin-top: 8px;"><b>Yunnan Baby Yellow Ginger</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/yunnan-baby-yellow-ginger">Open on posterlet.com →</a></div>
 <div><sub>ginger · yunnan ginger · baby ginger · fresh ginger</sub></div></td>
+<td valign="top" width="25%"><a id="insulated-kids-bottle-product-shot"></a>
+<a href="https://posterlet.com/poster/insulated-kids-bottle-product-shot"><img src="https://files.posterlet.com/assets/generated/md/3xif4rgcab28.webp" alt="Insulated Kids Bottle Product Shot — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Insulated Kids Bottle Product Shot</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/insulated-kids-bottle-product-shot">Open on posterlet.com →</a></div>
+<div><sub>kids water bottle · insulated thermos · children drinkware · double wall steel</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="insulated-kids-water-bottle-two-tone-design"></a>
+<a href="https://posterlet.com/poster/insulated-kids-water-bottle-two-tone-design"><img src="https://files.posterlet.com/assets/generated/md/3csesc2wwgw6.webp" alt="Insulated Kids Water Bottle Two-Tone Design — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Insulated Kids Water Bottle Two-Tone Design</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/insulated-kids-water-bottle-two-tone-design">Open on posterlet.com →</a></div>
+<div><sub>kids water bottle · insulated bottle · children drinkware · toddler bottle</sub></div></td>
+<td valign="top" width="25%"><a id="kids-insulated-water-bottle-pastel-catalog"></a>
+<a href="https://posterlet.com/poster/kids-insulated-water-bottle-pastel-catalog"><img src="https://files.posterlet.com/assets/generated/md/9v49lu8cctn9.webp" alt="Kids Insulated Water Bottle Pastel Catalog — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Kids Insulated Water Bottle Pastel Catalog</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/kids-insulated-water-bottle-pastel-catalog">Open on posterlet.com →</a></div>
+<div><sub>kids bottle · water bottle · insulated bottle · children</sub></div></td>
+<td valign="top" width="25%"><a id="kids-thermos-bottle-everyday-hydration"></a>
+<a href="https://posterlet.com/poster/kids-thermos-bottle-everyday-hydration"><img src="https://files.posterlet.com/assets/generated/md/9y0ponz27thz.webp" alt="Kids Thermos Bottle — Everyday Hydration — 3:4 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Kids Thermos Bottle — Everyday Hydration</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/kids-thermos-bottle-everyday-hydration">Open on posterlet.com →</a></div>
+<div><sub>kids thermos bottle · insulated water bottle · children drinkware · 316 stainless steel</sub></div></td>
+<td valign="top" width="25%"><a id="kids-thermos-bottle-product-shot"></a>
+<a href="https://posterlet.com/poster/kids-thermos-bottle-product-shot"><img src="https://files.posterlet.com/assets/generated/md/f8nxwxdf1z7q.webp" alt="Kids Thermos Bottle Product Shot — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Kids Thermos Bottle Product Shot</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/kids-thermos-bottle-product-shot">Open on posterlet.com →</a></div>
+<div><sub>kids thermos · insulated bottle · children drinkware · product photography</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="pastel-kids-water-bottle"></a>
+<a href="https://posterlet.com/poster/pastel-kids-water-bottle"><img src="https://files.posterlet.com/assets/generated/md/5eij141dkbif.webp" alt="Pastel Kids Water Bottle — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Pastel Kids Water Bottle</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/pastel-kids-water-bottle">Open on posterlet.com →</a></div>
+<div><sub>kids water bottle · insulated bottle · children drinkware · pastel bottle</sub></div></td>
+<td valign="top" width="25%"><a id="soft-blush-kids-thermos-bottle"></a>
+<a href="https://posterlet.com/poster/soft-blush-kids-thermos-bottle"><img src="https://files.posterlet.com/assets/generated/md/yt2axvfqwuky.webp" alt="Soft Blush Kids Thermos Bottle — 1:1 Baby &amp; Kids poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Soft Blush Kids Thermos Bottle</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/soft-blush-kids-thermos-bottle">Open on posterlet.com →</a></div>
+<div><sub>kids thermos · children bottle · nursery drinkware · pastel water bottle</sub></div></td>
 <td valign="top" width="25%"><a id="baby-pull-up-diaper-buy-2-save-10-offer"></a>
 <a href="https://posterlet.com/poster/baby-pull-up-diaper-buy-2-save-10-offer"><img src="https://files.posterlet.com/assets/generated/md/cl0mxto059ta.webp" alt="Baby Pull-Up Diaper Buy 2 Save 10 Offer — 1:1 Baby &amp; Kids poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Baby Pull-Up Diaper Buy 2 Save 10 Offer</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/baby-pull-up-diaper-buy-2-save-10-offer">Open on posterlet.com →</a></div>
 <div><sub>baby diaper · pull-up pants · baby care · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="japanese-imported-ultra-soft-diaper-pants"></a>
 <a href="https://posterlet.com/poster/japanese-imported-ultra-soft-diaper-pants"><img src="https://files.posterlet.com/assets/generated/md/bv60b0g4ucwr.webp" alt="Japanese Imported Ultra-Soft Diaper Pants — 1:1 Baby &amp; Kids poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Japanese Imported Ultra-Soft Diaper Pants</b></div>
@@ -189,3 +226,5 @@
 <div><sub>diaper · baby care · premium diaper · ultra soft</sub></div></td>
 </tr>
 </table>
+
+<p>[Next →](baby-kids-3.md)</p>

@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Food & Drink</h2>
 
-<p><b>Part 9 of 13</b> — 321–360 of 490 · [← Previous](food-drink-8.md) · [Next →](food-drink-10.md)</p>
+<p><b>Part 9 of 17</b> — 321–360 of 666 · [← Previous](food-drink-8.md) · [Next →](food-drink-10.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 490 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 666 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Beauty & Skincare</h2>
 
-<p><b>Part 10 of 10</b> — 361–395 of 395 · [← Previous](beauty-9.md)</p>
+<p><b>Part 10 of 17</b> — 361–400 of 648 · [← Previous](beauty-9.md) · [Next →](beauty-11.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 395 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 648 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -153,49 +153,78 @@
 <div style="margin-top: 8px;"><b>Nourishing Baking Ingredients — Scientifically Balanced Nutrition</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/nourishing-baking-ingredients-scientifically-balanced-nutrition">Open on posterlet.com →</a></div>
 <div><sub>wellness supplement · baking ingredients · nutritional jar · dried fruits</sub></div></td>
+<td valign="top" width="25%"><a id="beauty-event-tonight-eyeshadow-palette"></a>
+<a href="https://posterlet.com/poster/beauty-event-tonight-eyeshadow-palette"><img src="https://files.posterlet.com/assets/generated/md/4sbp660jcr5q.webp" alt="Beauty Event Tonight Eyeshadow Palette — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Beauty Event Tonight Eyeshadow Palette</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/beauty-event-tonight-eyeshadow-palette">Open on posterlet.com →</a></div>
+<div><sub>eyeshadow palette · beauty event · cosmetics · makeup palette</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="botanical-cosmetic-still-life"></a>
 <a href="https://posterlet.com/poster/botanical-cosmetic-still-life"><img src="https://files.posterlet.com/assets/generated/md/pf2wsrlp11yo.webp" alt="Botanical Cosmetic Still Life — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Botanical Cosmetic Still Life</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/botanical-cosmetic-still-life">Open on posterlet.com →</a></div>
 <div><sub>cosmetics · compact powder · driftwood · floral still life</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="botanical-yuzu-cleansing-lotion-duo"></a>
 <a href="https://posterlet.com/poster/botanical-yuzu-cleansing-lotion-duo"><img src="https://files.posterlet.com/assets/generated/md/g9bubeei9bqg.webp" alt="Botanical Yuzu Cleansing Lotion Duo — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Botanical Yuzu Cleansing Lotion Duo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/botanical-yuzu-cleansing-lotion-duo">Open on posterlet.com →</a></div>
 <div><sub>skincare · botanical cleanser · yuzu lotion · natural beauty</sub></div></td>
-<td valign="top" width="25%"><a id="mens-premium-skincare-serum-bottle"></a>
-<a href="https://posterlet.com/poster/mens-premium-skincare-serum-bottle"><img src="https://files.posterlet.com/assets/generated/md/v1vs1cm06xrt.webp" alt="Men's Premium Skincare Serum Bottle — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Men's Premium Skincare Serum Bottle</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/mens-premium-skincare-serum-bottle">Open on posterlet.com →</a></div>
-<div><sub>men skincare · premium serum · product photography · grooming essentials</sub></div></td>
-<td valign="top" width="25%"><a id="tropical-sunscreen-product-showcase"></a>
-<a href="https://posterlet.com/poster/tropical-sunscreen-product-showcase"><img src="https://files.posterlet.com/assets/generated/md/i4qkuc3mue6r.webp" alt="Tropical Sunscreen Product Showcase — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Tropical Sunscreen Product Showcase</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/tropical-sunscreen-product-showcase">Open on posterlet.com →</a></div>
-<div><sub>sunscreen · SPF 50+ · sun care · summer skincare</sub></div></td>
-<td valign="top" width="25%"><a id="deep-layer-moisture-lock-skincare-gift-set"></a>
-<a href="https://posterlet.com/poster/deep-layer-moisture-lock-skincare-gift-set"><img src="https://files.posterlet.com/assets/generated/md/3qniq0k4dzn6.webp" alt="Deep Layer Moisture Lock Skincare Gift Set — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Deep Layer Moisture Lock Skincare Gift Set</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/deep-layer-moisture-lock-skincare-gift-set">Open on posterlet.com →</a></div>
-<div><sub>skincare · sheet mask · gift set · moisturizing</sub></div></td>
+<td valign="top" width="25%"><a id="brushed-fleece-hoodie-cosy-weekend-product"></a>
+<a href="https://posterlet.com/poster/brushed-fleece-hoodie-cosy-weekend-product"><img src="https://files.posterlet.com/assets/generated/md/lyecgw3k9qv2.webp" alt="Brushed Fleece Hoodie Cosy Weekend Product — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Brushed Fleece Hoodie Cosy Weekend Product</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/brushed-fleece-hoodie-cosy-weekend-product">Open on posterlet.com →</a></div>
+<div><sub>hoodie · brushed fleece · cotton hoodie · cream hoodie</sub></div></td>
+<td valign="top" width="25%"><a id="buy-2-get-1-daily-cleanser-holiday-promo"></a>
+<a href="https://posterlet.com/poster/buy-2-get-1-daily-cleanser-holiday-promo"><img src="https://files.posterlet.com/assets/generated/md/xfx08t9xbmdh.webp" alt="Buy 2 Get 1 Daily Cleanser Holiday Promo — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Buy 2 Get 1 Daily Cleanser Holiday Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/buy-2-get-1-daily-cleanser-holiday-promo">Open on posterlet.com →</a></div>
+<div><sub>skincare sale · buy 2 get 1 free · daily cleanser · holiday promo</sub></div></td>
 </tr>
 <tr>
-<td valign="top" width="25%"><a id="super-soft-dual-use-beauty-blender-sponge"></a>
-<a href="https://posterlet.com/poster/super-soft-dual-use-beauty-blender-sponge"><img src="https://files.posterlet.com/assets/generated/md/pg1po95u3elg.webp" alt="Super Soft Dual-Use Beauty Blender Sponge — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Super Soft Dual-Use Beauty Blender Sponge</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/super-soft-dual-use-beauty-blender-sponge">Open on posterlet.com →</a></div>
-<div><sub>makeup sponge · beauty blender · gourd sponge · dual-use sponge</sub></div></td>
-<td valign="top" width="25%"><a id="bright-summer-sunscreen-promotion"></a>
-<a href="https://posterlet.com/poster/bright-summer-sunscreen-promotion"><img src="https://files.posterlet.com/assets/generated/md/5ng3921d9sw3.webp" alt="Bright Summer Sunscreen Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Bright Summer Sunscreen Promotion</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/bright-summer-sunscreen-promotion">Open on posterlet.com →</a></div>
-<div><sub>sunscreen · SPF45 · summer skincare · product photography</sub></div></td>
-<td valign="top" width="25%"><a id="mens-hand-cream-premium-product-shot"></a>
-<a href="https://posterlet.com/poster/mens-hand-cream-premium-product-shot"><img src="https://files.posterlet.com/assets/generated/md/4ebxcxenf7ry.webp" alt="Men's Hand Cream Premium Product Shot — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Men's Hand Cream Premium Product Shot</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/mens-hand-cream-premium-product-shot">Open on posterlet.com →</a></div>
-<div><sub>men's skincare · hand cream · product photography · grooming</sub></div></td>
+<td valign="top" width="25%"><a id="camel-wool-coat-winter-editorial-2"></a>
+<a href="https://posterlet.com/poster/camel-wool-coat-winter-editorial-2"><img src="https://files.posterlet.com/assets/generated/md/fr96rzdd3ftn.webp" alt="Camel Wool Coat Winter Editorial — 2:3 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Camel Wool Coat Winter Editorial</b></div>
+<div>2:3 · <a href="https://posterlet.com/poster/camel-wool-coat-winter-editorial-2">Open on posterlet.com →</a></div>
+<div><sub>wool coat · camel coat · cream coat · winter fashion</sub></div></td>
+<td valign="top" width="25%"><a id="clear-pores-oil-control-skincare-poster"></a>
+<a href="https://posterlet.com/poster/clear-pores-oil-control-skincare-poster"><img src="https://files.posterlet.com/assets/generated/md/4np5a6y6gl0o.webp" alt="Clear Pores Oil Control Skincare Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Clear Pores Oil Control Skincare Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/clear-pores-oil-control-skincare-poster">Open on posterlet.com →</a></div>
+<div><sub>skincare · pore care · oil control · beauty product</sub></div></td>
+<td valign="top" width="25%"><a id="cool-hydrating-eye-mask"></a>
+<a href="https://posterlet.com/poster/cool-hydrating-eye-mask"><img src="https://files.posterlet.com/assets/generated/md/8r6alhzvtjr4.webp" alt="Cool &amp; Hydrating Eye Mask — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cool &amp; Hydrating Eye Mask</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/cool-hydrating-eye-mask">Open on posterlet.com →</a></div>
+<div><sub>eye mask · sheet mask · skincare · hydration</sub></div></td>
+<td valign="top" width="25%"><a id="daily-glow-facial-cleansing-brush"></a>
+<a href="https://posterlet.com/poster/daily-glow-facial-cleansing-brush"><img src="https://files.posterlet.com/assets/generated/md/ds63dm8vazv8.webp" alt="Daily Glow Facial Cleansing Brush — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Daily Glow Facial Cleansing Brush</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/daily-glow-facial-cleansing-brush">Open on posterlet.com →</a></div>
+<div><sub>facial cleansing brush · skincare device · beauty tool · gentle exfoliation</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="daily-sun-serum-lightweight-waterproof-spf-50"></a>
+<a href="https://posterlet.com/poster/daily-sun-serum-lightweight-waterproof-spf-50"><img src="https://files.posterlet.com/assets/generated/md/4bxqyfl3xz1w.webp" alt="Daily Sun Serum Lightweight Waterproof SPF 50 — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Daily Sun Serum Lightweight Waterproof SPF 50</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/daily-sun-serum-lightweight-waterproof-spf-50">Open on posterlet.com →</a></div>
+<div><sub>sunscreen serum · SPF 50 · waterproof serum · skincare</sub></div></td>
+<td valign="top" width="25%"><a id="eye-cream-cosmetic-product-ad"></a>
+<a href="https://posterlet.com/poster/eye-cream-cosmetic-product-ad"><img src="https://files.posterlet.com/assets/generated/md/gfrkxhwlzvyr.webp" alt="Eye Cream Cosmetic Product Ad — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Eye Cream Cosmetic Product Ad</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/eye-cream-cosmetic-product-ad">Open on posterlet.com →</a></div>
+<div><sub>eye cream · skincare · beauty product · cosmetic</sub></div></td>
+<td valign="top" width="25%"><a id="fresh-clean-daily-protection-product-poster"></a>
+<a href="https://posterlet.com/poster/fresh-clean-daily-protection-product-poster"><img src="https://files.posterlet.com/assets/generated/md/frz90171wo9p.webp" alt="Fresh Clean Daily Protection Product Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Fresh Clean Daily Protection Product Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/fresh-clean-daily-protection-product-poster">Open on posterlet.com →</a></div>
+<div><sub>hand soap · body wash · product photography · hygiene</sub></div></td>
+<td valign="top" width="25%"><a id="gentle-cleanse-soft-skin-skincare-promotion"></a>
+<a href="https://posterlet.com/poster/gentle-cleanse-soft-skin-skincare-promotion"><img src="https://files.posterlet.com/assets/generated/md/ij2yao0wfc98.webp" alt="Gentle Cleanse Soft Skin Skincare Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Gentle Cleanse Soft Skin Skincare Promotion</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/gentle-cleanse-soft-skin-skincare-promotion">Open on posterlet.com →</a></div>
+<div><sub>skincare · cleanser · beauty products · pink gradient</sub></div></td>
 </tr>
 </table>
+
+<p>[Next →](beauty-11.md)</p>

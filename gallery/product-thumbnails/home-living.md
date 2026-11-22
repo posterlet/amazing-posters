@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Home & Living</h2>
 
-<p><b>Part 1 of 2</b> — 1–40 of 49 · [Next →](home-living-2.md)</p>
+<p><b>Part 1 of 2</b> — 1–40 of 75 · [Next →](home-living-2.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 49 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 75 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

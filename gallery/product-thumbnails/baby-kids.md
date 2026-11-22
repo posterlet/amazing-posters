@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Baby & Kids</h2>
 
-<p><b>Part 1 of 2</b> — 1–40 of 73 · [Next →](baby-kids-2.md)</p>
+<p><b>Part 1 of 3</b> — 1–40 of 106 · [Next →](baby-kids-2.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 73 specs is in <a href="../../data/product-thumbnails/baby-kids.jsonl">data/product-thumbnails/baby-kids.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 106 specs is in <a href="../../data/product-thumbnails/baby-kids.jsonl">data/product-thumbnails/baby-kids.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 9 of 10</b> — 321–360 of 363 · [← Previous](general-8.md) · [Next →](general-10.md)</p>
+<p><b>Part 9 of 13</b> — 321–360 of 494 · [← Previous](general-8.md) · [Next →](general-10.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 363 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -219,11 +219,11 @@
 <div style="margin-top: 8px;"><b>Sneakers Bold Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sneakers-bold-promo">Open on posterlet.com →</a></div>
 <div><sub>sneakers · running shoes · athletic footwear · product image</sub></div></td>
-<td valign="top" width="25%"><a id="festive-red-gold-holiday-gift-box-sale"></a>
-<a href="https://posterlet.com/poster/festive-red-gold-holiday-gift-box-sale"><img src="https://files.posterlet.com/assets/generated/md/xey0t7ek003q.webp" alt="Festive Red Gold Holiday Gift Box Sale — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Red Gold Holiday Gift Box Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/festive-red-gold-holiday-gift-box-sale">Open on posterlet.com →</a></div>
-<div><sub>holiday sale · new year promotion · gift box · e-commerce product image</sub></div></td>
+<td valign="top" width="25%"><a id="20v-hammer-drill-factory-direct"></a>
+<a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct"><img src="https://files.posterlet.com/assets/generated/md/zo737dp4i06m.webp" alt="20V Hammer Drill Factory Direct — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>20V Hammer Drill Factory Direct</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct">Open on posterlet.com →</a></div>
+<div><sub>hammer drill · cordless drill · rotary hammer · power tools</sub></div></td>
 </tr>
 </table>
 
