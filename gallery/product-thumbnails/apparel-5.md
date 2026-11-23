@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Apparel & Accessories</h2>
 
-<p><b>Part 5 of 7</b> — 161–200 of 247 · [← Previous](apparel-4.md) · [Next →](apparel-6.md)</p>
+<p><b>Part 5 of 7</b> — 161–200 of 251 · [← Previous](apparel-4.md) · [Next →](apparel-6.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 247 specs is in <a href="../../data/product-thumbnails/apparel.jsonl">data/product-thumbnails/apparel.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 251 specs is in <a href="../../data/product-thumbnails/apparel.jsonl">data/product-thumbnails/apparel.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

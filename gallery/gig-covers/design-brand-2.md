@@ -6,11 +6,6 @@
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
-<td valign="top" width="25%"><a id="custom-logo-animation-gig-cover-2"></a>
-<a href="https://posterlet.com/poster/custom-logo-animation-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/aka5i3ez1huu.webp" alt="Custom Logo Animation Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Custom Logo Animation Gig Cover</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/custom-logo-animation-gig-cover-2">Open on posterlet.com →</a></div>
-<div><sub>logo animation · gig cover · fiverr · intro video</sub></div></td>
 <td valign="top" width="25%"><a id="custom-logo-animation-gig-cover-3"></a>
 <a href="https://posterlet.com/poster/custom-logo-animation-gig-cover-3"><img src="https://files.posterlet.com/assets/generated/md/fc4tu4ioua5e.webp" alt="Custom Logo Animation Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Custom Logo Animation Gig Cover</b></div>
@@ -26,13 +21,13 @@
 <div style="margin-top: 8px;"><b>Dark Analytics Dashboard UI Overview</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/dark-analytics-dashboard-ui-overview">Open on posterlet.com →</a></div>
 <div><sub>dashboard · analytics · dark theme · data visualization</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="dark-luxury-stationery-with-gold-monogram"></a>
 <a href="https://posterlet.com/poster/dark-luxury-stationery-with-gold-monogram"><img src="https://files.posterlet.com/assets/generated/md/lztevhpg4rbt.webp" alt="Dark Luxury Stationery with Gold Monogram — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Dark Luxury Stationery with Gold Monogram</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/dark-luxury-stationery-with-gold-monogram">Open on posterlet.com →</a></div>
 <div><sub>luxury stationery · business card design · monogram · champagne gold</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="data-visualization-expert-dashboard-cover"></a>
 <a href="https://posterlet.com/poster/data-visualization-expert-dashboard-cover"><img src="https://files.posterlet.com/assets/generated/md/8iij9qpre8mi.webp" alt="Data Visualization Expert Dashboard Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Data Visualization Expert Dashboard Cover</b></div>
@@ -48,13 +43,13 @@
 <div style="margin-top: 8px;"><b>Develop Games in Unity — Vibrant Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/develop-games-in-unity-vibrant-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>Unity · game development · gig cover · promo poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="electric-blue-ar-tech-launch-board"></a>
 <a href="https://posterlet.com/poster/electric-blue-ar-tech-launch-board"><img src="https://files.posterlet.com/assets/generated/md/a3jjgvxwx3lc.webp" alt="Electric Blue AR Tech Launch Board — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Electric Blue AR Tech Launch Board</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/electric-blue-ar-tech-launch-board">Open on posterlet.com →</a></div>
 <div><sub>bento grid · AR headset · tech product launch · electric blue</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="electric-violet-tech-brand-style-guide-board"></a>
 <a href="https://posterlet.com/poster/electric-violet-tech-brand-style-guide-board"><img src="https://files.posterlet.com/assets/generated/md/rt13q5wp80t9.webp" alt="Electric Violet Tech Brand Style Guide Board — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Electric Violet Tech Brand Style Guide Board</b></div>
@@ -70,13 +65,13 @@
 <div style="margin-top: 8px;"><b>Emerald Green Brand Identity Board</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/emerald-green-brand-identity-board">Open on posterlet.com →</a></div>
 <div><sub>brand identity · bento grid · emerald green · dark mode</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="english-to-spanish-translation-services"></a>
 <a href="https://posterlet.com/poster/english-to-spanish-translation-services"><img src="https://files.posterlet.com/assets/generated/md/d2eq79gcm1d6.webp" alt="English to Spanish Translation Services — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>English to Spanish Translation Services</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/english-to-spanish-translation-services">Open on posterlet.com →</a></div>
 <div><sub>translation · English to Spanish · translator · gig cover</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="enterprise-analytics-dashboard-ui"></a>
 <a href="https://posterlet.com/poster/enterprise-analytics-dashboard-ui"><img src="https://files.posterlet.com/assets/generated/md/dft0lsi8t2z0.webp" alt="Enterprise Analytics Dashboard UI — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Enterprise Analytics Dashboard UI</b></div>
@@ -92,13 +87,13 @@
 <div style="margin-top: 8px;"><b>Fitness Brand Identity Mosaic</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/fitness-brand-identity-mosaic">Open on posterlet.com →</a></div>
 <div><sub>fitness brand · brand identity · gig cover · branding portfolio</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="food-brand-packaging-collection-mockup"></a>
 <a href="https://posterlet.com/poster/food-brand-packaging-collection-mockup"><img src="https://files.posterlet.com/assets/generated/md/yzllj22jparb.webp" alt="Food Brand Packaging Collection Mockup — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Food Brand Packaging Collection Mockup</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/food-brand-packaging-collection-mockup">Open on posterlet.com →</a></div>
 <div><sub>food packaging · product mockup · cookie pouches · nut butter jars</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="four-product-packages-on-black-studio-background"></a>
 <a href="https://posterlet.com/poster/four-product-packages-on-black-studio-background"><img src="https://files.posterlet.com/assets/generated/md/18m3q6yg5lgv.webp" alt="Four Product Packages on Black Studio Background — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Four Product Packages on Black Studio Background</b></div>
@@ -114,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Four-Season Brand Collage Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/four-season-brand-collage-poster">Open on posterlet.com →</a></div>
 <div><sub>brand identity · logo showcase · editorial poster · landscapes</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-up-your-day-juice-brand-style-guide"></a>
 <a href="https://posterlet.com/poster/fresh-up-your-day-juice-brand-style-guide"><img src="https://files.posterlet.com/assets/generated/md/h3seqvy296ao.webp" alt="Fresh Up Your Day Juice Brand Style Guide — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Up Your Day Juice Brand Style Guide</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/fresh-up-your-day-juice-brand-style-guide">Open on posterlet.com →</a></div>
 <div><sub>juice brand · style guide · brand identity · gig cover</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="full-stack-developer-fiverr-gig-cover-banner-2"></a>
 <a href="https://posterlet.com/poster/full-stack-developer-fiverr-gig-cover-banner-2"><img src="https://files.posterlet.com/assets/generated/md/qnhe7geawlti.webp" alt="Full Stack Developer Fiverr Gig Cover Banner — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Full Stack Developer Fiverr Gig Cover Banner</b></div>
@@ -136,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Glossy Cosmetic Range Product Photography</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/glossy-cosmetic-range-product-photography">Open on posterlet.com →</a></div>
 <div><sub>cosmetic · product photography · glossy · blush pink</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="gold-and-silver-lion-logo-spotlight"></a>
 <a href="https://posterlet.com/poster/gold-and-silver-lion-logo-spotlight"><img src="https://files.posterlet.com/assets/generated/md/gxs8urmxmmbv.webp" alt="Gold and Silver Lion Logo Spotlight — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Gold and Silver Lion Logo Spotlight</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/gold-and-silver-lion-logo-spotlight">Open on posterlet.com →</a></div>
 <div><sub>podcast cover · lion logo · gold foil · chrome</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="hand-drawn-market-research-doodle-cover"></a>
 <a href="https://posterlet.com/poster/hand-drawn-market-research-doodle-cover"><img src="https://files.posterlet.com/assets/generated/md/6utm9se1ru9c.webp" alt="Hand-Drawn Market Research Doodle Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Hand-Drawn Market Research Doodle Cover</b></div>
@@ -158,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Isometric Slide Mockups on Mint Field</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/isometric-slide-mockups-on-mint-field">Open on posterlet.com →</a></div>
 <div><sub>gig cover · isometric mockups · slide deck · mint green</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="killer-emails-gig-cover"></a>
 <a href="https://posterlet.com/poster/killer-emails-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/ztfyw3qv75c6.webp" alt="Killer Emails Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Killer Emails Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/killer-emails-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>email marketing · gig cover · sales copy · flat illustration</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="late-night-digital-creator"></a>
 <a href="https://posterlet.com/poster/late-night-digital-creator"><img src="https://files.posterlet.com/assets/generated/md/xg3vvihmoep5.webp" alt="Late Night Digital Creator — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Late Night Digital Creator</b></div>
@@ -180,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Lime Brand Mockup Board</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/lime-brand-mockup-board">Open on posterlet.com →</a></div>
 <div><sub>brand mockup · gig cover · bento grid · lime branding</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="logo-mockup-grid-gig-cover"></a>
 <a href="https://posterlet.com/poster/logo-mockup-grid-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/kid0bqowkwo6.webp" alt="Logo Mockup Grid Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Logo Mockup Grid Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/logo-mockup-grid-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>logo mockup · brand identity · graphic design · portfolio</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="long-form-video-editing-gig-cover"></a>
 <a href="https://posterlet.com/poster/long-form-video-editing-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/4vqovg6t8ikv.webp" alt="Long Form Video Editing Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Long Form Video Editing Gig Cover</b></div>
@@ -202,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Luxury Event Artists Brand Mockup</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/luxury-event-artists-brand-mockup">Open on posterlet.com →</a></div>
 <div><sub>brand identity · product mockup · business card · logo design</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="luxury-gold-foil-business-card-mockup"></a>
 <a href="https://posterlet.com/poster/luxury-gold-foil-business-card-mockup"><img src="https://files.posterlet.com/assets/generated/md/yk5i12po45h7.webp" alt="Luxury Gold Foil Business Card Mockup — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxury Gold Foil Business Card Mockup</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/luxury-gold-foil-business-card-mockup">Open on posterlet.com →</a></div>
 <div><sub>luxury · business card · gold foil · mockup</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="luxury-perfume-brand-identity-presentation"></a>
 <a href="https://posterlet.com/poster/luxury-perfume-brand-identity-presentation"><img src="https://files.posterlet.com/assets/generated/md/y09sga1g91cf.webp" alt="Luxury Perfume Brand Identity Presentation — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxury Perfume Brand Identity Presentation</b></div>
@@ -224,6 +219,11 @@
 <div style="margin-top: 8px;"><b>Make It Rain Money Not Wet Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/make-it-rain-money-not-wet-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · youtube thumbnail · retro meme · writing service</sub></div></td>
+<td valign="top" width="25%"><a id="market-research-professional-gig-cover"></a>
+<a href="https://posterlet.com/poster/market-research-professional-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/qu24qa554k71.webp" alt="Market Research Professional Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Market Research Professional Gig Cover</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/market-research-professional-gig-cover">Open on posterlet.com →</a></div>
+<div><sub>market research · business consultant · gig cover · professional portrait</sub></div></td>
 </tr>
 </table>
 

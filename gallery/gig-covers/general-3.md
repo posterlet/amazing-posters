@@ -1,16 +1,11 @@
 <h2>Gig Covers — General Services</h2>
 
-<p><b>Part 3 of 4</b> — 81–120 of 131 · [← Previous](general-2.md) · [Next →](general-4.md)</p>
+<p><b>Part 3 of 4</b> — 81–120 of 132 · [← Previous](general-2.md) · [Next →](general-4.md)</p>
 
-<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 131 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 132 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
-<td valign="top" width="25%"><a id="professional-sales-business-proposal-cover"></a>
-<a href="https://posterlet.com/poster/professional-sales-business-proposal-cover"><img src="https://files.posterlet.com/assets/generated/md/dy1shxdhdct6.webp" alt="Professional Sales &amp; Business Proposal Cover — 16:9 General Services poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Professional Sales &amp; Business Proposal Cover</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/professional-sales-business-proposal-cover">Open on posterlet.com →</a></div>
-<div><sub>fiverr gig cover · sales proposal · business services · professional portfolio</sub></div></td>
 <td valign="top" width="25%"><a id="professional-spanish-english-translator-cover"></a>
 <a href="https://posterlet.com/poster/professional-spanish-english-translator-cover"><img src="https://files.posterlet.com/assets/generated/md/zi8fnsb06jmu.webp" alt="Professional Spanish English Translator Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Spanish English Translator Cover</b></div>
@@ -26,13 +21,13 @@
 <div style="margin-top: 8px;"><b>Professional Video Editor Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/professional-video-editor-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>video editor · gig cover · thumbnail · Fiverr</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="professional-video-editor-gig-cover-2"></a>
 <a href="https://posterlet.com/poster/professional-video-editor-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/3zaqyw00qw28.webp" alt="Professional Video Editor Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Video Editor Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/professional-video-editor-gig-cover-2">Open on posterlet.com →</a></div>
 <div><sub>video editor · film editor · professional card · gig cover</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="professional-video-editor-portfolio-gig-cover"></a>
 <a href="https://posterlet.com/poster/professional-video-editor-portfolio-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/98bfw6drw9x9.webp" alt="Professional Video Editor Portfolio Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Video Editor Portfolio Gig Cover</b></div>
@@ -48,13 +43,13 @@
 <div style="margin-top: 8px;"><b>Professional Webinar Presentation Design</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/professional-webinar-presentation-design">Open on posterlet.com →</a></div>
 <div><sub>webinar · presentation design · online course · gig cover</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="quickbooks-online-training-course-cover"></a>
 <a href="https://posterlet.com/poster/quickbooks-online-training-course-cover"><img src="https://files.posterlet.com/assets/generated/md/l0d3y9j5bi2j.webp" alt="QuickBooks Online Training Course Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>QuickBooks Online Training Course Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/quickbooks-online-training-course-cover">Open on posterlet.com →</a></div>
 <div><sub>QuickBooks training · online course · accounting software · financial literacy</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="quickbooks-online-tutorial-guide"></a>
 <a href="https://posterlet.com/poster/quickbooks-online-tutorial-guide"><img src="https://files.posterlet.com/assets/generated/md/cmk2otoifkgj.webp" alt="QuickBooks Online Tutorial Guide — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>QuickBooks Online Tutorial Guide</b></div>
@@ -70,13 +65,13 @@
 <div style="margin-top: 8px;"><b>Raksha Bandhan Judiciary Course Sale</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/raksha-bandhan-judiciary-course-sale">Open on posterlet.com →</a></div>
 <div><sub>raksha bandhan · judiciary preparation · sale offer · law exam</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="react-developer-fiverr-gig-cover"></a>
 <a href="https://posterlet.com/poster/react-developer-fiverr-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/bu44de5gy79t.webp" alt="React Developer Fiverr Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>React Developer Fiverr Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/react-developer-fiverr-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>React Developer · Fiverr gig · web developer · ReactJs</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="red-road-bike-gig-cover-split-design"></a>
 <a href="https://posterlet.com/poster/red-road-bike-gig-cover-split-design"><img src="https://files.posterlet.com/assets/generated/md/g2m8ltgtv5th.webp" alt="Red Road Bike Gig Cover Split Design — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Red Road Bike Gig Cover Split Design</b></div>
@@ -92,13 +87,13 @@
 <div style="margin-top: 8px;"><b>Retro Pixel Street Scene with Skateboarding Pizza Mascot</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/retro-pixel-street-scene-with-skateboarding-pizza-mascot">Open on posterlet.com →</a></div>
 <div><sub>pixel art · 16-bit · retro game · indie game</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="scattered-pages-gig-cover"></a>
 <a href="https://posterlet.com/poster/scattered-pages-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/c1va2a2xqk81.webp" alt="Scattered Pages Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Scattered Pages Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/scattered-pages-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · flat lay · presentation pages · professional design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="selective-color-beauty-portrait-gig-cover"></a>
 <a href="https://posterlet.com/poster/selective-color-beauty-portrait-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/72m0y6uo2tw4.webp" alt="Selective Color Beauty Portrait Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Selective Color Beauty Portrait Gig Cover</b></div>
@@ -114,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Soft Pink App Showcase Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/soft-pink-app-showcase-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · app mockup · phone display · minimal design</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="sun-kissed-florida-beach-lifestyle-split"></a>
 <a href="https://posterlet.com/poster/sun-kissed-florida-beach-lifestyle-split"><img src="https://files.posterlet.com/assets/generated/md/o4b4qfbc72pq.webp" alt="Sun-Kissed Florida Beach Lifestyle Split — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sun-Kissed Florida Beach Lifestyle Split</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/sun-kissed-florida-beach-lifestyle-split">Open on posterlet.com →</a></div>
 <div><sub>beach lifestyle · split layout · summer vibes · Florida beach</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="warm-portrait-against-white-door"></a>
 <a href="https://posterlet.com/poster/warm-portrait-against-white-door"><img src="https://files.posterlet.com/assets/generated/md/3u1y5rwoqvhz.webp" alt="Warm Portrait Against White Door — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Warm Portrait Against White Door</b></div>
@@ -136,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Wedding Confetti Walk Toward Camera Joyful</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/wedding-confetti-walk-toward-camera-joyful">Open on posterlet.com →</a></div>
 <div><sub>wedding · confetti · bride · groom</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="business-process-infographic-collection-cover"></a>
 <a href="https://posterlet.com/poster/business-process-infographic-collection-cover"><img src="https://files.posterlet.com/assets/generated/md/8jo2wdnyxtui.webp" alt="Business Process Infographic Collection Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Business Process Infographic Collection Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/business-process-infographic-collection-cover">Open on posterlet.com →</a></div>
 <div><sub>business process · infographic · corporate cover · process diagram</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cinematic-rooftop-gig-cover-with-headline-overlay"></a>
 <a href="https://posterlet.com/poster/cinematic-rooftop-gig-cover-with-headline-overlay"><img src="https://files.posterlet.com/assets/generated/md/10sfu6yrxvsi.webp" alt="Cinematic rooftop gig cover with headline overlay — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cinematic rooftop gig cover with headline overlay</b></div>
@@ -158,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Financial Summary Report Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/financial-summary-report-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · financial report · spreadsheet mockup · business template</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="format-landscape-169-gig-cover-flat-black-poster-style-s"></a>
 <a href="https://posterlet.com/poster/format-landscape-169-gig-cover-flat-black-poster-style-s"><img src="https://files.posterlet.com/assets/generated/md/xcpqmv7z0gjr.webp" alt="[Format] Landscape 16:9 gig cover, flat black poster-style s — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Format] Landscape 16:9 gig cover, flat black poster-style s</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/format-landscape-169-gig-cover-flat-black-poster-style-s">Open on posterlet.com →</a></div>
 <div><sub></sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="format-landscape-169-gig-cover-glossy-deep-blue-promotio"></a>
 <a href="https://posterlet.com/poster/format-landscape-169-gig-cover-glossy-deep-blue-promotio"><img src="https://files.posterlet.com/assets/generated/md/oa6jyb27t5mv.webp" alt="[Format] Landscape 16:9 gig cover, glossy deep-blue promotio — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Format] Landscape 16:9 gig cover, glossy deep-blue promotio</b></div>
@@ -180,13 +175,23 @@
 <div style="margin-top: 8px;"><b>[Format] Landscape 16:9 gig cover, split photographic compos</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/format-landscape-169-gig-cover-split-photographic-compos">Open on posterlet.com →</a></div>
 <div><sub></sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="format-professional-fiverr-gig-cover-landscape-169-banne-2"></a>
 <a href="https://posterlet.com/poster/format-professional-fiverr-gig-cover-landscape-169-banne-2"><img src="https://files.posterlet.com/assets/generated/md/txjebqd2wamm.webp" alt="[Format] Professional Fiverr gig cover, landscape 16:9 banne — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Format] Professional Fiverr gig cover, landscape 16:9 banne</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/format-professional-fiverr-gig-cover-landscape-169-banne-2">Open on posterlet.com →</a></div>
 <div><sub></sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="online-english-tutor-gig-cover"></a>
+<a href="https://posterlet.com/poster/online-english-tutor-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/aj4s05c2iuhz.webp" alt="Online English Tutor Gig Cover — 16:9 General Services poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Online English Tutor Gig Cover</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/online-english-tutor-gig-cover">Open on posterlet.com →</a></div>
+<div><sub>English tutor · online lessons · ESL · language course</sub></div></td>
+<td valign="top" width="25%"><a id="online-english-tutor-gig-cover-2"></a>
+<a href="https://posterlet.com/poster/online-english-tutor-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/rhf1kfq3yuqk.webp" alt="Online English Tutor Gig Cover — 16:9 General Services poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Online English Tutor Gig Cover</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/online-english-tutor-gig-cover-2">Open on posterlet.com →</a></div>
+<div><sub>english tutor · online lessons · conversational english · business english</sub></div></td>
 <td valign="top" width="25%"><a id="custom-ai-agents-business-automation"></a>
 <a href="https://posterlet.com/poster/custom-ai-agents-business-automation"><img src="https://files.posterlet.com/assets/generated/md/zgre2u5bb98t.webp" alt="Custom AI Agents Business Automation — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Custom AI Agents Business Automation</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>E-Commerce Product Listing Showcase</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/e-commerce-product-listing-showcase">Open on posterlet.com →</a></div>
 <div><sub>e-commerce · product listing · Amazon A+ content · kitchen appliance</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-beauty-product-portrait-in-white-studio"></a>
 <a href="https://posterlet.com/poster/fresh-beauty-product-portrait-in-white-studio"><img src="https://files.posterlet.com/assets/generated/md/u5n1x2oc5jyk.webp" alt="Fresh Beauty Product Portrait in White Studio — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Beauty Product Portrait in White Studio</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/fresh-beauty-product-portrait-in-white-studio">Open on posterlet.com →</a></div>
 <div><sub>beauty · skincare · product portrait · orange tube</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="high-end-culinary-artistry"></a>
 <a href="https://posterlet.com/poster/high-end-culinary-artistry"><img src="https://files.posterlet.com/assets/generated/md/1c2tbxn4kjrg.webp" alt="HIGH-END CULINARY ARTISTRY — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>HIGH-END CULINARY ARTISTRY</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Nursery Lifestyle Photo Collage Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/nursery-lifestyle-photo-collage-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>nursery · baby photography · masonry collage · gig cover</sub></div></td>
-<td valign="top" width="25%"><a id="power-in-motion-sports-campaign-poster"></a>
-<a href="https://posterlet.com/poster/power-in-motion-sports-campaign-poster"><img src="https://files.posterlet.com/assets/generated/md/2nf851d16vdf.webp" alt="Power In Motion Sports Campaign Poster — 16:9 General Services poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Power In Motion Sports Campaign Poster</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/power-in-motion-sports-campaign-poster">Open on posterlet.com →</a></div>
-<div><sub>sports poster · event flyer · collage design · Nike campaign</sub></div></td>
 </tr>
 </table>
 

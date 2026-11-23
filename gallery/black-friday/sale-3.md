@@ -1,8 +1,8 @@
 <h2>Black Friday & Cyber Monday — Sale Posters</h2>
 
-<p><b>Part 3 of 11</b> — 81–120 of 430 · [← Previous](sale-2.md) · [Next →](sale-4.md)</p>
+<p><b>Part 3 of 14</b> — 81–120 of 523 · [← Previous](sale-2.md) · [Next →](sale-4.md)</p>
 
-<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 430 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 523 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -165,6 +165,45 @@
 <div style="margin-top: 8px;"><b>Sweet &amp; Cool Black Friday Neon Sale</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/sweet-cool-black-friday-neon-sale">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · neon poster · retro sale · e-commerce banner</sub></div></td>
+<td valign="top" width="25%"><a id="1111-beauty-stock-up-sale-poster"></a>
+<a href="https://posterlet.com/poster/1111-beauty-stock-up-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/b4sf9kxd8y5u.webp" alt="11.11 Beauty Stock Up Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>11.11 Beauty Stock Up Sale Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/1111-beauty-stock-up-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>beauty sale · skincare poster · 11.11 promotion · cosmetics discount</sub></div></td>
+<td valign="top" width="25%"><a id="1111-editorial-womenswear-sale-poster"></a>
+<a href="https://posterlet.com/poster/1111-editorial-womenswear-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/y65xfhuyh6wb.webp" alt="11.11 Editorial Womenswear Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>11.11 Editorial Womenswear Sale Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/1111-editorial-womenswear-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>womenswear · 11.11 sale · fashion promo · editorial poster</sub></div></td>
+<td valign="top" width="25%"><a id="1111-winter-fashion-sale-poster"></a>
+<a href="https://posterlet.com/poster/1111-winter-fashion-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/qtmpx5t7jk5g.webp" alt="11.11 Winter Fashion Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>11.11 Winter Fashion Sale Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/1111-winter-fashion-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>sale poster · winter fashion · e-commerce promotion · receipt design</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="art-deco-winter-fashion-sale-poster"></a>
+<a href="https://posterlet.com/poster/art-deco-winter-fashion-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/dkc5b826hph2.webp" alt="Art Deco Winter Fashion Sale Poster — 2:3 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Winter Fashion Sale Poster</b></div>
+<div>2:3 · <a href="https://posterlet.com/poster/art-deco-winter-fashion-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>winter sale · art deco poster · fashion promotion · sage green design</sub></div></td>
+<td valign="top" width="25%"><a id="art-deco-winter-home-goods-sale-banner"></a>
+<a href="https://posterlet.com/poster/art-deco-winter-home-goods-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/8mjzoll23l3u.webp" alt="Art Deco Winter Home Goods Sale Banner — 16:9 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Winter Home Goods Sale Banner</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/art-deco-winter-home-goods-sale-banner">Open on posterlet.com →</a></div>
+<div><sub>home goods sale · winter promotion · ceramic vases · art deco design</sub></div></td>
+<td valign="top" width="25%"><a id="autumn-edit-new-arrivals-fashion-poster"></a>
+<a href="https://posterlet.com/poster/autumn-edit-new-arrivals-fashion-poster"><img src="https://files.posterlet.com/assets/generated/md/vwy4lybds7u0.webp" alt="Autumn Edit New Arrivals Fashion Poster — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Autumn Edit New Arrivals Fashion Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/autumn-edit-new-arrivals-fashion-poster">Open on posterlet.com →</a></div>
+<div><sub>autumn fashion · new arrivals · fashion poster · editorial design</sub></div></td>
+<td valign="top" width="25%"><a id="autumn-fashion-collection-sale"></a>
+<a href="https://posterlet.com/poster/autumn-fashion-collection-sale"><img src="https://files.posterlet.com/assets/generated/md/45hifzypotq7.webp" alt="Autumn Fashion Collection Sale — 9:16 Sale Posters poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Autumn Fashion Collection Sale</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/autumn-fashion-collection-sale">Open on posterlet.com →</a></div>
+<div><sub>autumn fashion · winter coat sale · fashion poster · seasonal sale</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="bf-mega-sale-gold-basket-poster"></a>
 <a href="https://posterlet.com/poster/bf-mega-sale-gold-basket-poster"><img src="https://files.posterlet.com/assets/generated/md/5bfpi41b3ilr.webp" alt="BF Mega Sale Gold Basket Poster — 3:4 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>BF Mega Sale Gold Basket Poster</b></div>
@@ -180,50 +219,11 @@
 <div style="margin-top: 8px;"><b>Black Friday 3D Balloon Sale Poster</b></div>
 <div>3:7 · <a href="https://posterlet.com/poster/black-friday-3d-balloon-sale-poster-2">Open on posterlet.com →</a></div>
 <div><sub>black friday · e-commerce sale · 3D balloon · shopping poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-3d-mascot-sale-poster"></a>
 <a href="https://posterlet.com/poster/black-friday-3d-mascot-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/xlx2l83mb8za.webp" alt="Black Friday 3D Mascot Sale Poster — 9:16 Sale Posters poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday 3D Mascot Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-3d-mascot-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · e-commerce sale · 3D cartoon · shopping mascot</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-annual-lowest-price-sale-poster"></a>
-<a href="https://posterlet.com/poster/black-friday-annual-lowest-price-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/pv1bgn24g0m4.webp" alt="Black Friday Annual Lowest Price Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Annual Lowest Price Sale Poster</b></div>
-<div>3:7 · <a href="https://posterlet.com/poster/black-friday-annual-lowest-price-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>black friday · sale poster · e-commerce · discount</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-appliance-mega-sale-5"></a>
-<a href="https://posterlet.com/poster/black-friday-appliance-mega-sale-5"><img src="https://files.posterlet.com/assets/generated/md/5onqbocfvtc9.webp" alt="Black Friday Appliance Mega Sale — 3:7 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Appliance Mega Sale</b></div>
-<div>3:7 · <a href="https://posterlet.com/poster/black-friday-appliance-mega-sale-5">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · appliance sale · electronics deal · home appliances</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-b-f-monumental-sale-poster"></a>
-<a href="https://posterlet.com/poster/black-friday-b-f-monumental-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/j8lq2m6ixo2k.webp" alt="Black Friday B F Monumental Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday B F Monumental Sale Poster</b></div>
-<div>3:7 · <a href="https://posterlet.com/poster/black-friday-b-f-monumental-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>black friday · sale poster · minimalist · 3D letters</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="black-friday-beauty-blitz-sale-poster"></a>
-<a href="https://posterlet.com/poster/black-friday-beauty-blitz-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/m1m4ei9tg0iz.webp" alt="Black Friday Beauty Blitz Sale Poster — 3:7 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Beauty Blitz Sale Poster</b></div>
-<div>3:7 · <a href="https://posterlet.com/poster/black-friday-beauty-blitz-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · beauty clinic · sale poster · cosmetic promotion</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-beauty-haul-deals"></a>
-<a href="https://posterlet.com/poster/black-friday-beauty-haul-deals"><img src="https://files.posterlet.com/assets/generated/md/w2l2ka81n2x3.webp" alt="Black Friday Beauty Haul Deals — 3:4 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Beauty Haul Deals</b></div>
-<div>3:4 · <a href="https://posterlet.com/poster/black-friday-beauty-haul-deals">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · beauty deals · cosmetics sale · shopping poster</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-beauty-rush-gift-sale"></a>
-<a href="https://posterlet.com/poster/black-friday-beauty-rush-gift-sale"><img src="https://files.posterlet.com/assets/generated/md/e7t40c9bgp5p.webp" alt="Black Friday Beauty Rush Gift Sale — 1:1 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Beauty Rush Gift Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/black-friday-beauty-rush-gift-sale">Open on posterlet.com →</a></div>
-<div><sub>black friday · sale poster · gift boxes · brush calligraphy</sub></div></td>
-<td valign="top" width="25%"><a id="black-friday-benefits-upgraded-sale"></a>
-<a href="https://posterlet.com/poster/black-friday-benefits-upgraded-sale"><img src="https://files.posterlet.com/assets/generated/md/b8rkar5vd479.webp" alt="Black Friday Benefits Upgraded Sale — 21:9 Sale Posters poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Friday Benefits Upgraded Sale</b></div>
-<div>21:9 · <a href="https://posterlet.com/poster/black-friday-benefits-upgraded-sale">Open on posterlet.com →</a></div>
-<div><sub>Black Friday · sale poster · e-commerce · gift box</sub></div></td>
 </tr>
 </table>
 

@@ -1,11 +1,21 @@
 <h2>Product Thumbnails — Food & Drink</h2>
 
-<p><b>Part 10 of 17</b> — 361–400 of 666 · [← Previous](food-drink-9.md) · [Next →](food-drink-11.md)</p>
+<p><b>Part 10 of 18</b> — 361–400 of 684 · [← Previous](food-drink-9.md) · [Next →](food-drink-11.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 666 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 684 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="low-gi-whole-wheat-croissant-promo"></a>
+<a href="https://posterlet.com/poster/low-gi-whole-wheat-croissant-promo"><img src="https://files.posterlet.com/assets/generated/md/esnicdeby7mg.webp" alt="Low-GI Whole Wheat Croissant Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Low-GI Whole Wheat Croissant Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/low-gi-whole-wheat-croissant-promo">Open on posterlet.com →</a></div>
+<div><sub>whole wheat croissant · low GI bakery · healthy pastry · oat flakes</sub></div></td>
+<td valign="top" width="25%"><a id="luxurious-birds-nest-tonic-new-year-promo"></a>
+<a href="https://posterlet.com/poster/luxurious-birds-nest-tonic-new-year-promo"><img src="https://files.posterlet.com/assets/generated/md/uv4yojlvzzr5.webp" alt="Luxurious Bird's Nest Tonic New Year Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxurious Bird's Nest Tonic New Year Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxurious-birds-nest-tonic-new-year-promo">Open on posterlet.com →</a></div>
+<div><sub>bird's nest · wellness tonic · New Year sale · premium health</sub></div></td>
 <td valign="top" width="25%"><a id="magma-cookies-mango-caramel-snack-pack"></a>
 <a href="https://posterlet.com/poster/magma-cookies-mango-caramel-snack-pack"><img src="https://files.posterlet.com/assets/generated/md/5qzah20kszcj.webp" alt="Magma Cookies Mango Caramel Snack Pack — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Magma Cookies Mango Caramel Snack Pack</b></div>
@@ -16,6 +26,8 @@
 <div style="margin-top: 8px;"><b>Mango Carnival Fresh Juice Product</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mango-carnival-fresh-juice-product">Open on posterlet.com →</a></div>
 <div><sub>mango · fruit · juicy · fresh</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="mango-magma-cookies-snack-product-shot"></a>
 <a href="https://posterlet.com/poster/mango-magma-cookies-snack-product-shot"><img src="https://files.posterlet.com/assets/generated/md/ov7ymuvm7har.webp" alt="Mango Magma Cookies Snack Product Shot — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Mango Magma Cookies Snack Product Shot</b></div>
@@ -26,8 +38,6 @@
 <div style="margin-top: 8px;"><b>Matcha Red-Bean Meal Buns for Healthy Living</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/matcha-red-bean-meal-buns-for-healthy-living">Open on posterlet.com →</a></div>
 <div><sub>meal buns · red bean filling · matcha · fitness food</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="meaty-canned-food-e-commerce-product-image"></a>
 <a href="https://posterlet.com/poster/meaty-canned-food-e-commerce-product-image"><img src="https://files.posterlet.com/assets/generated/md/6nymv36gx1bk.webp" alt="Meaty Canned Food E-Commerce Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Meaty Canned Food E-Commerce Product Image</b></div>
@@ -38,6 +48,8 @@
 <div style="margin-top: 8px;"><b>Mega Festival Sale Rice Cooker Product Banner</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mega-festival-sale-rice-cooker-product-banner">Open on posterlet.com →</a></div>
 <div><sub>rice cooker · mega sale · product banner · e-commerce</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="mid-autumn-date-festival-sale"></a>
 <a href="https://posterlet.com/poster/mid-autumn-date-festival-sale"><img src="https://files.posterlet.com/assets/generated/md/x0kfwmibvo5w.webp" alt="Mid-Autumn Date Festival Sale — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Mid-Autumn Date Festival Sale</b></div>
@@ -48,8 +60,6 @@
 <div style="margin-top: 8px;"><b>Mid-Autumn Jujube Festive Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mid-autumn-jujube-festive-sale">Open on posterlet.com →</a></div>
 <div><sub>Mid-Autumn Festival · dried dates · jujubes · festival sale</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="national-day-carnival-snack-gift-pack"></a>
 <a href="https://posterlet.com/poster/national-day-carnival-snack-gift-pack"><img src="https://files.posterlet.com/assets/generated/md/nvtlaofd2k8o.webp" alt="National Day Carnival Snack Gift Pack — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>National Day Carnival Snack Gift Pack</b></div>
@@ -60,6 +70,8 @@
 <div style="margin-top: 8px;"><b>Natural Tea Tree Laundry Detergent Twin Pack</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/natural-tea-tree-laundry-detergent-twin-pack">Open on posterlet.com →</a></div>
 <div><sub>laundry detergent · tea tree oil · eco-friendly cleaning · product photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="new-year-rice-promotion-sale"></a>
 <a href="https://posterlet.com/poster/new-year-rice-promotion-sale"><img src="https://files.posterlet.com/assets/generated/md/td47egqwn3ep.webp" alt="New Year Rice Promotion Sale — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New Year Rice Promotion Sale</b></div>
@@ -70,8 +82,6 @@
 <div style="margin-top: 8px;"><b>NFC Fruit &amp; Vegetable Juice Pouch E-commerce Product</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/nfc-fruit-vegetable-juice-pouch-e-commerce-product">Open on posterlet.com →</a></div>
 <div><sub>juice pouch · NFC juice · vegetable juice · fruit juice</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="nfc-grapefruit-juice-product-shot"></a>
 <a href="https://posterlet.com/poster/nfc-grapefruit-juice-product-shot"><img src="https://files.posterlet.com/assets/generated/md/e4y9goe6eof1.webp" alt="NFC Grapefruit Juice Product Shot — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>NFC Grapefruit Juice Product Shot</b></div>
@@ -82,6 +92,8 @@
 <div style="margin-top: 8px;"><b>Old-Style Braised Beef Jerky Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/old-style-braised-beef-jerky-product-image">Open on posterlet.com →</a></div>
 <div><sub>beef jerky · braised jerky · food product photo · e-commerce</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="one-sip-of-zesty-freshness-sugar-free-lemon-tea"></a>
 <a href="https://posterlet.com/poster/one-sip-of-zesty-freshness-sugar-free-lemon-tea"><img src="https://files.posterlet.com/assets/generated/md/s275dw6hqe0v.webp" alt="One Sip of Zesty Freshness — Sugar-Free Lemon Tea — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Sip of Zesty Freshness — Sugar-Free Lemon Tea</b></div>
@@ -92,8 +104,6 @@
 <div style="margin-top: 8px;"><b>One-Touch Brewing — Premium Coffee Machine</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/one-touch-brewing-premium-coffee-machine">Open on posterlet.com →</a></div>
 <div><sub>coffee machine · drip coffee maker · kitchen appliance · one-touch brewing</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="organic-milk-powder-kids-growth-nutrition"></a>
 <a href="https://posterlet.com/poster/organic-milk-powder-kids-growth-nutrition"><img src="https://files.posterlet.com/assets/generated/md/pork320siv55.webp" alt="Organic Milk Powder Kids Growth Nutrition — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Organic Milk Powder Kids Growth Nutrition</b></div>
@@ -104,6 +114,8 @@
 <div style="margin-top: 8px;"><b>Oriental Jasmine Tea Gift Box Promotion</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/oriental-jasmine-tea-gift-box-promotion">Open on posterlet.com →</a></div>
 <div><sub>jasmine tea · oriental gift set · tea promotion · jade green packaging</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="pet-food-promotion-with-stacked-offers"></a>
 <a href="https://posterlet.com/poster/pet-food-promotion-with-stacked-offers"><img src="https://files.posterlet.com/assets/generated/md/vs8pbqszuyei.webp" alt="Pet Food Promotion With Stacked Offers — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pet Food Promotion With Stacked Offers</b></div>
@@ -114,8 +126,6 @@
 <div style="margin-top: 8px;"><b>Plump Rose Buds Tea Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/plump-rose-buds-tea-promo">Open on posterlet.com →</a></div>
 <div><sub>dried rose bud tea · floral tea promo · glass jar product · e-commerce main image</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="pomegranate-mulberry-juice-product-image"></a>
 <a href="https://posterlet.com/poster/pomegranate-mulberry-juice-product-image"><img src="https://files.posterlet.com/assets/generated/md/bgyv5sbcn12j.webp" alt="Pomegranate Mulberry Juice Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pomegranate Mulberry Juice Product Image</b></div>
@@ -126,6 +136,8 @@
 <div style="margin-top: 8px;"><b>Pork Floss Bread Close-Up</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/pork-floss-bread-close-up">Open on posterlet.com →</a></div>
 <div><sub>pork floss bread · handmade bread · whole wheat · e-commerce product</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="prairie-jerky-product-e-commerce-poster"></a>
 <a href="https://posterlet.com/poster/prairie-jerky-product-e-commerce-poster"><img src="https://files.posterlet.com/assets/generated/md/stoxitnkj9pb.webp" alt="Prairie Jerky Product E-Commerce Poster — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Prairie Jerky Product E-Commerce Poster</b></div>
@@ -136,8 +148,6 @@
 <div style="margin-top: 8px;"><b>Pre-Qingming Green Tea Fresh &amp; Fragrant Spring Harvest</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/pre-qingming-green-tea-fresh-fragrant-spring-harvest">Open on posterlet.com →</a></div>
 <div><sub>green tea · spring tea · pre-qingming · organic tea</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-anxi-tieguanyin-tea-gift-box-set"></a>
 <a href="https://posterlet.com/poster/premium-anxi-tieguanyin-tea-gift-box-set"><img src="https://files.posterlet.com/assets/generated/md/8k7znb60iyh6.webp" alt="Premium Anxi Tieguanyin Tea Gift Box Set — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Anxi Tieguanyin Tea Gift Box Set</b></div>
@@ -148,6 +158,8 @@
 <div style="margin-top: 8px;"><b>Premium Australian Angus Ribeye Steak</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-australian-angus-ribeye-steak">Open on posterlet.com →</a></div>
 <div><sub>ribeye steak · angus beef · premium meat · Australian steak</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-biluochun-green-tea-gift-box"></a>
 <a href="https://posterlet.com/poster/premium-biluochun-green-tea-gift-box"><img src="https://files.posterlet.com/assets/generated/md/s3yaizb15b3v.webp" alt="Premium Biluochun Green Tea Gift Box — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Biluochun Green Tea Gift Box</b></div>
@@ -158,8 +170,6 @@
 <div style="margin-top: 8px;"><b>Premium Bird's Nest Wellness Product</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-birds-nest-wellness-product">Open on posterlet.com →</a></div>
 <div><sub>bird's nest · wellness · premium product · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-cassia-black-tea-product-image"></a>
 <a href="https://posterlet.com/poster/premium-cassia-black-tea-product-image"><img src="https://files.posterlet.com/assets/generated/md/hski1fx158jy.webp" alt="Premium Cassia Black Tea Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Cassia Black Tea Product Image</b></div>
@@ -170,6 +180,8 @@
 <div style="margin-top: 8px;"><b>Premium Chef Knife Kitchen Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-chef-knife-kitchen-promo">Open on posterlet.com →</a></div>
 <div><sub>kitchen knife · chef knife · stainless steel · apple slicing</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-chicken-cat-food-with-blue-stage"></a>
 <a href="https://posterlet.com/poster/premium-chicken-cat-food-with-blue-stage"><img src="https://files.posterlet.com/assets/generated/md/4m5kks5pv458.webp" alt="Premium Chicken Cat Food with Blue Stage — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Chicken Cat Food with Blue Stage</b></div>
@@ -180,8 +192,6 @@
 <div style="margin-top: 8px;"><b>Premium Dried Chrysanthemum Tea Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-dried-chrysanthemum-tea-sale">Open on posterlet.com →</a></div>
 <div><sub>chrysanthemum tea · premium tea · tea sale · product advertisement</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-first-flush-goji-berries-product-shot"></a>
 <a href="https://posterlet.com/poster/premium-first-flush-goji-berries-product-shot"><img src="https://files.posterlet.com/assets/generated/md/0jeplqr2adph.webp" alt="Premium First-Flush Goji Berries Product Shot — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium First-Flush Goji Berries Product Shot</b></div>
@@ -192,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Premium Fresh Sweet Hami Melon</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-fresh-sweet-hami-melon">Open on posterlet.com →</a></div>
 <div><sub>hami melon · fresh melon · organic fruit · food photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-german-drip-coffee-maker-with-free-gift-bundle"></a>
 <a href="https://posterlet.com/poster/premium-german-drip-coffee-maker-with-free-gift-bundle"><img src="https://files.posterlet.com/assets/generated/md/y05tatshiw63.webp" alt="Premium German Drip Coffee Maker with Free Gift Bundle — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium German Drip Coffee Maker with Free Gift Bundle</b></div>
@@ -202,8 +214,6 @@
 <div style="margin-top: 8px;"><b>Premium Goji Berry Gift Box</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-goji-berry-gift-box">Open on posterlet.com →</a></div>
 <div><sub>goji berries · premium gift box · dried berries · natural health food</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-hairy-crabs-e-commerce-product-image"></a>
 <a href="https://posterlet.com/poster/premium-hairy-crabs-e-commerce-product-image"><img src="https://files.posterlet.com/assets/generated/md/ks3sptw4ztn0.webp" alt="Premium Hairy Crabs E-Commerce Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Hairy Crabs E-Commerce Product Image</b></div>
@@ -214,16 +224,6 @@
 <div style="margin-top: 8px;"><b>Premium Honey Pomelo Fresh Market</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-honey-pomelo-fresh-market">Open on posterlet.com →</a></div>
 <div><sub>pomelo · fresh fruit · orchard produce · honey pomelo</sub></div></td>
-<td valign="top" width="25%"><a id="premium-ih-rice-cooker-champagne-gold"></a>
-<a href="https://posterlet.com/poster/premium-ih-rice-cooker-champagne-gold"><img src="https://files.posterlet.com/assets/generated/md/7gnjdrszg3gf.webp" alt="Premium IH Rice Cooker Champagne Gold — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Premium IH Rice Cooker Champagne Gold</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/premium-ih-rice-cooker-champagne-gold">Open on posterlet.com →</a></div>
-<div><sub>rice cooker · IH rice cooker · kitchen appliance · champagne gold</sub></div></td>
-<td valign="top" width="25%"><a id="premium-imported-cherries-from-99"></a>
-<a href="https://posterlet.com/poster/premium-imported-cherries-from-99"><img src="https://files.posterlet.com/assets/generated/md/zvn9ovalqukl.webp" alt="Premium Imported Cherries from $99 — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Premium Imported Cherries from $99</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/premium-imported-cherries-from-99">Open on posterlet.com →</a></div>
-<div><sub>cherries · fruit · product image · e-commerce</sub></div></td>
 </tr>
 </table>
 

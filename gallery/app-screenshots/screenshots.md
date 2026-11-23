@@ -1,8 +1,8 @@
 <h2>App Screenshots</h2>
 
-<p><b>Part 1 of 18</b> — 1–40 of 688 · [Next →](screenshots-2.md)</p>
+<p><b>Part 1 of 18</b> — 1–40 of 715 · [Next →](screenshots-2.md)</p>
 
-<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 688 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 715 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -219,11 +219,11 @@
 <div style="margin-top: 8px;"><b>Curated Resources for Founders</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/curated-resources-for-founders">Open on posterlet.com →</a></div>
 <div><sub>founders · resources · curated · business</sub></div></td>
-<td valign="top" width="25%"><a id="data-made-calm-dark-panel-poster"></a>
-<a href="https://posterlet.com/poster/data-made-calm-dark-panel-poster"><img src="https://files.posterlet.com/assets/generated/md/vhdlnp1bf4u4.webp" alt="Data Made Calm Dark Panel Poster — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Data Made Calm Dark Panel Poster</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/data-made-calm-dark-panel-poster">Open on posterlet.com →</a></div>
-<div><sub>data visualization · dark theme · minimalist poster · abstract chart</sub></div></td>
+<td valign="top" width="25%"><a id="dark-cinematic-chat-poster-magenta-teal-glow"></a>
+<a href="https://posterlet.com/poster/dark-cinematic-chat-poster-magenta-teal-glow"><img src="https://files.posterlet.com/assets/generated/md/5bwxgziliijp.webp" alt="Dark Cinematic Chat Poster Magenta Teal Glow — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Dark Cinematic Chat Poster Magenta Teal Glow</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/dark-cinematic-chat-poster-magenta-teal-glow">Open on posterlet.com →</a></div>
+<div><sub>AI assistant · chat interface · productivity tool · SaaS poster</sub></div></td>
 </tr>
 </table>
 

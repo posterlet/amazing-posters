@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Home & Kitchen Appliances</h2>
 
-<p><b>Part 1 of 4</b> — 1–40 of 149 · [Next →](home-appliance-2.md)</p>
+<p><b>Part 1 of 4</b> — 1–40 of 153 · [Next →](home-appliance-2.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 149 specs is in <a href="../../data/product-thumbnails/home-appliance.jsonl">data/product-thumbnails/home-appliance.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 153 specs is in <a href="../../data/product-thumbnails/home-appliance.jsonl">data/product-thumbnails/home-appliance.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

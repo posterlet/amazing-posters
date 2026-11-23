@@ -1,8 +1,8 @@
 <h2>Christmas & Holiday — Greeting & Decor</h2>
 
-<p><b>Part 1 of 5</b> — 1–40 of 191 · [Next →](atmosphere-2.md)</p>
+<p><b>Part 1 of 6</b> — 1–40 of 239 · [Next →](atmosphere-2.md)</p>
 
-<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 191 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 239 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -175,55 +175,55 @@
 <div style="margin-top: 8px;"><b>Cozy Christmas Snow Globe Unboxing</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/cozy-christmas-snow-globe-unboxing">Open on posterlet.com →</a></div>
 <div><sub>christmas · snow globe · holiday · cozy</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-gouache-ceramic-mug-gift-page"></a>
+<a href="https://posterlet.com/poster/cozy-gouache-ceramic-mug-gift-page"><img src="https://files.posterlet.com/assets/generated/md/i4qz7jtnvjtp.webp" alt="Cozy Gouache Ceramic Mug Gift Page — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Gouache Ceramic Mug Gift Page</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cozy-gouache-ceramic-mug-gift-page">Open on posterlet.com →</a></div>
+<div><sub>ceramic mugs · winter gifts · gouache illustration · coffee cups</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cozy-plush-christmas-greeting-poster"></a>
 <a href="https://posterlet.com/poster/cozy-plush-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/qzeg4i1uaeds.webp" alt="Cozy Plush Christmas Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Plush Christmas Greeting Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-plush-christmas-greeting-poster">Open on posterlet.com →</a></div>
 <div><sub>Christmas · holiday poster · plush tree · minimalist design</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-winter-bubble-tea-loyalty-campaign"></a>
+<a href="https://posterlet.com/poster/cozy-winter-bubble-tea-loyalty-campaign"><img src="https://files.posterlet.com/assets/generated/md/xo7rsoic4kig.webp" alt="Cozy Winter Bubble Tea Loyalty Campaign — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Bubble Tea Loyalty Campaign</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cozy-winter-bubble-tea-loyalty-campaign">Open on posterlet.com →</a></div>
+<div><sub>bubble tea · loyalty poster · winter drink · milk tea</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-winter-cold-snap-prep-guide"></a>
+<a href="https://posterlet.com/poster/cozy-winter-cold-snap-prep-guide"><img src="https://files.posterlet.com/assets/generated/md/spwj46m1pbsi.webp" alt="Cozy Winter Cold Snap Prep Guide — 3:4 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Cold Snap Prep Guide</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/cozy-winter-cold-snap-prep-guide">Open on posterlet.com →</a></div>
+<div><sub>winter guide · cold snap preparation · paper cut craft · knitwear</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-winter-felt-collage-lifestyle-guide"></a>
+<a href="https://posterlet.com/poster/cozy-winter-felt-collage-lifestyle-guide"><img src="https://files.posterlet.com/assets/generated/md/3vh9ey1k3jsb.webp" alt="Cozy Winter Felt Collage Lifestyle Guide — 3:4 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Felt Collage Lifestyle Guide</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/cozy-winter-felt-collage-lifestyle-guide">Open on posterlet.com →</a></div>
+<div><sub>winter · cozy · felt collage · lifestyle</sub></div></td>
 </tr>
 <tr>
+<td valign="top" width="25%"><a id="cozy-winter-fireplace-evenings"></a>
+<a href="https://posterlet.com/poster/cozy-winter-fireplace-evenings"><img src="https://files.posterlet.com/assets/generated/md/yv01vh4gjq85.webp" alt="Cozy Winter Fireplace Evenings — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Fireplace Evenings</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cozy-winter-fireplace-evenings">Open on posterlet.com →</a></div>
+<div><sub>cozy · winter · fireplace · knit socks</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-winter-hot-drinks-promotional-poster"></a>
+<a href="https://posterlet.com/poster/cozy-winter-hot-drinks-promotional-poster"><img src="https://files.posterlet.com/assets/generated/md/915ue2ay6apk.webp" alt="Cozy Winter Hot Drinks Promotional Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Hot Drinks Promotional Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cozy-winter-hot-drinks-promotional-poster">Open on posterlet.com →</a></div>
+<div><sub>winter drinks · hot beverage · milk tea · seasonal promotion</sub></div></td>
+<td valign="top" width="25%"><a id="cozy-winter-market-evening-poster"></a>
+<a href="https://posterlet.com/poster/cozy-winter-market-evening-poster"><img src="https://files.posterlet.com/assets/generated/md/ynijob720xsk.webp" alt="Cozy Winter Market Evening Poster — 3:4 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Winter Market Evening Poster</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/cozy-winter-market-evening-poster">Open on posterlet.com →</a></div>
+<div><sub>winter market · holiday poster · storybook illustration · dusk scene</sub></div></td>
 <td valign="top" width="25%"><a id="cozy-winter-storybook-hello-december-poster"></a>
 <a href="https://posterlet.com/poster/cozy-winter-storybook-hello-december-poster"><img src="https://files.posterlet.com/assets/generated/md/pj1vo7xpjqed.webp" alt="Cozy Winter Storybook Hello December Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Winter Storybook Hello December Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-winter-storybook-hello-december-poster">Open on posterlet.com →</a></div>
 <div><sub>December poster · winter illustration · storybook art · holiday season</sub></div></td>
-<td valign="top" width="25%"><a id="crochet-workshop-december"></a>
-<a href="https://posterlet.com/poster/crochet-workshop-december"><img src="https://files.posterlet.com/assets/generated/md/uxfqj494umkl.webp" alt="Crochet Workshop December — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Crochet Workshop December</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/crochet-workshop-december">Open on posterlet.com →</a></div>
-<div><sub>crochet · workshop · handmade · craft</sub></div></td>
-<td valign="top" width="25%"><a id="dreamy-airbrushed-christmas-greeting-poster"></a>
-<a href="https://posterlet.com/poster/dreamy-airbrushed-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/d5tlcaenl4mu.webp" alt="Dreamy Airbrushed Christmas Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Dreamy Airbrushed Christmas Greeting Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/dreamy-airbrushed-christmas-greeting-poster">Open on posterlet.com →</a></div>
-<div><sub>christmas poster · holiday greeting · airbrushed design · misty tree</sub></div></td>
-<td valign="top" width="25%"><a id="dreamy-pastel-christmas-greeting-poster"></a>
-<a href="https://posterlet.com/poster/dreamy-pastel-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/swpy6mei1d26.webp" alt="Dreamy Pastel Christmas Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Dreamy Pastel Christmas Greeting Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/dreamy-pastel-christmas-greeting-poster">Open on posterlet.com →</a></div>
-<div><sub>Christmas · holiday poster · pastel · dreamy</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="elegant-airbrushed-christmas-greeting-poster"></a>
-<a href="https://posterlet.com/poster/elegant-airbrushed-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/g18wu9iqqe7w.webp" alt="Elegant Airbrushed Christmas Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Elegant Airbrushed Christmas Greeting Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/elegant-airbrushed-christmas-greeting-poster">Open on posterlet.com →</a></div>
-<div><sub>christmas · holiday greeting · poster design · pastel gradient</sub></div></td>
-<td valign="top" width="25%"><a id="elegant-art-deco-christmas-holiday-banner"></a>
-<a href="https://posterlet.com/poster/elegant-art-deco-christmas-holiday-banner"><img src="https://files.posterlet.com/assets/generated/md/l21g76k2dzef.webp" alt="Elegant Art Deco Christmas Holiday Banner — 7:3 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Elegant Art Deco Christmas Holiday Banner</b></div>
-<div>7:3 · <a href="https://posterlet.com/poster/elegant-art-deco-christmas-holiday-banner">Open on posterlet.com →</a></div>
-<div><sub>christmas banner · art deco design · holiday greeting · luxury christmas</sub></div></td>
-<td valign="top" width="25%"><a id="elegant-christmas-eve-greeting-poster"></a>
-<a href="https://posterlet.com/poster/elegant-christmas-eve-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/fwbhevfixhee.webp" alt="Elegant Christmas Eve Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Elegant Christmas Eve Greeting Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/elegant-christmas-eve-greeting-poster">Open on posterlet.com →</a></div>
-<div><sub>Christmas Eve · holiday poster · festive greeting · light painting</sub></div></td>
-<td valign="top" width="25%"><a id="elegant-christmas-greeting-card"></a>
-<a href="https://posterlet.com/poster/elegant-christmas-greeting-card"><img src="https://files.posterlet.com/assets/generated/md/obh8jretsxm8.webp" alt="Elegant Christmas Greeting Card — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Elegant Christmas Greeting Card</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/elegant-christmas-greeting-card">Open on posterlet.com →</a></div>
-<div><sub>christmas · greeting card · holiday · festive</sub></div></td>
 </tr>
 </table>
 

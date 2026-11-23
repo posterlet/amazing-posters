@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 11 of 13</b> — 401–440 of 494 · [← Previous](general-10.md) · [Next →](general-12.md)</p>
+<p><b>Part 11 of 13</b> — 401–440 of 500 · [← Previous](general-10.md) · [Next →](general-12.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="holiday-gift-event-free-shipping-sitewide"></a>
+<a href="https://posterlet.com/poster/holiday-gift-event-free-shipping-sitewide"><img src="https://files.posterlet.com/assets/generated/md/wis7fs6qg41p.webp" alt="Holiday Gift Event Free Shipping Sitewide — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Holiday Gift Event Free Shipping Sitewide</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/holiday-gift-event-free-shipping-sitewide">Open on posterlet.com →</a></div>
+<div><sub>holiday · gift · promotion · ecommerce</sub></div></td>
+<td valign="top" width="25%"><a id="perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo"></a>
+<a href="https://posterlet.com/poster/perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo"><img src="https://files.posterlet.com/assets/generated/md/1geqfilbcj36.webp" alt="Perky Succulents, Easy Care Plants with Buy 5 Get 2 Free Promo — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Perky Succulents, Easy Care Plants with Buy 5 Get 2 Free Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo">Open on posterlet.com →</a></div>
+<div><sub>succulents · easy care plants · buy 5 get 2 free · pastel sunburst</sub></div></td>
+<td valign="top" width="25%"><a id="colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose"></a>
+<a href="https://posterlet.com/poster/colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose"><img src="https://files.posterlet.com/assets/generated/md/qbdq2y9yjc4q.webp" alt="[Colors] deep teal #0F4A4C frame, blush marble #F3C9C6, rose — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>[Colors] deep teal #0F4A4C frame, blush marble #F3C9C6, rose</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose">Open on posterlet.com →</a></div>
+<div><sub></sub></div></td>
+<td valign="top" width="25%"><a id="colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango"></a>
+<a href="https://posterlet.com/poster/colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango"><img src="https://files.posterlet.com/assets/generated/md/7t7marnhvfxc.webp" alt="[Colors] pale spring green #DCEBC0, warm pine #E9D8BE, mango — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>[Colors] pale spring green #DCEBC0, warm pine #E9D8BE, mango</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango">Open on posterlet.com →</a></div>
+<div><sub></sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="heavy-duty-tool-kit"></a>
 <a href="https://posterlet.com/poster/heavy-duty-tool-kit"><img src="https://files.posterlet.com/assets/generated/md/k0a1n7fkfyur.webp" alt="HEAVY DUTY TOOL KIT — 1:1 General Products poster design" width="100%"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>Insulated Sports Jug Tennis Court</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/insulated-sports-jug-tennis-court">Open on posterlet.com →</a></div>
 <div><sub>insulated water jug · sports bottle · tennis court · outdoor hydration</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="insulated-tumbler-gift-box-promo"></a>
-<a href="https://posterlet.com/poster/insulated-tumbler-gift-box-promo"><img src="https://files.posterlet.com/assets/generated/md/crmqo0yr5ix5.webp" alt="Insulated Tumbler Gift Box Promo — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Insulated Tumbler Gift Box Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/insulated-tumbler-gift-box-promo">Open on posterlet.com →</a></div>
-<div><sub>insulated tumbler · travel mug · gift box · product promo</sub></div></td>
-<td valign="top" width="25%"><a id="mesh-knit-feather-light-trainers"></a>
-<a href="https://posterlet.com/poster/mesh-knit-feather-light-trainers"><img src="https://files.posterlet.com/assets/generated/md/eykfl92srlhz.webp" alt="Mesh Knit Feather Light Trainers — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Mesh Knit Feather Light Trainers</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/mesh-knit-feather-light-trainers">Open on posterlet.com →</a></div>
-<div><sub>sneakers · knit trainers · feather light · mesh upper</sub></div></td>
-<td valign="top" width="25%"><a id="mini-projector-product-poster"></a>
-<a href="https://posterlet.com/poster/mini-projector-product-poster"><img src="https://files.posterlet.com/assets/generated/md/nuwaj0wzwfwl.webp" alt="Mini Projector Product Poster — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Mini Projector Product Poster</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/mini-projector-product-poster">Open on posterlet.com →</a></div>
-<div><sub>mini projector · projector · product poster · 1080p</sub></div></td>
-<td valign="top" width="25%"><a id="mixed-nuts-holiday-gift-box"></a>
-<a href="https://posterlet.com/poster/mixed-nuts-holiday-gift-box"><img src="https://files.posterlet.com/assets/generated/md/xcefl8eqijx5.webp" alt="Mixed Nuts Holiday Gift Box — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Mixed Nuts Holiday Gift Box</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/mixed-nuts-holiday-gift-box">Open on posterlet.com →</a></div>
-<div><sub>mixed nuts · holiday gift box · gourmet nuts · Christmas present</sub></div></td>
 </tr>
 </table>
 

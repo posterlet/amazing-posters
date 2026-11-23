@@ -1,11 +1,21 @@
 <h2>App Screenshots</h2>
 
-<p><b>Part 2 of 18</b> — 41–80 of 688 · [← Previous](screenshots.md) · [Next →](screenshots-3.md)</p>
+<p><b>Part 2 of 18</b> — 41–80 of 715 · [← Previous](screenshots.md) · [Next →](screenshots-3.md)</p>
 
-<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 688 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 715 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="data-made-calm-dark-panel-poster"></a>
+<a href="https://posterlet.com/poster/data-made-calm-dark-panel-poster"><img src="https://files.posterlet.com/assets/generated/md/vhdlnp1bf4u4.webp" alt="Data Made Calm Dark Panel Poster — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Data Made Calm Dark Panel Poster</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/data-made-calm-dark-panel-poster">Open on posterlet.com →</a></div>
+<div><sub>data visualization · dark theme · minimalist poster · abstract chart</sub></div></td>
+<td valign="top" width="25%"><a id="describe-it-then-it-runs"></a>
+<a href="https://posterlet.com/poster/describe-it-then-it-runs"><img src="https://files.posterlet.com/assets/generated/md/7igft84k0at1.webp" alt="Describe It Then It Runs — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Describe It Then It Runs</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/describe-it-then-it-runs">Open on posterlet.com →</a></div>
+<div><sub>product illustration · UI design · process workflow · landing page hero</sub></div></td>
 <td valign="top" width="25%"><a id="desert-canyon-made-by-someone-real"></a>
 <a href="https://posterlet.com/poster/desert-canyon-made-by-someone-real"><img src="https://files.posterlet.com/assets/generated/md/7by47kof8ptl.webp" alt="Desert Canyon Made By Someone Real — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Desert Canyon Made By Someone Real</b></div>
@@ -16,6 +26,8 @@
 <div style="margin-top: 8px;"><b>Design Here Launch There Poster</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/design-here-launch-there-poster">Open on posterlet.com →</a></div>
 <div><sub>design handoff · minimalist poster · UI preview · product launch</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="discover-more-trips-today"></a>
 <a href="https://posterlet.com/poster/discover-more-trips-today"><img src="https://files.posterlet.com/assets/generated/md/904044fvuvf9.webp" alt="Discover More Trips Today — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Discover More Trips Today</b></div>
@@ -26,13 +38,18 @@
 <div style="margin-top: 8px;"><b>Download and Build Minimalist Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/download-and-build-minimalist-poster">Open on posterlet.com →</a></div>
 <div><sub>poster design · download and build · minimalist layout · abstract cards</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="draw-the-line-yourself"></a>
 <a href="https://posterlet.com/poster/draw-the-line-yourself"><img src="https://files.posterlet.com/assets/generated/md/ijsbozjwdeuc.webp" alt="Draw The Line Yourself — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Draw The Line Yourself</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/draw-the-line-yourself">Open on posterlet.com →</a></div>
 <div><sub>map · route · journey · navigation</sub></div></td>
+<td valign="top" width="25%"><a id="dreamlike-scheduling-tool-interface"></a>
+<a href="https://posterlet.com/poster/dreamlike-scheduling-tool-interface"><img src="https://files.posterlet.com/assets/generated/md/hz7c5arqn1bu.webp" alt="Dreamlike Scheduling Tool Interface — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Dreamlike Scheduling Tool Interface</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/dreamlike-scheduling-tool-interface">Open on posterlet.com →</a></div>
+<div><sub>scheduling tool · workflow automation · input card · cloudscape design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="effortless-weekly-planning-made-simple"></a>
 <a href="https://posterlet.com/poster/effortless-weekly-planning-made-simple"><img src="https://files.posterlet.com/assets/generated/md/a5uiwwmoofgf.webp" alt="Effortless Weekly Planning Made Simple — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Effortless Weekly Planning Made Simple</b></div>
@@ -48,6 +65,11 @@
 <div style="margin-top: 8px;"><b>Every Bar in Line Analytics</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/every-bar-in-line-analytics">Open on posterlet.com →</a></div>
 <div><sub>analytics dashboard · bar chart visualization · data chart illustration · minimalist poster design</sub></div></td>
+<td valign="top" width="25%"><a id="every-call-on-the-record-smart-transcription"></a>
+<a href="https://posterlet.com/poster/every-call-on-the-record-smart-transcription"><img src="https://files.posterlet.com/assets/generated/md/bwgfda8jp1dl.webp" alt="Every Call on the Record — Smart Transcription — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Every Call on the Record — Smart Transcription</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/every-call-on-the-record-smart-transcription">Open on posterlet.com →</a></div>
+<div><sub>call transcription · meeting recorder · voice-to-text app · productivity software</sub></div></td>
 </tr>
 <tr>
 <td valign="top" width="25%"><a id="every-commit-a-line-network-visualization-poster"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>Language Tracking Tiles Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/language-tracking-tiles-poster">Open on posterlet.com →</a></div>
 <div><sub>language tracker · tech poster · tiles design · flat design</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="leave-a-note-anywhere-poster"></a>
-<a href="https://posterlet.com/poster/leave-a-note-anywhere-poster"><img src="https://files.posterlet.com/assets/generated/md/08k6gthrydji.webp" alt="Leave a Note Anywhere Poster — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Leave a Note Anywhere Poster</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/leave-a-note-anywhere-poster">Open on posterlet.com →</a></div>
-<div><sub>poster design · dark aesthetic · violet gradient · minimalist UI</sub></div></td>
-<td valign="top" width="25%"><a id="make-it-in-a-minute-typographic-poster"></a>
-<a href="https://posterlet.com/poster/make-it-in-a-minute-typographic-poster"><img src="https://files.posterlet.com/assets/generated/md/btb5xxcxzu80.webp" alt="Make It In A Minute Typographic Poster — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Make It In A Minute Typographic Poster</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/make-it-in-a-minute-typographic-poster">Open on posterlet.com →</a></div>
-<div><sub>typography · minimalist poster · motivational quote · green poster</sub></div></td>
-<td valign="top" width="25%"><a id="manage-the-whole-feed-dashboard"></a>
-<a href="https://posterlet.com/poster/manage-the-whole-feed-dashboard"><img src="https://files.posterlet.com/assets/generated/md/tu8jsho7w67w.webp" alt="Manage the Whole Feed Dashboard — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Manage the Whole Feed Dashboard</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/manage-the-whole-feed-dashboard">Open on posterlet.com →</a></div>
-<div><sub>dashboard UI · content feed manager · violet gradient · modern interface</sub></div></td>
-<td valign="top" width="25%"><a id="marketplace-for-vibe-codes"></a>
-<a href="https://posterlet.com/poster/marketplace-for-vibe-codes"><img src="https://files.posterlet.com/assets/generated/md/17cqivgfdzgl.webp" alt="Marketplace for Vibe Codes — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Marketplace for Vibe Codes</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/marketplace-for-vibe-codes">Open on posterlet.com →</a></div>
-<div><sub>vibe codes · dark marketplace · purple glow · minimalist UI</sub></div></td>
 </tr>
 </table>
 

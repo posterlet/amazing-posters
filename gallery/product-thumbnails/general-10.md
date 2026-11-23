@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 10 of 13</b> — 361–400 of 494 · [← Previous](general-9.md) · [Next →](general-11.md)</p>
+<p><b>Part 10 of 13</b> — 361–400 of 500 · [← Previous](general-9.md) · [Next →](general-11.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="format-professional-e-commerce-product-main-image-square-8"></a>
+<a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-8"><img src="https://files.posterlet.com/assets/generated/md/odxq0pe3y41v.webp" alt="[Format] Professional e-commerce product main image, square — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-8">Open on posterlet.com →</a></div>
+<div><sub>product thumbnail</sub></div></td>
+<td valign="top" width="25%"><a id="ocean-fresh-body-wash-duo-sale"></a>
+<a href="https://posterlet.com/poster/ocean-fresh-body-wash-duo-sale"><img src="https://files.posterlet.com/assets/generated/md/85fsbsrzfsz5.webp" alt="Ocean Fresh Body Wash Duo Sale — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Ocean Fresh Body Wash Duo Sale</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/ocean-fresh-body-wash-duo-sale">Open on posterlet.com →</a></div>
+<div><sub>body wash · product photography · e-commerce · coastal theme</sub></div></td>
+<td valign="top" width="25%"><a id="sneakers-bold-promo"></a>
+<a href="https://posterlet.com/poster/sneakers-bold-promo"><img src="https://files.posterlet.com/assets/generated/md/b2zb7zvhderj.webp" alt="Sneakers Bold Promo — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Sneakers Bold Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/sneakers-bold-promo">Open on posterlet.com →</a></div>
+<div><sub>sneakers · running shoes · athletic footwear · product image</sub></div></td>
+<td valign="top" width="25%"><a id="20v-hammer-drill-factory-direct"></a>
+<a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct"><img src="https://files.posterlet.com/assets/generated/md/zo737dp4i06m.webp" alt="20V Hammer Drill Factory Direct — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>20V Hammer Drill Factory Direct</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct">Open on posterlet.com →</a></div>
+<div><sub>hammer drill · cordless drill · rotary hammer · power tools</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="alpine-camping-tent-shelter-setup"></a>
 <a href="https://posterlet.com/poster/alpine-camping-tent-shelter-setup"><img src="https://files.posterlet.com/assets/generated/md/f2onmdffb6xn.webp" alt="Alpine Camping Tent &amp; Shelter Setup — 1:1 General Products poster design" width="100%"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>Festive Red Gold Holiday Gift Box Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/festive-red-gold-holiday-gift-box-sale">Open on posterlet.com →</a></div>
 <div><sub>holiday sale · new year promotion · gift box · e-commerce product image</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="holiday-gift-event-free-shipping-sitewide"></a>
-<a href="https://posterlet.com/poster/holiday-gift-event-free-shipping-sitewide"><img src="https://files.posterlet.com/assets/generated/md/wis7fs6qg41p.webp" alt="Holiday Gift Event Free Shipping Sitewide — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Holiday Gift Event Free Shipping Sitewide</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/holiday-gift-event-free-shipping-sitewide">Open on posterlet.com →</a></div>
-<div><sub>holiday · gift · promotion · ecommerce</sub></div></td>
-<td valign="top" width="25%"><a id="perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo"></a>
-<a href="https://posterlet.com/poster/perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo"><img src="https://files.posterlet.com/assets/generated/md/1geqfilbcj36.webp" alt="Perky Succulents, Easy Care Plants with Buy 5 Get 2 Free Promo — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Perky Succulents, Easy Care Plants with Buy 5 Get 2 Free Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/perky-succulents-easy-care-plants-with-buy-5-get-2-free-promo">Open on posterlet.com →</a></div>
-<div><sub>succulents · easy care plants · buy 5 get 2 free · pastel sunburst</sub></div></td>
-<td valign="top" width="25%"><a id="colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose"></a>
-<a href="https://posterlet.com/poster/colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose"><img src="https://files.posterlet.com/assets/generated/md/qbdq2y9yjc4q.webp" alt="[Colors] deep teal #0F4A4C frame, blush marble #F3C9C6, rose — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>[Colors] deep teal #0F4A4C frame, blush marble #F3C9C6, rose</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/colors-deep-teal-0f4a4c-frame-blush-marble-f3c9c6-rose">Open on posterlet.com →</a></div>
-<div><sub></sub></div></td>
-<td valign="top" width="25%"><a id="colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango"></a>
-<a href="https://posterlet.com/poster/colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango"><img src="https://files.posterlet.com/assets/generated/md/7t7marnhvfxc.webp" alt="[Colors] pale spring green #DCEBC0, warm pine #E9D8BE, mango — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>[Colors] pale spring green #DCEBC0, warm pine #E9D8BE, mango</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/colors-pale-spring-green-dcebc0-warm-pine-e9d8be-mango">Open on posterlet.com →</a></div>
-<div><sub></sub></div></td>
 </tr>
 </table>
 

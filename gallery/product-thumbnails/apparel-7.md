@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Apparel & Accessories</h2>
 
-<p><b>Part 7 of 7</b> — 241–247 of 247 · [← Previous](apparel-6.md)</p>
+<p><b>Part 7 of 7</b> — 241–251 of 251 · [← Previous](apparel-6.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 247 specs is in <a href="../../data/product-thumbnails/apparel.jsonl">data/product-thumbnails/apparel.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 251 specs is in <a href="../../data/product-thumbnails/apparel.jsonl">data/product-thumbnails/apparel.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -43,5 +43,27 @@
 <div style="margin-top: 8px;"><b>Valentine Exclusive Cherry Red Satchel Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/valentine-exclusive-cherry-red-satchel-sale">Open on posterlet.com →</a></div>
 <div><sub>valentines day · leather satchel · handbag sale · cherry red bag</sub></div></td>
+<td valign="top" width="25%"><a id="fieldnote-sage-canvas-tote-bag"></a>
+<a href="https://posterlet.com/poster/fieldnote-sage-canvas-tote-bag"><img src="https://files.posterlet.com/assets/generated/md/ylzr58dsj1h5.webp" alt="Fieldnote Sage Canvas Tote Bag — 1:1 Apparel &amp; Accessories poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Fieldnote Sage Canvas Tote Bag</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/fieldnote-sage-canvas-tote-bag">Open on posterlet.com →</a></div>
+<div><sub>tote bag · canvas bag · sage green · eco-friendly</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="sage-green-canvas-tote-bag"></a>
+<a href="https://posterlet.com/poster/sage-green-canvas-tote-bag"><img src="https://files.posterlet.com/assets/generated/md/by2flzxcsxk0.webp" alt="Sage Green Canvas Tote Bag — 1:1 Apparel &amp; Accessories poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Sage Green Canvas Tote Bag</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/sage-green-canvas-tote-bag">Open on posterlet.com →</a></div>
+<div><sub>tote bag · canvas bag · sage green · eco-friendly</sub></div></td>
+<td valign="top" width="25%"><a id="sage-green-canvas-tote-bag-product-shot"></a>
+<a href="https://posterlet.com/poster/sage-green-canvas-tote-bag-product-shot"><img src="https://files.posterlet.com/assets/generated/md/jaee8decbpgq.webp" alt="Sage Green Canvas Tote Bag Product Shot — 1:1 Apparel &amp; Accessories poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Sage Green Canvas Tote Bag Product Shot</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/sage-green-canvas-tote-bag-product-shot">Open on posterlet.com →</a></div>
+<div><sub>canvas tote bag · sage green · product thumbnail · ecommerce</sub></div></td>
+<td valign="top" width="25%"><a id="sage-green-canvas-tote-bag-product-shot-3"></a>
+<a href="https://posterlet.com/poster/sage-green-canvas-tote-bag-product-shot-3"><img src="https://files.posterlet.com/assets/generated/md/1ab6p9o3oifi.webp" alt="Sage Green Canvas Tote Bag Product Shot — 1:1 Apparel &amp; Accessories poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Sage Green Canvas Tote Bag Product Shot</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/sage-green-canvas-tote-bag-product-shot-3">Open on posterlet.com →</a></div>
+<div><sub>canvas tote bag · eco-friendly bag · product thumbnail · tote bag photo</sub></div></td>
 </tr>
 </table>

@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 12 of 13</b> — 441–480 of 494 · [← Previous](general-11.md) · [Next →](general-13.md)</p>
+<p><b>Part 12 of 13</b> — 441–480 of 500 · [← Previous](general-11.md) · [Next →](general-13.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="insulated-tumbler-gift-box-promo"></a>
+<a href="https://posterlet.com/poster/insulated-tumbler-gift-box-promo"><img src="https://files.posterlet.com/assets/generated/md/crmqo0yr5ix5.webp" alt="Insulated Tumbler Gift Box Promo — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Insulated Tumbler Gift Box Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/insulated-tumbler-gift-box-promo">Open on posterlet.com →</a></div>
+<div><sub>insulated tumbler · travel mug · gift box · product promo</sub></div></td>
+<td valign="top" width="25%"><a id="mesh-knit-feather-light-trainers"></a>
+<a href="https://posterlet.com/poster/mesh-knit-feather-light-trainers"><img src="https://files.posterlet.com/assets/generated/md/eykfl92srlhz.webp" alt="Mesh Knit Feather Light Trainers — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Mesh Knit Feather Light Trainers</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/mesh-knit-feather-light-trainers">Open on posterlet.com →</a></div>
+<div><sub>sneakers · knit trainers · feather light · mesh upper</sub></div></td>
+<td valign="top" width="25%"><a id="mini-projector-product-poster"></a>
+<a href="https://posterlet.com/poster/mini-projector-product-poster"><img src="https://files.posterlet.com/assets/generated/md/nuwaj0wzwfwl.webp" alt="Mini Projector Product Poster — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Mini Projector Product Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/mini-projector-product-poster">Open on posterlet.com →</a></div>
+<div><sub>mini projector · projector · product poster · 1080p</sub></div></td>
+<td valign="top" width="25%"><a id="mixed-nuts-holiday-gift-box"></a>
+<a href="https://posterlet.com/poster/mixed-nuts-holiday-gift-box"><img src="https://files.posterlet.com/assets/generated/md/xcefl8eqijx5.webp" alt="Mixed Nuts Holiday Gift Box — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Mixed Nuts Holiday Gift Box</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/mixed-nuts-holiday-gift-box">Open on posterlet.com →</a></div>
+<div><sub>mixed nuts · holiday gift box · gourmet nuts · Christmas present</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="new-year-sale-yellow-suitcase-poster"></a>
 <a href="https://posterlet.com/poster/new-year-sale-yellow-suitcase-poster"><img src="https://files.posterlet.com/assets/generated/md/h0f0cbn8e3mx.webp" alt="New Year Sale Yellow Suitcase Poster — 1:1 General Products poster design" width="100%"></a>
@@ -87,13 +109,18 @@
 <div style="margin-top: 8px;"><b>Professional Angle Grinder Tool Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/professional-angle-grinder-tool-poster">Open on posterlet.com →</a></div>
 <div><sub>angle grinder · power tools · workshop · industrial tools</sub></div></td>
+<td valign="top" width="25%"><a id="retro-toaster-holiday-sale"></a>
+<a href="https://posterlet.com/poster/retro-toaster-holiday-sale"><img src="https://files.posterlet.com/assets/generated/md/kv88mhmdm1rb.webp" alt="Retro Toaster Holiday Sale — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Retro Toaster Holiday Sale</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/retro-toaster-holiday-sale">Open on posterlet.com →</a></div>
+<div><sub>holiday sale · retro toaster · kitchen appliances · cherry red toaster</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="sage-green-portable-mini-fan"></a>
 <a href="https://posterlet.com/poster/sage-green-portable-mini-fan"><img src="https://files.posterlet.com/assets/generated/md/lzz51hntygve.webp" alt="Sage Green Portable Mini Fan — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sage Green Portable Mini Fan</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sage-green-portable-mini-fan">Open on posterlet.com →</a></div>
 <div><sub>handheld mini fan · portable fan · foldable design · sage green</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="save-25-on-cordless-drill"></a>
 <a href="https://posterlet.com/poster/save-25-on-cordless-drill"><img src="https://files.posterlet.com/assets/generated/md/6tjci0ptwifa.webp" alt="Save $25 on Cordless Drill — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Save $25 on Cordless Drill</b></div>
@@ -109,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Soft Long-Lasting Freshness Lavender Laundry</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/soft-long-lasting-freshness-lavender-laundry">Open on posterlet.com →</a></div>
 <div><sub>laundry detergent · lavender · freshness · soft fabric</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="solid-brass-nib-fountain-pens-20-off"></a>
 <a href="https://posterlet.com/poster/solid-brass-nib-fountain-pens-20-off"><img src="https://files.posterlet.com/assets/generated/md/gid7j0akcm0l.webp" alt="Solid Brass Nib Fountain Pens — $20 Off — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Solid Brass Nib Fountain Pens — $20 Off</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/solid-brass-nib-fountain-pens-20-off">Open on posterlet.com →</a></div>
 <div><sub>fountain pen · brass nib · writing instrument · premium pen</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="sonic-clean-toothbrush-product-shot"></a>
 <a href="https://posterlet.com/poster/sonic-clean-toothbrush-product-shot"><img src="https://files.posterlet.com/assets/generated/md/p7kzgdajxcna.webp" alt="Sonic Clean Toothbrush Product Shot — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sonic Clean Toothbrush Product Shot</b></div>
@@ -131,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Sonic Toothbrush Festive Product Display</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sonic-toothbrush-festive-product-display">Open on posterlet.com →</a></div>
 <div><sub>sonic toothbrush · electric toothbrush · oral care · bestseller</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="stainless-cutlery-set-sale-pick-any-three"></a>
 <a href="https://posterlet.com/poster/stainless-cutlery-set-sale-pick-any-three"><img src="https://files.posterlet.com/assets/generated/md/7c246z5ll7aw.webp" alt="Stainless Cutlery Set Sale — Pick Any Three — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Stainless Cutlery Set Sale — Pick Any Three</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/stainless-cutlery-set-sale-pick-any-three">Open on posterlet.com →</a></div>
 <div><sub>cutlery set · stainless steel flatware · kitchenware · dining utensils</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="stainless-steel-flatware-collection"></a>
 <a href="https://posterlet.com/poster/stainless-steel-flatware-collection"><img src="https://files.posterlet.com/assets/generated/md/vuz3g4f7c0pi.webp" alt="Stainless Steel Flatware Collection — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Stainless Steel Flatware Collection</b></div>
@@ -153,13 +180,18 @@
 <div style="margin-top: 8px;"><b>Style in Motion Skate Sneaker Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/style-in-motion-skate-sneaker-sale">Open on posterlet.com →</a></div>
 <div><sub>sneakers · skate shoes · streetwear · fashion sale</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="summer-chill-beverage-pack"></a>
 <a href="https://posterlet.com/poster/summer-chill-beverage-pack"><img src="https://files.posterlet.com/assets/generated/md/imubrl3xmr9f.webp" alt="Summer Chill Beverage Pack — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Summer Chill Beverage Pack</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/summer-chill-beverage-pack">Open on posterlet.com →</a></div>
 <div><sub>summer drinks · cold beverages · soda cans · 4 pack</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="summer-cool-anywhere-portable-fan"></a>
+<a href="https://posterlet.com/poster/summer-cool-anywhere-portable-fan"><img src="https://files.posterlet.com/assets/generated/md/1mldmzzol12k.webp" alt="Summer Cool Anywhere Portable Fan — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Summer Cool Anywhere Portable Fan</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/summer-cool-anywhere-portable-fan">Open on posterlet.com →</a></div>
+<div><sub>portable fan · summer cooler · handheld fan · outdoor fan</sub></div></td>
 <td valign="top" width="25%"><a id="the-check-blazer-premium-houndstooth-coat"></a>
 <a href="https://posterlet.com/poster/the-check-blazer-premium-houndstooth-coat"><img src="https://files.posterlet.com/assets/generated/md/btnoczuz97ug.webp" alt="THE CHECK BLAZER — Premium Houndstooth Coat — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>THE CHECK BLAZER — Premium Houndstooth Coat</b></div>
@@ -170,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Vintage Plaid Waistcoat &amp; Baker Cap</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/vintage-plaid-waistcoat-baker-cap">Open on posterlet.com →</a></div>
 <div><sub>waistcoat · plaid vest · baker cap · vintage fashion</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="whitening-daily-care-school-sale-poster"></a>
 <a href="https://posterlet.com/poster/whitening-daily-care-school-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/ytb9x8uzvq5p.webp" alt="Whitening Daily Care School Sale Poster — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Whitening Daily Care School Sale Poster</b></div>
@@ -180,8 +214,6 @@
 <div style="margin-top: 8px;"><b>All-Terrain Hiker – Wet Forest Product Shot</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/all-terrain-hiker-wet-forest-product-shot">Open on posterlet.com →</a></div>
 <div><sub>hiking shoes · all-terrain footwear · trail running shoes · outdoor boots</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="colors-azure-gradient-deepening-to-navy-at-the-base-white"></a>
 <a href="https://posterlet.com/poster/colors-azure-gradient-deepening-to-navy-at-the-base-white"><img src="https://files.posterlet.com/assets/generated/md/rhhn7zovrf1s.webp" alt="[Colors] azure gradient deepening to navy at the base, white — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Colors] azure gradient deepening to navy at the base, white</b></div>
@@ -192,38 +224,6 @@
 <div style="margin-top: 8px;"><b>[Colors] cream #FBEDE0, apricot #F7C6A3, terracotta #E89870,</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/colors-cream-fbede0-apricot-f7c6a3-terracotta-e89870">Open on posterlet.com →</a></div>
 <div><sub></sub></div></td>
-<td valign="top" width="25%"><a id="colors-white-ffffff-panels-cobalt-1e5fbf-torn-band-lim"></a>
-<a href="https://posterlet.com/poster/colors-white-ffffff-panels-cobalt-1e5fbf-torn-band-lim"><img src="https://files.posterlet.com/assets/generated/md/ndifzxe80538.webp" alt="[Colors] white #FFFFFF panels, cobalt #1E5FBF torn band, lim — 9:16 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>[Colors] white #FFFFFF panels, cobalt #1E5FBF torn band, lim</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/colors-white-ffffff-panels-cobalt-1e5fbf-torn-band-lim">Open on posterlet.com →</a></div>
-<div><sub></sub></div></td>
-<td valign="top" width="25%"><a id="compact-4k-cinema-projector"></a>
-<a href="https://posterlet.com/poster/compact-4k-cinema-projector"><img src="https://files.posterlet.com/assets/generated/md/8myvvp0ifwv1.webp" alt="Compact 4K Cinema Projector — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Compact 4K Cinema Projector</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/compact-4k-cinema-projector">Open on posterlet.com →</a></div>
-<div><sub>projector · 4K · home theater · portable projector</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="cordless-impact-drill-power-tool"></a>
-<a href="https://posterlet.com/poster/cordless-impact-drill-power-tool"><img src="https://files.posterlet.com/assets/generated/md/7ema9ojleyea.webp" alt="Cordless Impact Drill Power Tool — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Cordless Impact Drill Power Tool</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/cordless-impact-drill-power-tool">Open on posterlet.com →</a></div>
-<div><sub>impact drill · cordless drill · brushless motor · power tool</sub></div></td>
-<td valign="top" width="25%"><a id="full-carbon-badminton-racket-set"></a>
-<a href="https://posterlet.com/poster/full-carbon-badminton-racket-set"><img src="https://files.posterlet.com/assets/generated/md/qs2coxfxadtz.webp" alt="Full Carbon Badminton Racket Set — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Full Carbon Badminton Racket Set</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/full-carbon-badminton-racket-set">Open on posterlet.com →</a></div>
-<div><sub>badminton rackets · sports equipment · graphite rackets · badminton set</sub></div></td>
-<td valign="top" width="25%"><a id="gentle-sonic-brush-139-four-heads-included"></a>
-<a href="https://posterlet.com/poster/gentle-sonic-brush-139-four-heads-included"><img src="https://files.posterlet.com/assets/generated/md/s94c1hhr4kyq.webp" alt="Gentle Sonic Brush $139 Four Heads Included — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Gentle Sonic Brush $139 Four Heads Included</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/gentle-sonic-brush-139-four-heads-included">Open on posterlet.com →</a></div>
-<div><sub>sonic toothbrush · electric toothbrush · dental care · oral hygiene</sub></div></td>
-<td valign="top" width="25%"><a id="grease-gone-kitchen-cleaning-wipes"></a>
-<a href="https://posterlet.com/poster/grease-gone-kitchen-cleaning-wipes"><img src="https://files.posterlet.com/assets/generated/md/a27wil7nuwvk.webp" alt="Grease Gone Kitchen Cleaning Wipes — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Grease Gone Kitchen Cleaning Wipes</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/grease-gone-kitchen-cleaning-wipes">Open on posterlet.com →</a></div>
-<div><sub>kitchen cleaning wipes · grease remover · household cleaner · multipurpose wipes</sub></div></td>
 </tr>
 </table>
 

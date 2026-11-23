@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Beauty & Skincare</h2>
 
-<p><b>Part 3 of 17</b> — 81–120 of 648 · [← Previous](beauty-2.md) · [Next →](beauty-4.md)</p>
+<p><b>Part 3 of 17</b> — 81–120 of 660 · [← Previous](beauty-2.md) · [Next →](beauty-4.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 648 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 660 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

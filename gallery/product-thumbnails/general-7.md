@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 7 of 13</b> — 241–280 of 494 · [← Previous](general-6.md) · [Next →](general-8.md)</p>
+<p><b>Part 7 of 13</b> — 241–280 of 500 · [← Previous](general-6.md) · [Next →](general-8.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="flash-carnival-sale-coupon-instant-savings"></a>
+<a href="https://posterlet.com/poster/flash-carnival-sale-coupon-instant-savings"><img src="https://files.posterlet.com/assets/generated/md/xfel8n0qrqmu.webp" alt="Flash Carnival Sale — Coupon Instant Savings — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Flash Carnival Sale — Coupon Instant Savings</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/flash-carnival-sale-coupon-instant-savings">Open on posterlet.com →</a></div>
+<div><sub>sale banner · promotional poster · coupon discount · flash sale</sub></div></td>
+<td valign="top" width="25%"><a id="foreign-teacher-english-course-promo"></a>
+<a href="https://posterlet.com/poster/foreign-teacher-english-course-promo"><img src="https://files.posterlet.com/assets/generated/md/63679ectohwd.webp" alt="Foreign Teacher English Course Promo — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Foreign Teacher English Course Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/foreign-teacher-english-course-promo">Open on posterlet.com →</a></div>
+<div><sub>english course · foreign teacher · online class · language learning</sub></div></td>
+<td valign="top" width="25%"><a id="four-hammers-bulk-hardware-display"></a>
+<a href="https://posterlet.com/poster/four-hammers-bulk-hardware-display"><img src="https://files.posterlet.com/assets/generated/md/8qporhl1w539.webp" alt="Four Hammers Bulk Hardware Display — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Four Hammers Bulk Hardware Display</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/four-hammers-bulk-hardware-display">Open on posterlet.com →</a></div>
+<div><sub>hammers · hardware tools · claw hammer · bulk discount</sub></div></td>
+<td valign="top" width="25%"><a id="fresh-editorial-fashion-drop-with-graphic-pop"></a>
+<a href="https://posterlet.com/poster/fresh-editorial-fashion-drop-with-graphic-pop"><img src="https://files.posterlet.com/assets/generated/md/sx0ih23n4z6o.webp" alt="Fresh Editorial Fashion Drop with Graphic Pop — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Fresh Editorial Fashion Drop with Graphic Pop</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/fresh-editorial-fashion-drop-with-graphic-pop">Open on posterlet.com →</a></div>
+<div><sub>fashion poster · editorial · graphic design · product image</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="fresh-floral-delivery-teachers-day-promo"></a>
 <a href="https://posterlet.com/poster/fresh-floral-delivery-teachers-day-promo"><img src="https://files.posterlet.com/assets/generated/md/pjrwen53bogz.webp" alt="Fresh Floral Delivery - Teacher's Day Promo — 1:1 General Products poster design" width="100%"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>Lavish Gold Red Festival Sale Banner</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/lavish-gold-red-festival-sale-banner">Open on posterlet.com →</a></div>
 <div><sub>festival sale · gold and red · Chinese New Year promotion · e-commerce banner</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="legal-exam-prep-course-promo"></a>
-<a href="https://posterlet.com/poster/legal-exam-prep-course-promo"><img src="https://files.posterlet.com/assets/generated/md/nxzgvlvq14g2.webp" alt="Legal Exam Prep Course Promo — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Legal Exam Prep Course Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/legal-exam-prep-course-promo">Open on posterlet.com →</a></div>
-<div><sub>exam prep · legal qualification · course promo · e-commerce banner</sub></div></td>
-<td valign="top" width="25%"><a id="lithium-battery-cordless-drill-product-showcase"></a>
-<a href="https://posterlet.com/poster/lithium-battery-cordless-drill-product-showcase"><img src="https://files.posterlet.com/assets/generated/md/xnevu9v27gxj.webp" alt="Lithium Battery Cordless Drill Product Showcase — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Lithium Battery Cordless Drill Product Showcase</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/lithium-battery-cordless-drill-product-showcase">Open on posterlet.com →</a></div>
-<div><sub>cordless drill · power tool · hammer drill · lithium battery</sub></div></td>
-<td valign="top" width="25%"><a id="live-karaoke-microphone-gold-edition"></a>
-<a href="https://posterlet.com/poster/live-karaoke-microphone-gold-edition"><img src="https://files.posterlet.com/assets/generated/md/r01rm8a18plf.webp" alt="Live Karaoke Microphone Gold Edition — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Live Karaoke Microphone Gold Edition</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/live-karaoke-microphone-gold-edition">Open on posterlet.com →</a></div>
-<div><sub>karaoke · microphone · gold · singing</sub></div></td>
-<td valign="top" width="25%"><a id="long-lasting-fragrance-laundry-detergent"></a>
-<a href="https://posterlet.com/poster/long-lasting-fragrance-laundry-detergent"><img src="https://files.posterlet.com/assets/generated/md/8k4nz9tr4ahw.webp" alt="Long-Lasting Fragrance Laundry Detergent — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Long-Lasting Fragrance Laundry Detergent</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/long-lasting-fragrance-laundry-detergent">Open on posterlet.com →</a></div>
-<div><sub>laundry detergent · household essentials · product photography · fabric care</sub></div></td>
 </tr>
 </table>
 

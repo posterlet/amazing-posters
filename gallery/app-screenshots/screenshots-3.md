@@ -1,10 +1,32 @@
 <h2>App Screenshots</h2>
 
-<p><b>Part 3 of 18</b> — 81–120 of 688 · [← Previous](screenshots-2.md) · [Next →](screenshots-4.md)</p>
+<p><b>Part 3 of 18</b> — 81–120 of 715 · [← Previous](screenshots-2.md) · [Next →](screenshots-4.md)</p>
 
-<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 688 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Store-listing screenshots for apps: one oversized headline, one device frame, the interface abstracted to grey bars. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 715 specs is in <a href="../../data/app-screenshots/screenshots.jsonl">data/app-screenshots/screenshots.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="leave-a-note-anywhere-poster"></a>
+<a href="https://posterlet.com/poster/leave-a-note-anywhere-poster"><img src="https://files.posterlet.com/assets/generated/md/08k6gthrydji.webp" alt="Leave a Note Anywhere Poster — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Leave a Note Anywhere Poster</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/leave-a-note-anywhere-poster">Open on posterlet.com →</a></div>
+<div><sub>poster design · dark aesthetic · violet gradient · minimalist UI</sub></div></td>
+<td valign="top" width="25%"><a id="make-it-in-a-minute-typographic-poster"></a>
+<a href="https://posterlet.com/poster/make-it-in-a-minute-typographic-poster"><img src="https://files.posterlet.com/assets/generated/md/btb5xxcxzu80.webp" alt="Make It In A Minute Typographic Poster — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Make It In A Minute Typographic Poster</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/make-it-in-a-minute-typographic-poster">Open on posterlet.com →</a></div>
+<div><sub>typography · minimalist poster · motivational quote · green poster</sub></div></td>
+<td valign="top" width="25%"><a id="manage-the-whole-feed-dashboard"></a>
+<a href="https://posterlet.com/poster/manage-the-whole-feed-dashboard"><img src="https://files.posterlet.com/assets/generated/md/tu8jsho7w67w.webp" alt="Manage the Whole Feed Dashboard — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Manage the Whole Feed Dashboard</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/manage-the-whole-feed-dashboard">Open on posterlet.com →</a></div>
+<div><sub>dashboard UI · content feed manager · violet gradient · modern interface</sub></div></td>
+<td valign="top" width="25%"><a id="marketplace-for-vibe-codes"></a>
+<a href="https://posterlet.com/poster/marketplace-for-vibe-codes"><img src="https://files.posterlet.com/assets/generated/md/17cqivgfdzgl.webp" alt="Marketplace for Vibe Codes — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Marketplace for Vibe Codes</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/marketplace-for-vibe-codes">Open on posterlet.com →</a></div>
+<div><sub>vibe codes · dark marketplace · purple glow · minimalist UI</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="meet-your-store-manager"></a>
 <a href="https://posterlet.com/poster/meet-your-store-manager"><img src="https://files.posterlet.com/assets/generated/md/1g8pyo7s8or9.webp" alt="Meet Your Store Manager — 16:9 App Screenshots poster design" width="100%"></a>
@@ -55,6 +77,11 @@
 <div style="margin-top: 8px;"><b>More Than A Storefront</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/more-than-a-storefront">Open on posterlet.com →</a></div>
 <div><sub>marketing poster · storefront · gradient background · 3D blooms</sub></div></td>
+<td valign="top" width="25%"><a id="mute-is-on-digital-detox-card"></a>
+<a href="https://posterlet.com/poster/mute-is-on-digital-detox-card"><img src="https://files.posterlet.com/assets/generated/md/rywvtrtdsxym.webp" alt="Mute Is On — Digital Detox Card — 16:9 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Mute Is On — Digital Detox Card</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/mute-is-on-digital-detox-card">Open on posterlet.com →</a></div>
+<div><sub>mute mode · digital wellbeing · do not disturb · set boundaries</sub></div></td>
 <td valign="top" width="25%"><a id="never-miss-a-filing-official-reminder-poster"></a>
 <a href="https://posterlet.com/poster/never-miss-a-filing-official-reminder-poster"><img src="https://files.posterlet.com/assets/generated/md/lpilmwm5gku6.webp" alt="Never Miss a Filing Official Reminder Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Never Miss a Filing Official Reminder Poster</b></div>
@@ -65,23 +92,30 @@
 <div style="margin-top: 8px;"><b>No More Chasing — Minimal Night Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/no-more-chasing-minimal-night-poster">Open on posterlet.com →</a></div>
 <div><sub>minimalist poster · night theme · abstract circles · noir design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="nod-i-keep-the-night"></a>
 <a href="https://posterlet.com/poster/nod-i-keep-the-night"><img src="https://files.posterlet.com/assets/generated/md/ssptxo57550h.webp" alt="Nod — I Keep the Night — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Nod — I Keep the Night</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/nod-i-keep-the-night">Open on posterlet.com →</a></div>
 <div><sub>night sky · minimalist poster · star field · pale ovals</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="one-book-every-story"></a>
 <a href="https://posterlet.com/poster/one-book-every-story"><img src="https://files.posterlet.com/assets/generated/md/uyxc9gpa8z5i.webp" alt="One Book Every Story — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Book Every Story</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/one-book-every-story">Open on posterlet.com →</a></div>
 <div><sub>book poster · literary art · reading keepsake · minimalist book</sub></div></td>
+<td valign="top" width="25%"><a id="one-click-clean-notes-poster"></a>
+<a href="https://posterlet.com/poster/one-click-clean-notes-poster"><img src="https://files.posterlet.com/assets/generated/md/0qwcnnnvteqe.webp" alt="One Click Clean Notes Poster — 4:3 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>One Click Clean Notes Poster</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/one-click-clean-notes-poster">Open on posterlet.com →</a></div>
+<div><sub>productivity app · note taking · voice memos · organize notes</sub></div></td>
 <td valign="top" width="25%"><a id="one-decision-at-a-time-minimalist-poster"></a>
 <a href="https://posterlet.com/poster/one-decision-at-a-time-minimalist-poster"><img src="https://files.posterlet.com/assets/generated/md/t3e4zaxlqcwu.webp" alt="One Decision At A Time Minimalist Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Decision At A Time Minimalist Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/one-decision-at-a-time-minimalist-poster">Open on posterlet.com →</a></div>
 <div><sub>minimalist · motivation · poster design · blank pages</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="one-framework-two-halves-laptop-poster"></a>
 <a href="https://posterlet.com/poster/one-framework-two-halves-laptop-poster"><img src="https://files.posterlet.com/assets/generated/md/5kmi677dn4jr.webp" alt="One Framework Two Halves Laptop Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Framework Two Halves Laptop Poster</b></div>
@@ -92,8 +126,6 @@
 <div style="margin-top: 8px;"><b>One Place For Perks Bold Starburst Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/one-place-for-perks-bold-starburst-poster">Open on posterlet.com →</a></div>
 <div><sub>starburst · perks · minimalist · promotional poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="one-screen-controls-everything"></a>
 <a href="https://posterlet.com/poster/one-screen-controls-everything"><img src="https://files.posterlet.com/assets/generated/md/wu421stm3i16.webp" alt="One Screen Controls Everything — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Screen Controls Everything</b></div>
@@ -104,6 +136,8 @@
 <div style="margin-top: 8px;"><b>One Screen One Total Purple Laptop Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/one-screen-one-total-purple-laptop-poster">Open on posterlet.com →</a></div>
 <div><sub>laptop · purple background · product poster · tech showcase</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="one-shape-many-jobs-gear-poster"></a>
 <a href="https://posterlet.com/poster/one-shape-many-jobs-gear-poster"><img src="https://files.posterlet.com/assets/generated/md/ffzdui2gnw2y.webp" alt="One Shape Many Jobs Gear Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Shape Many Jobs Gear Poster</b></div>
@@ -114,8 +148,6 @@
 <div style="margin-top: 8px;"><b>One Wallet Every Chain Retro Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/one-wallet-every-chain-retro-poster">Open on posterlet.com →</a></div>
 <div><sub>retro poster · sunburst design · cryptocurrency · wallet app</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="one-window-for-every-send"></a>
 <a href="https://posterlet.com/poster/one-window-for-every-send"><img src="https://files.posterlet.com/assets/generated/md/psdoeb9jeb3n.webp" alt="One Window For Every Send — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Window For Every Send</b></div>
@@ -126,6 +158,8 @@
 <div style="margin-top: 8px;"><b>One Workspace Every Page</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/one-workspace-every-page">Open on posterlet.com →</a></div>
 <div><sub>workspace · content platform · publishing · digital design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="open-components-software-launch-poster"></a>
 <a href="https://posterlet.com/poster/open-components-software-launch-poster"><img src="https://files.posterlet.com/assets/generated/md/hltyth20w86o.webp" alt="Open Components Software Launch Poster — 4:3 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Open Components Software Launch Poster</b></div>
@@ -136,13 +170,18 @@
 <div style="margin-top: 8px;"><b>Organise and Reach Out Directory Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/organise-and-reach-out-directory-poster">Open on posterlet.com →</a></div>
 <div><sub>organize · directory · minimalist · poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="out-of-office-together-minimal-poster-design"></a>
 <a href="https://posterlet.com/poster/out-of-office-together-minimal-poster-design"><img src="https://files.posterlet.com/assets/generated/md/ennffksz5ju4.webp" alt="Out of Office Together Minimal Poster Design — 4:3 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Out of Office Together Minimal Poster Design</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/out-of-office-together-minimal-poster-design">Open on posterlet.com →</a></div>
 <div><sub>out of office · minimalist poster · coral design · work life balance</sub></div></td>
+<td valign="top" width="25%"><a id="pale-lilac-analytics-dashboard-poster"></a>
+<a href="https://posterlet.com/poster/pale-lilac-analytics-dashboard-poster"><img src="https://files.posterlet.com/assets/generated/md/xa7axd6xxleg.webp" alt="Pale Lilac Analytics Dashboard Poster — 4:3 App Screenshots poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Pale Lilac Analytics Dashboard Poster</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/pale-lilac-analytics-dashboard-poster">Open on posterlet.com →</a></div>
+<div><sub>dashboard · data visualization · analytics · minimalist</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="pay-it-your-way-simple-fintech-poster"></a>
 <a href="https://posterlet.com/poster/pay-it-your-way-simple-fintech-poster"><img src="https://files.posterlet.com/assets/generated/md/2l59hcgxfabl.webp" alt="PAY IT YOUR WAY Simple Fintech Poster — 4:3 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>PAY IT YOUR WAY Simple Fintech Poster</b></div>
@@ -158,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Pick a Card Playful Poster</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/pick-a-card-playful-poster">Open on posterlet.com →</a></div>
 <div><sub>posters · cards · graphic design · typography</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="plan-the-whole-trip-peach-gradient-travel-app-poster"></a>
 <a href="https://posterlet.com/poster/plan-the-whole-trip-peach-gradient-travel-app-poster"><img src="https://files.posterlet.com/assets/generated/md/i1mgf21nklb5.webp" alt="Plan The Whole Trip — Peach Gradient Travel App Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Plan The Whole Trip — Peach Gradient Travel App Poster</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/plan-the-whole-trip-peach-gradient-travel-app-poster">Open on posterlet.com →</a></div>
 <div><sub>travel app · trip planning · mobile app · landing page</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="pluginshelf-minimal-typographic-poster"></a>
 <a href="https://posterlet.com/poster/pluginshelf-minimal-typographic-poster"><img src="https://files.posterlet.com/assets/generated/md/eydvgw0ewb9u.webp" alt="PLUGINSHELF Minimal Typographic Poster — 16:9 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>PLUGINSHELF Minimal Typographic Poster</b></div>
@@ -180,50 +219,11 @@
 <div style="margin-top: 8px;"><b>Premium Minimalist Ribbon Poster Design</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/premium-minimalist-ribbon-poster-design">Open on posterlet.com →</a></div>
 <div><sub>minimalist poster · premium design · folded ribbon · black background</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="put-dinner-on-autopilot"></a>
 <a href="https://posterlet.com/poster/put-dinner-on-autopilot"><img src="https://files.posterlet.com/assets/generated/md/wp266xgn6d32.webp" alt="Put Dinner On Autopilot — 4:3 App Screenshots poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Put Dinner On Autopilot</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/put-dinner-on-autopilot">Open on posterlet.com →</a></div>
 <div><sub>dinner · autopilot · meal kit · recipe box</sub></div></td>
-<td valign="top" width="25%"><a id="read-it-at-night-minimalist-poster"></a>
-<a href="https://posterlet.com/poster/read-it-at-night-minimalist-poster"><img src="https://files.posterlet.com/assets/generated/md/on3kyb9wrgvy.webp" alt="READ IT AT NIGHT Minimalist Poster — 4:3 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>READ IT AT NIGHT Minimalist Poster</b></div>
-<div>4:3 · <a href="https://posterlet.com/poster/read-it-at-night-minimalist-poster">Open on posterlet.com →</a></div>
-<div><sub>poster · minimalist · typography · reading</sub></div></td>
-<td valign="top" width="25%"><a id="reply-in-one-click-minimalist-poster"></a>
-<a href="https://posterlet.com/poster/reply-in-one-click-minimalist-poster"><img src="https://files.posterlet.com/assets/generated/md/av6qkhpe8vxs.webp" alt="Reply In One Click Minimalist Poster — 4:3 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Reply In One Click Minimalist Poster</b></div>
-<div>4:3 · <a href="https://posterlet.com/poster/reply-in-one-click-minimalist-poster">Open on posterlet.com →</a></div>
-<div><sub>minimalist poster · UI design · click to reply · mobile app</sub></div></td>
-<td valign="top" width="25%"><a id="rings-that-add-up-dashboard"></a>
-<a href="https://posterlet.com/poster/rings-that-add-up-dashboard"><img src="https://files.posterlet.com/assets/generated/md/tqaqss2j2nul.webp" alt="Rings That Add Up Dashboard — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Rings That Add Up Dashboard</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/rings-that-add-up-dashboard">Open on posterlet.com →</a></div>
-<div><sub>dashboard · progress rings · analytics · minimalist UI</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="rosette-contracts-with-a-paper-trail"></a>
-<a href="https://posterlet.com/poster/rosette-contracts-with-a-paper-trail"><img src="https://files.posterlet.com/assets/generated/md/kiqzo5chtl53.webp" alt="ROSETTE Contracts With A Paper Trail — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>ROSETTE Contracts With A Paper Trail</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/rosette-contracts-with-a-paper-trail">Open on posterlet.com →</a></div>
-<div><sub>rosette logo · brand identity · corporate poster · minimalist design</sub></div></td>
-<td valign="top" width="25%"><a id="rowstack-all-pages-edit-in-one-row"></a>
-<a href="https://posterlet.com/poster/rowstack-all-pages-edit-in-one-row"><img src="https://files.posterlet.com/assets/generated/md/jlfg6kkamhie.webp" alt="RowStack all pages edit in one row — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>RowStack all pages edit in one row</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/rowstack-all-pages-edit-in-one-row">Open on posterlet.com →</a></div>
-<div><sub>product poster · app promotion · minimalist design · landing page</sub></div></td>
-<td valign="top" width="25%"><a id="run-it-on-your-own-mountain"></a>
-<a href="https://posterlet.com/poster/run-it-on-your-own-mountain"><img src="https://files.posterlet.com/assets/generated/md/8j8q222f068l.webp" alt="Run It On Your Own Mountain — 4:3 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Run It On Your Own Mountain</b></div>
-<div>4:3 · <a href="https://posterlet.com/poster/run-it-on-your-own-mountain">Open on posterlet.com →</a></div>
-<div><sub>mountain poster · high country · dark landscape · minimalist design</sub></div></td>
-<td valign="top" width="25%"><a id="runway-you-can-see-financial-clarity"></a>
-<a href="https://posterlet.com/poster/runway-you-can-see-financial-clarity"><img src="https://files.posterlet.com/assets/generated/md/lo3hz7teii4o.webp" alt="Runway You Can See Financial Clarity — 16:9 App Screenshots poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Runway You Can See Financial Clarity</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/runway-you-can-see-financial-clarity">Open on posterlet.com →</a></div>
-<div><sub>financial runway · business analytics · cash flow visualization · financial dashboard</sub></div></td>
 </tr>
 </table>
 

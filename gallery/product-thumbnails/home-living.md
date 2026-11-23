@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Home & Living</h2>
 
-<p><b>Part 1 of 2</b> — 1–40 of 75 · [Next →](home-living-2.md)</p>
+<p><b>Part 1 of 2</b> — 1–40 of 77 · [Next →](home-living-2.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 75 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 77 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -82,18 +82,23 @@
 <div style="margin-top: 8px;"><b>Multi-Function Foldable High Chair</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/multi-function-foldable-high-chair">Open on posterlet.com →</a></div>
 <div><sub>kids high chair · foldable baby seat · nursery furniture · toddler dining chair</sub></div></td>
+<td valign="top" width="25%"><a id="multi-function-foldable-kids-high-chair"></a>
+<a href="https://posterlet.com/poster/multi-function-foldable-kids-high-chair"><img src="https://files.posterlet.com/assets/generated/md/exf2dn5kwe1f.webp" alt="Multi-Function Foldable Kids High Chair — 1:1 Home &amp; Living poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Multi-Function Foldable Kids High Chair</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/multi-function-foldable-kids-high-chair">Open on posterlet.com →</a></div>
+<div><sub>high chair · kids high chair · foldable high chair · baby feeding</sub></div></td>
 <td valign="top" width="25%"><a id="natural-air-purifying-fiddle-leaf-fig-plant"></a>
 <a href="https://posterlet.com/poster/natural-air-purifying-fiddle-leaf-fig-plant"><img src="https://files.posterlet.com/assets/generated/md/0mzxaomgliig.webp" alt="Natural Air Purifying Fiddle Leaf Fig Plant — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Natural Air Purifying Fiddle Leaf Fig Plant</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/natural-air-purifying-fiddle-leaf-fig-plant">Open on posterlet.com →</a></div>
 <div><sub>fiddle leaf fig · air purifying plant · home goods · botanical decor</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="natural-pine-crib-eco-certified"></a>
 <a href="https://posterlet.com/poster/natural-pine-crib-eco-certified"><img src="https://files.posterlet.com/assets/generated/md/spwojz0p25gl.webp" alt="Natural Pine Crib Eco Certified — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Natural Pine Crib Eco Certified</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/natural-pine-crib-eco-certified">Open on posterlet.com →</a></div>
 <div><sub>baby crib · nursery furniture · eco-friendly · organic baby bed</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="nordic-style-sofa-product-showcase"></a>
 <a href="https://posterlet.com/poster/nordic-style-sofa-product-showcase"><img src="https://files.posterlet.com/assets/generated/md/3r056i1qncv9.webp" alt="Nordic Style Sofa Product Showcase — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Nordic Style Sofa Product Showcase</b></div>
@@ -109,13 +114,13 @@
 <div style="margin-top: 8px;"><b>Premium Cotton Quilt – Pure Bedding</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-cotton-quilt-pure-bedding">Open on posterlet.com →</a></div>
 <div><sub>cotton quilt · bedding · home textiles · duvet cover</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-rolled-cotton-towels-spa-display"></a>
 <a href="https://posterlet.com/poster/premium-rolled-cotton-towels-spa-display"><img src="https://files.posterlet.com/assets/generated/md/c1ehax522avn.webp" alt="Premium Rolled Cotton Towels Spa Display — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Rolled Cotton Towels Spa Display</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-rolled-cotton-towels-spa-display">Open on posterlet.com →</a></div>
 <div><sub>cotton towels · spa products · Egyptian cotton · bath towels</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-rolling-tool-case-40-off"></a>
 <a href="https://posterlet.com/poster/premium-rolling-tool-case-40-off"><img src="https://files.posterlet.com/assets/generated/md/t1f5h8ktzy8e.webp" alt="Premium Rolling Tool Case – 40% Off — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Rolling Tool Case – 40% Off</b></div>
@@ -131,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Press-Ring Lavender Trash Bin</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/press-ring-lavender-trash-bin">Open on posterlet.com →</a></div>
 <div><sub>trash can · waste bin · laundry bin · household storage</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="pull-out-storage-boxes"></a>
 <a href="https://posterlet.com/poster/pull-out-storage-boxes"><img src="https://files.posterlet.com/assets/generated/md/59iyf7htc12y.webp" alt="Pull-Out Storage Boxes — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pull-Out Storage Boxes</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/pull-out-storage-boxes">Open on posterlet.com →</a></div>
 <div><sub>storage boxes · pull-out drawers · home organization · tidying</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="rugged-toolbox-pliers-product-shot"></a>
 <a href="https://posterlet.com/poster/rugged-toolbox-pliers-product-shot"><img src="https://files.posterlet.com/assets/generated/md/a1dr3iqthk9z.webp" alt="Rugged Toolbox &amp; Pliers Product Shot — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Rugged Toolbox &amp; Pliers Product Shot</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Ultra-Minimal Wallpaper Collection</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/ultra-minimal-wallpaper-collection">Open on posterlet.com →</a></div>
 <div><sub>wallpaper · peel and stick · home decor · minimalist interior</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="adorable-baby-bath-towel-robe"></a>
 <a href="https://posterlet.com/poster/adorable-baby-bath-towel-robe"><img src="https://files.posterlet.com/assets/generated/md/ilcsdaidgsou.webp" alt="Adorable Baby Bath Towel Robe — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Adorable Baby Bath Towel Robe</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/adorable-baby-bath-towel-robe">Open on posterlet.com →</a></div>
 <div><sub>baby bathrobe · baby towels · bath towel robe · baby bath</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="arrives-alive-potted-plant-guarantee"></a>
 <a href="https://posterlet.com/poster/arrives-alive-potted-plant-guarantee"><img src="https://files.posterlet.com/assets/generated/md/g05r880w8d31.webp" alt="Arrives Alive Potted Plant Guarantee — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Arrives Alive Potted Plant Guarantee</b></div>
@@ -175,13 +180,13 @@
 <div style="margin-top: 8px;"><b>Artisan Wooden Fish Home Decor</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/artisan-wooden-fish-home-decor">Open on posterlet.com →</a></div>
 <div><sub>wooden fish ornament · hand-painted home decor · mint teal folk art · minimalist product image</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="camping-table-and-chair-set"></a>
 <a href="https://posterlet.com/poster/camping-table-and-chair-set"><img src="https://files.posterlet.com/assets/generated/md/yfi5wdstknwv.webp" alt="Camping Table and Chair Set — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Camping Table and Chair Set</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/camping-table-and-chair-set">Open on posterlet.com →</a></div>
 <div><sub>camping table · folding chairs · outdoor furniture · lakeside camping</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="dining-table-set-with-chairs-and-plants"></a>
 <a href="https://posterlet.com/poster/dining-table-set-with-chairs-and-plants"><img src="https://files.posterlet.com/assets/generated/md/i033jx0kln0i.webp" alt="Dining Table Set with Chairs and Plants — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Dining Table Set with Chairs and Plants</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>Farmhouse Dining Table Set with Chairs — $1098</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/farmhouse-dining-table-set-with-chairs-1098">Open on posterlet.com →</a></div>
 <div><sub>farmhouse dining table · walnut dining set · dining chairs · home furniture</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="hand-painted-ceramic-mugs-set-rustic-homeware"></a>
 <a href="https://posterlet.com/poster/hand-painted-ceramic-mugs-set-rustic-homeware"><img src="https://files.posterlet.com/assets/generated/md/fpw6s99m8nq6.webp" alt="Hand-Painted Ceramic Mugs Set Rustic Homeware — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Hand-Painted Ceramic Mugs Set Rustic Homeware</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/hand-painted-ceramic-mugs-set-rustic-homeware">Open on posterlet.com →</a></div>
 <div><sub>ceramic mugs · hand-painted mugs · rustic homeware · pastel plaid mugs</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="minimalist-storage-rack-sale-poster"></a>
 <a href="https://posterlet.com/poster/minimalist-storage-rack-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/3vcvto6o2qkd.webp" alt="Minimalist Storage Rack Sale Poster — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Minimalist Storage Rack Sale Poster</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Multifunctional Baby Crib — Starry Night Edition</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/multifunctional-baby-crib-starry-night-edition">Open on posterlet.com →</a></div>
 <div><sub>baby crib · nursery furniture · wooden crib · baby bed</sub></div></td>
-<td valign="top" width="25%"><a id="pink-baby-formula-gift-promo"></a>
-<a href="https://posterlet.com/poster/pink-baby-formula-gift-promo"><img src="https://files.posterlet.com/assets/generated/md/mu209nsudba9.webp" alt="Pink Baby Formula Gift Promo — 1:1 Home &amp; Living poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Pink Baby Formula Gift Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/pink-baby-formula-gift-promo">Open on posterlet.com →</a></div>
-<div><sub>baby formula · mother and child · ecommerce · promotion</sub></div></td>
 </tr>
 </table>
 

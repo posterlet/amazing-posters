@@ -1,8 +1,8 @@
 <h2>Christmas & Holiday — Events & Parties</h2>
 
-<p><b>Part 2 of 2</b> — 41–73 of 73 · [← Previous](event.md)</p>
+<p><b>Part 2 of 2</b> — 41–79 of 79 · [← Previous](event.md)</p>
 
-<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 73 specs is in <a href="../../data/christmas/event.jsonl">data/christmas/event.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 79 specs is in <a href="../../data/christmas/event.jsonl">data/christmas/event.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -121,23 +121,50 @@
 <div style="margin-top: 8px;"><b>Minimalist Christmas Tree Invitation Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/minimalist-christmas-tree-invitation-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas invitation · minimalist poster · christmas tree silhouette · festive event</sub></div></td>
+<td valign="top" width="25%"><a id="one-night-only-midnight-poster"></a>
+<a href="https://posterlet.com/poster/one-night-only-midnight-poster"><img src="https://files.posterlet.com/assets/generated/md/1hmtrqpzmh00.webp" alt="One Night Only Midnight Poster — 16:9 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>One Night Only Midnight Poster</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/one-night-only-midnight-poster">Open on posterlet.com →</a></div>
+<div><sub>midnight poster · event promotion · one night only · noir design</sub></div></td>
+<td valign="top" width="25%"><a id="playful-winter-party-poster-with-clay-characters"></a>
+<a href="https://posterlet.com/poster/playful-winter-party-poster-with-clay-characters"><img src="https://files.posterlet.com/assets/generated/md/vfb94etygug7.webp" alt="Playful Winter Party Poster with Clay Characters — 9:16 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Playful Winter Party Poster with Clay Characters</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/playful-winter-party-poster-with-clay-characters">Open on posterlet.com →</a></div>
+<div><sub>winter party · holiday poster · clay animation style · snowman</sub></div></td>
 <td valign="top" width="25%"><a id="romantic-pastel-christmas-greeting-card"></a>
 <a href="https://posterlet.com/poster/romantic-pastel-christmas-greeting-card"><img src="https://files.posterlet.com/assets/generated/md/nlbldnzs6ovj.webp" alt="Romantic Pastel Christmas Greeting Card — 3:4 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Romantic Pastel Christmas Greeting Card</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/romantic-pastel-christmas-greeting-card">Open on posterlet.com →</a></div>
 <div><sub>Christmas card · pastel holiday · festive greeting · winter holiday</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="starlight-christmas-night-market-poster"></a>
 <a href="https://posterlet.com/poster/starlight-christmas-night-market-poster"><img src="https://files.posterlet.com/assets/generated/md/pqqt0hxkxmie.webp" alt="Starlight Christmas Night Market Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Starlight Christmas Night Market Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/starlight-christmas-night-market-poster">Open on posterlet.com →</a></div>
 <div><sub>Christmas · holiday night market · flat illustration · Santa</sub></div></td>
+<td valign="top" width="25%"><a id="winter-craft-fair-felt-diorama-poster"></a>
+<a href="https://posterlet.com/poster/winter-craft-fair-felt-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/9voco7bqg1mh.webp" alt="Winter Craft Fair Felt Diorama Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Winter Craft Fair Felt Diorama Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/winter-craft-fair-felt-diorama-poster">Open on posterlet.com →</a></div>
+<div><sub>winter craft fair · needle felting · craft market · felt diorama</sub></div></td>
+<td valign="top" width="25%"><a id="winter-event-calendar-gouache-illustration"></a>
+<a href="https://posterlet.com/poster/winter-event-calendar-gouache-illustration"><img src="https://files.posterlet.com/assets/generated/md/glwkvzgirbh6.webp" alt="Winter Event Calendar Gouache Illustration — 9:16 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Winter Event Calendar Gouache Illustration</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/winter-event-calendar-gouache-illustration">Open on posterlet.com →</a></div>
+<div><sub>winter calendar · gouache illustration · holiday event planner · snowman design</sub></div></td>
+<td valign="top" width="25%"><a id="winter-makers-club-event-banner"></a>
+<a href="https://posterlet.com/poster/winter-makers-club-event-banner"><img src="https://files.posterlet.com/assets/generated/md/3gqqd1wrnu5q.webp" alt="Winter Makers Club Event Banner — 9:16 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Winter Makers Club Event Banner</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/winter-makers-club-event-banner">Open on posterlet.com →</a></div>
+<div><sub>winter event · makers club · paper cut illustration · snowman</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="winter-snow-globe-festival-poster"></a>
 <a href="https://posterlet.com/poster/winter-snow-globe-festival-poster"><img src="https://files.posterlet.com/assets/generated/md/9st965es2s7j.webp" alt="Winter Snow Globe Festival Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Winter Snow Globe Festival Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/winter-snow-globe-festival-poster">Open on posterlet.com →</a></div>
 <div><sub>winter festival · snow globe · ice castle · christmas event</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cozy-3d-gingerbread-christmas-greeting-card"></a>
 <a href="https://posterlet.com/poster/cozy-3d-gingerbread-christmas-greeting-card"><img src="https://files.posterlet.com/assets/generated/md/76oc3u2zvqqh.webp" alt="Cozy 3D Gingerbread Christmas Greeting Card — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy 3D Gingerbread Christmas Greeting Card</b></div>
@@ -153,13 +180,18 @@
 <div style="margin-top: 8px;"><b>Expressive Gouache Christmas Tree Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/expressive-gouache-christmas-tree-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · gouache painting · holiday poster · festive art</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="felt-board-christmas-invitation-flyer"></a>
 <a href="https://posterlet.com/poster/felt-board-christmas-invitation-flyer"><img src="https://files.posterlet.com/assets/generated/md/bluvm07ijftl.webp" alt="Felt Board Christmas Invitation Flyer — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Felt Board Christmas Invitation Flyer</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/felt-board-christmas-invitation-flyer">Open on posterlet.com →</a></div>
 <div><sub>Christmas invitation · felt board design · handcrafted holiday flyer · stitched typography</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="handcrafted-felt-winter-greeting-poster"></a>
+<a href="https://posterlet.com/poster/handcrafted-felt-winter-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/rvgaza1ckspm.webp" alt="Handcrafted Felt Winter Greeting Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Handcrafted Felt Winter Greeting Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/handcrafted-felt-winter-greeting-poster">Open on posterlet.com →</a></div>
+<div><sub>winter poster · felt craft art · handmade holiday decor · cozy winter greeting</sub></div></td>
 <td valign="top" width="25%"><a id="luxurious-gilded-christmas-greeting-poster"></a>
 <a href="https://posterlet.com/poster/luxurious-gilded-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/7vvbh2lglj92.webp" alt="Luxurious Gilded Christmas Greeting Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxurious Gilded Christmas Greeting Poster</b></div>
@@ -170,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Luxury Gold Ribbon Christmas Tree Greeting</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/luxury-gold-ribbon-christmas-tree-greeting">Open on posterlet.com →</a></div>
 <div><sub>christmas · luxury · gold ribbon · holiday</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="winter-museum-christmas-gala-poster"></a>
 <a href="https://posterlet.com/poster/winter-museum-christmas-gala-poster"><img src="https://files.posterlet.com/assets/generated/md/hv9hjho1y8rk.webp" alt="Winter Museum Christmas Gala Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Winter Museum Christmas Gala Poster</b></div>
@@ -180,8 +214,6 @@
 <div style="margin-top: 8px;"><b>Elegant Gold Foil Christmas Greeting</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/elegant-gold-foil-christmas-greeting">Open on posterlet.com →</a></div>
 <div><sub>christmas · greeting · poster · flat vector</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="joyful-santa-christmas-greeting-poster"></a>
 <a href="https://posterlet.com/poster/joyful-santa-christmas-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/72fxbhyx8ltx.webp" alt="Joyful Santa Christmas Greeting Poster — 9:16 Events &amp; Parties poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Joyful Santa Christmas Greeting Poster</b></div>

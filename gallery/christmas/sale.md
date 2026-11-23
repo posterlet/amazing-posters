@@ -1,8 +1,8 @@
 <h2>Christmas & Holiday — Sales & Discounts</h2>
 
-<p><b>Part 1 of 3</b> — 1–40 of 92 · [Next →](sale-2.md)</p>
+<p><b>Part 1 of 5</b> — 1–40 of 175 · [Next →](sale-2.md)</p>
 
-<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 92 specs is in <a href="../../data/christmas/sale.jsonl">data/christmas/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 175 specs is in <a href="../../data/christmas/sale.jsonl">data/christmas/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -11,6 +11,50 @@
 <div style="margin-top: 8px;"><b>3D Santa Christmas Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/3d-santa-christmas-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>Christmas sale · holiday promotion · 3D Santa · retail poster</sub></div></td>
+<td valign="top" width="25%"><a id="a-warmer-life-winter-fragrance-poster"></a>
+<a href="https://posterlet.com/poster/a-warmer-life-winter-fragrance-poster"><img src="https://files.posterlet.com/assets/generated/md/prm6pb0cbhld.webp" alt="A Warmer Life Winter Fragrance Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>A Warmer Life Winter Fragrance Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/a-warmer-life-winter-fragrance-poster">Open on posterlet.com →</a></div>
+<div><sub>candle · home fragrance · winter decor · luxury lifestyle</sub></div></td>
+<td valign="top" width="25%"><a id="aesthetics-festival-winter-fashion-sale"></a>
+<a href="https://posterlet.com/poster/aesthetics-festival-winter-fashion-sale"><img src="https://files.posterlet.com/assets/generated/md/j1kd9ivevza5.webp" alt="Aesthetics Festival Winter Fashion Sale — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Aesthetics Festival Winter Fashion Sale</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/aesthetics-festival-winter-fashion-sale">Open on posterlet.com →</a></div>
+<div><sub>winter fashion sale · fashion poster · paper collage · promotional poster</sub></div></td>
+<td valign="top" width="25%"><a id="art-deco-beauty-festival-sale-banner"></a>
+<a href="https://posterlet.com/poster/art-deco-beauty-festival-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/955ewh4rc0f7.webp" alt="Art Deco Beauty Festival Sale Banner — 16:9 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Beauty Festival Sale Banner</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/art-deco-beauty-festival-sale-banner">Open on posterlet.com →</a></div>
+<div><sub>beauty sale · art deco banner · holiday beauty · luxury cosmetics</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="art-deco-holiday-beauty-sale-poster"></a>
+<a href="https://posterlet.com/poster/art-deco-holiday-beauty-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/0c81a1hvmnay.webp" alt="Art Deco Holiday Beauty Sale Poster — 2:3 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Holiday Beauty Sale Poster</b></div>
+<div>2:3 · <a href="https://posterlet.com/poster/art-deco-holiday-beauty-sale-poster">Open on posterlet.com →</a></div>
+<div><sub>holiday sale · beauty · luxury cosmetics · art deco</sub></div></td>
+<td valign="top" width="25%"><a id="art-deco-luxury-skincare-price-list-poster"></a>
+<a href="https://posterlet.com/poster/art-deco-luxury-skincare-price-list-poster"><img src="https://files.posterlet.com/assets/generated/md/plnqdenb0jci.webp" alt="Art Deco Luxury Skincare Price List Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Luxury Skincare Price List Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/art-deco-luxury-skincare-price-list-poster">Open on posterlet.com →</a></div>
+<div><sub>luxury beauty · art deco · skincare sale · price list poster</sub></div></td>
+<td valign="top" width="25%"><a id="art-deco-winter-skincare-luxury-sale"></a>
+<a href="https://posterlet.com/poster/art-deco-winter-skincare-luxury-sale"><img src="https://files.posterlet.com/assets/generated/md/cl9ffg4jex4f.webp" alt="Art Deco Winter Skincare Luxury Sale — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Art Deco Winter Skincare Luxury Sale</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/art-deco-winter-skincare-luxury-sale">Open on posterlet.com →</a></div>
+<div><sub>winter sale · skincare · luxury beauty · art deco</sub></div></td>
+<td valign="top" width="25%"><a id="beauty-makers-festival-gift-sale-banner"></a>
+<a href="https://posterlet.com/poster/beauty-makers-festival-gift-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/sq41e8csh7na.webp" alt="Beauty Makers Festival Gift Sale Banner — 16:9 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Beauty Makers Festival Gift Sale Banner</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/beauty-makers-festival-gift-sale-banner">Open on posterlet.com →</a></div>
+<div><sub>beauty sale · festival banner · luxury cosmetics · gift season</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="big-price-day-december-snack-sale"></a>
+<a href="https://posterlet.com/poster/big-price-day-december-snack-sale"><img src="https://files.posterlet.com/assets/generated/md/qnp156da48tk.webp" alt="Big Price Day December Snack Sale — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Big Price Day December Snack Sale</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/big-price-day-december-snack-sale">Open on posterlet.com →</a></div>
+<div><sub>3D clay poster · December sale · snack promotion · festive shopping</sub></div></td>
 <td valign="top" width="25%"><a id="bold-christmas-holiday-sale-poster"></a>
 <a href="https://posterlet.com/poster/bold-christmas-holiday-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/j8kkxoyo8j72.webp" alt="Bold Christmas Holiday Sale Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Bold Christmas Holiday Sale Poster</b></div>
@@ -126,18 +170,23 @@
 <div style="margin-top: 8px;"><b>Christmas Real Estate Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/christmas-real-estate-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · real estate · sale poster · holiday promotion</sub></div></td>
+<td valign="top" width="25%"><a id="christmas-refresh-holiday-poster"></a>
+<a href="https://posterlet.com/poster/christmas-refresh-holiday-poster"><img src="https://files.posterlet.com/assets/generated/md/v8gfg7gwxgr1.webp" alt="Christmas Refresh Holiday Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Christmas Refresh Holiday Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/christmas-refresh-holiday-poster">Open on posterlet.com →</a></div>
+<div><sub>christmas sale · holiday promo · winter fashion · festive style</sub></div></td>
 <td valign="top" width="25%"><a id="christmas-retail-campaign-poster-with-glowing-forest"></a>
 <a href="https://posterlet.com/poster/christmas-retail-campaign-poster-with-glowing-forest"><img src="https://files.posterlet.com/assets/generated/md/orzepmac8nii.webp" alt="Christmas Retail Campaign Poster with Glowing Forest — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Christmas Retail Campaign Poster with Glowing Forest</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/christmas-retail-campaign-poster-with-glowing-forest">Open on posterlet.com →</a></div>
 <div><sub>christmas poster · holiday campaign · retail advertising · christmas sale</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="christmas-sale-poster-with-gift-boxes"></a>
 <a href="https://posterlet.com/poster/christmas-sale-poster-with-gift-boxes"><img src="https://files.posterlet.com/assets/generated/md/i2fjltm72yrh.webp" alt="Christmas Sale Poster with Gift Boxes — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Christmas Sale Poster with Gift Boxes</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/christmas-sale-poster-with-gift-boxes">Open on posterlet.com →</a></div>
 <div><sub>christmas sale · holiday promotion · gift boxes · product photography</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="christmas-unboxing-reveal-poster"></a>
 <a href="https://posterlet.com/poster/christmas-unboxing-reveal-poster"><img src="https://files.posterlet.com/assets/generated/md/qdiid9ddd25p.webp" alt="Christmas Unboxing Reveal Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Christmas Unboxing Reveal Poster</b></div>
@@ -153,77 +202,28 @@
 <div style="margin-top: 8px;"><b>Clay Santa Christmas Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/clay-santa-christmas-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · santa · clay-style · holiday-sale</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="cocoa-cinnamon-oat-winter-beverage-poster"></a>
+<a href="https://posterlet.com/poster/cocoa-cinnamon-oat-winter-beverage-poster"><img src="https://files.posterlet.com/assets/generated/md/9re7h7w6d2vy.webp" alt="Cocoa Cinnamon Oat Winter Beverage Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cocoa Cinnamon Oat Winter Beverage Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cocoa-cinnamon-oat-winter-beverage-poster">Open on posterlet.com →</a></div>
+<div><sub>cocoa · cinnamon · oat milk · winter drink</sub></div></td>
 <td valign="top" width="25%"><a id="cozy-christmas-product-sale-poster"></a>
 <a href="https://posterlet.com/poster/cozy-christmas-product-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/ijkdrl9oo1n7.webp" alt="Cozy Christmas Product Sale Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Christmas Product Sale Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-christmas-product-sale-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas sale · product poster · 3d render · holiday promotion</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="cozy-felt-winter-new-arrivals-poster"></a>
+<a href="https://posterlet.com/poster/cozy-felt-winter-new-arrivals-poster"><img src="https://files.posterlet.com/assets/generated/md/00o5i4pgl5zh.webp" alt="Cozy Felt Winter New Arrivals Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cozy Felt Winter New Arrivals Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cozy-felt-winter-new-arrivals-poster">Open on posterlet.com →</a></div>
+<div><sub>winter · new arrivals · felt craft · poster design</sub></div></td>
 <td valign="top" width="25%"><a id="cozy-holiday-live-stream-overlay-frame"></a>
 <a href="https://posterlet.com/poster/cozy-holiday-live-stream-overlay-frame"><img src="https://files.posterlet.com/assets/generated/md/zxehr0660xqt.webp" alt="Cozy Holiday Live Stream Overlay Frame — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Holiday Live Stream Overlay Frame</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-holiday-live-stream-overlay-frame">Open on posterlet.com →</a></div>
 <div><sub>christmas overlay · live stream frame · holiday sale · knit border</sub></div></td>
-<td valign="top" width="25%"><a id="elegant-red-gold-christmas-stream-overlay"></a>
-<a href="https://posterlet.com/poster/elegant-red-gold-christmas-stream-overlay"><img src="https://files.posterlet.com/assets/generated/md/9v7szlxzyik7.webp" alt="Elegant Red Gold Christmas Stream Overlay — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Elegant Red Gold Christmas Stream Overlay</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/elegant-red-gold-christmas-stream-overlay">Open on posterlet.com →</a></div>
-<div><sub>Christmas live stream overlay · holiday stream frame · red and gold Christmas graphic · streamer overlay template</sub></div></td>
-<td valign="top" width="25%"><a id="festive-christmas-cheeseburger-promotion-poster"></a>
-<a href="https://posterlet.com/poster/festive-christmas-cheeseburger-promotion-poster"><img src="https://files.posterlet.com/assets/generated/md/wq6ultoo2i03.webp" alt="Festive Christmas Cheeseburger Promotion Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Christmas Cheeseburger Promotion Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-christmas-cheeseburger-promotion-poster">Open on posterlet.com →</a></div>
-<div><sub>christmas · food promotion · cheeseburger · holiday sale</sub></div></td>
-<td valign="top" width="25%"><a id="festive-christmas-live-stream-promotional-backdrop"></a>
-<a href="https://posterlet.com/poster/festive-christmas-live-stream-promotional-backdrop"><img src="https://files.posterlet.com/assets/generated/md/ivlr8fv7sfa5.webp" alt="Festive Christmas Live-Stream Promotional Backdrop — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Christmas Live-Stream Promotional Backdrop</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-christmas-live-stream-promotional-backdrop">Open on posterlet.com →</a></div>
-<div><sub>christmas · live stream · holiday sale · promotional backdrop</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="festive-holiday-livestream-overlay-frame"></a>
-<a href="https://posterlet.com/poster/festive-holiday-livestream-overlay-frame"><img src="https://files.posterlet.com/assets/generated/md/kgb7gc2utrd0.webp" alt="Festive Holiday Livestream Overlay Frame — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Holiday Livestream Overlay Frame</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-holiday-livestream-overlay-frame">Open on posterlet.com →</a></div>
-<div><sub>christmas · holiday · livestream · overlay frame</sub></div></td>
-<td valign="top" width="25%"><a id="festive-holiday-ornament-poster-with-santa"></a>
-<a href="https://posterlet.com/poster/festive-holiday-ornament-poster-with-santa"><img src="https://files.posterlet.com/assets/generated/md/vj3khlzgwi6b.webp" alt="Festive Holiday Ornament Poster with Santa — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Holiday Ornament Poster with Santa</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-holiday-ornament-poster-with-santa">Open on posterlet.com →</a></div>
-<div><sub>christmas · holiday poster · festive greeting · winter promotion</sub></div></td>
-<td valign="top" width="25%"><a id="festive-holiday-sale-poster"></a>
-<a href="https://posterlet.com/poster/festive-holiday-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/x5eftfp4qs8c.webp" alt="Festive Holiday Sale Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Holiday Sale Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-holiday-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>christmas · holiday sale · promotional poster · gifts</sub></div></td>
-<td valign="top" width="25%"><a id="festive-red-christmas-live-selling-stage-backdrop"></a>
-<a href="https://posterlet.com/poster/festive-red-christmas-live-selling-stage-backdrop"><img src="https://files.posterlet.com/assets/generated/md/mgr7mdll4vwd.webp" alt="Festive Red Christmas Live-Selling Stage Backdrop — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Festive Red Christmas Live-Selling Stage Backdrop</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/festive-red-christmas-live-selling-stage-backdrop">Open on posterlet.com →</a></div>
-<div><sub>christmas sale · live selling stage · holiday promotion · scarlet red background</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="geometric-paper-cut-holiday-season-sale-poster"></a>
-<a href="https://posterlet.com/poster/geometric-paper-cut-holiday-season-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/yr0o482iulab.webp" alt="Geometric Paper-Cut Holiday Season Sale Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Geometric Paper-Cut Holiday Season Sale Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/geometric-paper-cut-holiday-season-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>holiday sale · christmas poster · paper cut art · geometric design</sub></div></td>
-<td valign="top" width="25%"><a id="glamorous-gold-christmas-sale-poster"></a>
-<a href="https://posterlet.com/poster/glamorous-gold-christmas-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/tq8grb3jp7pi.webp" alt="Glamorous Gold Christmas Sale Poster — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Glamorous Gold Christmas Sale Poster</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/glamorous-gold-christmas-sale-poster">Open on posterlet.com →</a></div>
-<div><sub>christmas · sale · promotion · luxury</sub></div></td>
-<td valign="top" width="25%"><a id="happy-christmas-in-store-gift-bus-promotion"></a>
-<a href="https://posterlet.com/poster/happy-christmas-in-store-gift-bus-promotion"><img src="https://files.posterlet.com/assets/generated/md/o5o8guz52btw.webp" alt="Happy Christmas In-Store Gift Bus Promotion — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Happy Christmas In-Store Gift Bus Promotion</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/happy-christmas-in-store-gift-bus-promotion">Open on posterlet.com →</a></div>
-<div><sub>Christmas promotion · holiday retail poster · double-decker bus · Santa poster</sub></div></td>
-<td valign="top" width="25%"><a id="holiday-exclusive-3d-clay-popup-ad"></a>
-<a href="https://posterlet.com/poster/holiday-exclusive-3d-clay-popup-ad"><img src="https://files.posterlet.com/assets/generated/md/xkmjvzz23ujp.webp" alt="Holiday Exclusive 3D Clay Popup Ad — 9:16 Sales &amp; Discounts poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Holiday Exclusive 3D Clay Popup Ad</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/holiday-exclusive-3d-clay-popup-ad">Open on posterlet.com →</a></div>
-<div><sub>holiday sale · 3d clay render · popup ad · christmas promotion</sub></div></td>
 </tr>
 </table>
 

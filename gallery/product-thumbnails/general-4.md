@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 4 of 13</b> — 121–160 of 494 · [← Previous](general-3.md) · [Next →](general-5.md)</p>
+<p><b>Part 4 of 13</b> — 121–160 of 500 · [← Previous](general-3.md) · [Next →](general-5.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -109,13 +109,18 @@
 <div style="margin-top: 8px;"><b>Stainless Steel Screws Industrial Precision Fasteners</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/stainless-steel-screws-industrial-precision-fasteners">Open on posterlet.com →</a></div>
 <div><sub>stainless steel screws · industrial fasteners · precision machining · product photography</sub></div></td>
+<td valign="top" width="25%"><a id="stainless-steel-sink-drain-pot-with-fine-mesh"></a>
+<a href="https://posterlet.com/poster/stainless-steel-sink-drain-pot-with-fine-mesh"><img src="https://files.posterlet.com/assets/generated/md/pzur746y7koc.webp" alt="Stainless Steel Sink Drain Pot with Fine Mesh — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Stainless Steel Sink Drain Pot with Fine Mesh</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/stainless-steel-sink-drain-pot-with-fine-mesh">Open on posterlet.com →</a></div>
+<div><sub>kitchen product · stainless steel pot · sink drain · induction hob</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="street-style-menswear-fashion-set-showcase"></a>
 <a href="https://posterlet.com/poster/street-style-menswear-fashion-set-showcase"><img src="https://files.posterlet.com/assets/generated/md/mjtnpdahzbs4.webp" alt="Street Style Menswear Fashion Set Showcase — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Street Style Menswear Fashion Set Showcase</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/street-style-menswear-fashion-set-showcase">Open on posterlet.com →</a></div>
 <div><sub>menswear · street style · fashion set · casual outfit</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="streetwear-jeans-review-showcase"></a>
 <a href="https://posterlet.com/poster/streetwear-jeans-review-showcase"><img src="https://files.posterlet.com/assets/generated/md/c0n5glpz8qru.webp" alt="Streetwear Jeans Review Showcase — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Streetwear Jeans Review Showcase</b></div>
@@ -131,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Streetwear Outfit Recommendation Grid</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/streetwear-outfit-recommendation-grid">Open on posterlet.com →</a></div>
 <div><sub>streetwear · outfit grid · e-commerce product · men's fashion</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="summer-wireless-lace-bralette-product-ad"></a>
 <a href="https://posterlet.com/poster/summer-wireless-lace-bralette-product-ad"><img src="https://files.posterlet.com/assets/generated/md/7mrap24mxciu.webp" alt="Summer Wireless Lace Bralette Product Ad — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Summer Wireless Lace Bralette Product Ad</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/summer-wireless-lace-bralette-product-ad">Open on posterlet.com →</a></div>
 <div><sub>wireless bra · lace bralette · strapless bra · summer lingerie</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="super-fast-charging-cable-showcase"></a>
 <a href="https://posterlet.com/poster/super-fast-charging-cable-showcase"><img src="https://files.posterlet.com/assets/generated/md/j5jiq7whpiqm.webp" alt="Super Fast Charging Cable Showcase — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Super Fast Charging Cable Showcase</b></div>
@@ -153,13 +158,18 @@
 <div style="margin-top: 8px;"><b>Sweet Pink Outfit Collage Lookbook</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sweet-pink-outfit-collage-lookbook">Open on posterlet.com →</a></div>
 <div><sub>fashion collage · product flat-lay · outfit breakdown · pink aesthetic</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="teachers-day-neck-massager-classroom-gift"></a>
 <a href="https://posterlet.com/poster/teachers-day-neck-massager-classroom-gift"><img src="https://files.posterlet.com/assets/generated/md/vaezblj8oukw.webp" alt="Teacher's Day Neck Massager Classroom Gift — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Teacher's Day Neck Massager Classroom Gift</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/teachers-day-neck-massager-classroom-gift">Open on posterlet.com →</a></div>
 <div><sub>neck massager · teacher's day gift · chalkboard classroom · product main image</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="the-designers-wardrobe-fashion-lookbook"></a>
+<a href="https://posterlet.com/poster/the-designers-wardrobe-fashion-lookbook"><img src="https://files.posterlet.com/assets/generated/md/x80pgu7o3w34.webp" alt="The Designer's Wardrobe Fashion Lookbook — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>The Designer's Wardrobe Fashion Lookbook</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/the-designers-wardrobe-fashion-lookbook">Open on posterlet.com →</a></div>
+<div><sub>fashion lookbook · denim mini skirt · sage green top · product thumbnail</sub></div></td>
 <td valign="top" width="25%"><a id="timeless-classic-wristwatch-gift"></a>
 <a href="https://posterlet.com/poster/timeless-classic-wristwatch-gift"><img src="https://files.posterlet.com/assets/generated/md/wqkilsjzuvqk.webp" alt="Timeless Classic Wristwatch Gift — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Timeless Classic Wristwatch Gift</b></div>
@@ -170,6 +180,8 @@
 <div style="margin-top: 8px;"><b>Translation Magic Pen Back-to-School Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/translation-magic-pen-back-to-school-sale">Open on posterlet.com →</a></div>
 <div><sub>translation pen · back to school · dictionary scanner · study tool</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="tropical-flash-sale-fashion-promo"></a>
 <a href="https://posterlet.com/poster/tropical-flash-sale-fashion-promo"><img src="https://files.posterlet.com/assets/generated/md/x8f1aarz02rh.webp" alt="Tropical Flash Sale Fashion Promo — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Tropical Flash Sale Fashion Promo</b></div>
@@ -180,8 +192,6 @@
 <div style="margin-top: 8px;"><b>Ultra HD Curved TV Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/ultra-hd-curved-tv-sale">Open on posterlet.com →</a></div>
 <div><sub>TV · ultra HD · curved screen · flat panel</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="ultra-light-down-coat-winter-lookbook"></a>
 <a href="https://posterlet.com/poster/ultra-light-down-coat-winter-lookbook"><img src="https://files.posterlet.com/assets/generated/md/t1nwbge8zyj9.webp" alt="Ultra-Light Down Coat Winter Lookbook — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Ultra-Light Down Coat Winter Lookbook</b></div>
@@ -192,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Underwater Diving Center Adventure</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/underwater-diving-center-adventure">Open on posterlet.com →</a></div>
 <div><sub>diving center · scuba diving · kids swimming · underwater photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="vintage-romance-womenswear-product-display"></a>
 <a href="https://posterlet.com/poster/vintage-romance-womenswear-product-display"><img src="https://files.posterlet.com/assets/generated/md/s3pni1plbhv3.webp" alt="Vintage Romance Womenswear Product Display — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Vintage Romance Womenswear Product Display</b></div>
@@ -202,8 +214,6 @@
 <div style="margin-top: 8px;"><b>VIP Membership Club Invitation</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/vip-membership-club-invitation">Open on posterlet.com →</a></div>
 <div><sub>VIP membership · premium club · gilded invitation · crown crest</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="vip-membership-upgrade-product-image"></a>
 <a href="https://posterlet.com/poster/vip-membership-upgrade-product-image"><img src="https://files.posterlet.com/assets/generated/md/o31khogwplbm.webp" alt="VIP Membership Upgrade Product Image — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>VIP Membership Upgrade Product Image</b></div>
@@ -214,16 +224,6 @@
 <div style="margin-top: 8px;"><b>Warm Winter Days Thermal Cup</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/warm-winter-days-thermal-cup">Open on posterlet.com →</a></div>
 <div><sub>thermal cup · insulated bottle · winter product · travel mug</sub></div></td>
-<td valign="top" width="25%"><a id="wet-dry-2-in-1-mop-product-shot"></a>
-<a href="https://posterlet.com/poster/wet-dry-2-in-1-mop-product-shot"><img src="https://files.posterlet.com/assets/generated/md/c14c8ue4r3ck.webp" alt="Wet &amp; Dry 2-in-1 Mop Product Shot — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Wet &amp; Dry 2-in-1 Mop Product Shot</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/wet-dry-2-in-1-mop-product-shot">Open on posterlet.com →</a></div>
-<div><sub>mop · cleaning product · microfiber · home goods</sub></div></td>
-<td valign="top" width="25%"><a id="winter-fashion-editorial-coat-poster"></a>
-<a href="https://posterlet.com/poster/winter-fashion-editorial-coat-poster"><img src="https://files.posterlet.com/assets/generated/md/lkwk4kokk200.webp" alt="Winter Fashion Editorial Coat Poster — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Winter Fashion Editorial Coat Poster</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/winter-fashion-editorial-coat-poster">Open on posterlet.com →</a></div>
-<div><sub>winter fashion · houndstooth coat · editorial poster · fashion show</sub></div></td>
 </tr>
 </table>
 

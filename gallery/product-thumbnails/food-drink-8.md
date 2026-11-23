@@ -1,11 +1,21 @@
 <h2>Product Thumbnails — Food & Drink</h2>
 
-<p><b>Part 8 of 17</b> — 281–320 of 666 · [← Previous](food-drink-7.md) · [Next →](food-drink-9.md)</p>
+<p><b>Part 8 of 18</b> — 281–320 of 684 · [← Previous](food-drink-7.md) · [Next →](food-drink-9.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 666 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 684 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="fresh-mixed-fruit-promo"></a>
+<a href="https://posterlet.com/poster/fresh-mixed-fruit-promo"><img src="https://files.posterlet.com/assets/generated/md/eo7nq1lvkpb5.webp" alt="Fresh Mixed Fruit Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Fresh Mixed Fruit Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/fresh-mixed-fruit-promo">Open on posterlet.com →</a></div>
+<div><sub>fresh fruit · supermarket promo · e-commerce product · fruit plate</sub></div></td>
+<td valign="top" width="25%"><a id="fresh-navel-oranges-harvest-display"></a>
+<a href="https://posterlet.com/poster/fresh-navel-oranges-harvest-display"><img src="https://files.posterlet.com/assets/generated/md/q2elg5fncew7.webp" alt="Fresh Navel Oranges Harvest Display — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Fresh Navel Oranges Harvest Display</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/fresh-navel-oranges-harvest-display">Open on posterlet.com →</a></div>
+<div><sub>navel oranges · fresh citrus · orchard harvest · fruit product</sub></div></td>
 <td valign="top" width="25%"><a id="fresh-navel-oranges-sweet-and-juicy-promo"></a>
 <a href="https://posterlet.com/poster/fresh-navel-oranges-sweet-and-juicy-promo"><img src="https://files.posterlet.com/assets/generated/md/799jdf8rlegh.webp" alt="Fresh Navel Oranges Sweet and Juicy Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Navel Oranges Sweet and Juicy Promo</b></div>
@@ -16,6 +26,8 @@
 <div style="margin-top: 8px;"><b>Fresh NFC Green Lime Juice Splash Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-nfc-green-lime-juice-splash-promo">Open on posterlet.com →</a></div>
 <div><sub>lime juice · NFC juice · citrus drink · vitamin C</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-orange-juice-e-commerce-product-shot"></a>
 <a href="https://posterlet.com/poster/fresh-orange-juice-e-commerce-product-shot"><img src="https://files.posterlet.com/assets/generated/md/tejp9y95ez42.webp" alt="Fresh Orange Juice E-Commerce Product Shot — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Orange Juice E-Commerce Product Shot</b></div>
@@ -26,8 +38,6 @@
 <div style="margin-top: 8px;"><b>Fresh Orchard Cherries Premium Quality</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-orchard-cherries-premium-quality">Open on posterlet.com →</a></div>
 <div><sub>cherries · fresh fruit · orchard · e-commerce product</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-orchard-lemons-product-image"></a>
 <a href="https://posterlet.com/poster/fresh-orchard-lemons-product-image"><img src="https://files.posterlet.com/assets/generated/md/1g4ayw5hjki7.webp" alt="Fresh Orchard Lemons Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Orchard Lemons Product Image</b></div>
@@ -38,6 +48,8 @@
 <div style="margin-top: 8px;"><b>Fresh Organic Eggplant Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-organic-eggplant-product-image">Open on posterlet.com →</a></div>
 <div><sub>eggplant · organic produce · farm fresh · purple aubergine</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-organic-peaches-from-the-orchard"></a>
 <a href="https://posterlet.com/poster/fresh-organic-peaches-from-the-orchard"><img src="https://files.posterlet.com/assets/generated/md/zse8y1s3605o.webp" alt="Fresh Organic Peaches from the Orchard — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Organic Peaches from the Orchard</b></div>
@@ -48,8 +60,6 @@
 <div style="margin-top: 8px;"><b>Fresh Peruvian Avocados Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-peruvian-avocados-product-image">Open on posterlet.com →</a></div>
 <div><sub>avocado · peruvian avocados · fresh produce · organic fruit</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-qilin-watermelon-sale-banner"></a>
 <a href="https://posterlet.com/poster/fresh-qilin-watermelon-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/khe059vchvd0.webp" alt="Fresh Qilin Watermelon Sale Banner — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Qilin Watermelon Sale Banner</b></div>
@@ -60,6 +70,8 @@
 <div style="margin-top: 8px;"><b>Fresh Raw California Almonds Premium Jar</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-raw-california-almonds-premium-jar">Open on posterlet.com →</a></div>
 <div><sub>almonds · raw nuts · California almonds · healthy snack</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-raw-milk-cartons-on-pastoral-farm-background"></a>
 <a href="https://posterlet.com/poster/fresh-raw-milk-cartons-on-pastoral-farm-background"><img src="https://files.posterlet.com/assets/generated/md/mp3826vwe9mj.webp" alt="Fresh Raw Milk Cartons on Pastoral Farm Background — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Raw Milk Cartons on Pastoral Farm Background</b></div>
@@ -70,8 +82,6 @@
 <div style="margin-top: 8px;"><b>Fresh Red-Flesh Dragon Fruit E-Commerce Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-red-flesh-dragon-fruit-e-commerce-product-image">Open on posterlet.com →</a></div>
 <div><sub>dragon fruit · red flesh dragon fruit · fresh produce · e-commerce product image</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-retro-blender-product-ad"></a>
 <a href="https://posterlet.com/poster/fresh-retro-blender-product-ad"><img src="https://files.posterlet.com/assets/generated/md/9c7lnnugsg24.webp" alt="Fresh Retro Blender Product Ad — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Retro Blender Product Ad</b></div>
@@ -82,6 +92,8 @@
 <div style="margin-top: 8px;"><b>Fresh Seasonal Fruit Market Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-seasonal-fruit-market-promo">Open on posterlet.com →</a></div>
 <div><sub>fresh fruit · seasonal produce · ruby grapefruit · strawberries</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-squeezed-orange-juice-product-image"></a>
 <a href="https://posterlet.com/poster/fresh-squeezed-orange-juice-product-image"><img src="https://files.posterlet.com/assets/generated/md/r1v8a13dkxmz.webp" alt="Fresh-Squeezed Orange Juice Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh-Squeezed Orange Juice Product Image</b></div>
@@ -92,8 +104,6 @@
 <div style="margin-top: 8px;"><b>Fresh Steamed Buns — Early Bird Deal</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-steamed-buns-early-bird-deal">Open on posterlet.com →</a></div>
 <div><sub>steamed buns · bamboo steamer · food photography · e-commerce product</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-summer-watermelon-market-display"></a>
 <a href="https://posterlet.com/poster/fresh-summer-watermelon-market-display"><img src="https://files.posterlet.com/assets/generated/md/jmi8248jpk4z.webp" alt="Fresh Summer Watermelon Market Display — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Summer Watermelon Market Display</b></div>
@@ -104,6 +114,8 @@
 <div style="margin-top: 8px;"><b>Fresh Tomato Juice Bottle Ad</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-tomato-juice-bottle-ad">Open on posterlet.com →</a></div>
 <div><sub>tomato juice · NFC · fresh juice · healthy drink</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-tunisian-pomegranates-direct-from-orchard"></a>
 <a href="https://posterlet.com/poster/fresh-tunisian-pomegranates-direct-from-orchard"><img src="https://files.posterlet.com/assets/generated/md/snn9wtjvkjpu.webp" alt="Fresh Tunisian Pomegranates Direct from Orchard — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Tunisian Pomegranates Direct from Orchard</b></div>
@@ -114,8 +126,6 @@
 <div style="margin-top: 8px;"><b>Fresh White Mushrooms Farm Display</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-white-mushrooms-farm-display">Open on posterlet.com →</a></div>
 <div><sub>white mushrooms · fresh produce · farm stand · organic mushrooms</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fresh-wuxi-honey-peaches-farm-direct"></a>
 <a href="https://posterlet.com/poster/fresh-wuxi-honey-peaches-farm-direct"><img src="https://files.posterlet.com/assets/generated/md/3xk9okwub617.webp" alt="Fresh Wuxi Honey Peaches - Farm Direct — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Wuxi Honey Peaches - Farm Direct</b></div>
@@ -126,6 +136,8 @@
 <div style="margin-top: 8px;"><b>Fresh Wuxi Honey Peaches Farm Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-wuxi-honey-peaches-farm-sale">Open on posterlet.com →</a></div>
 <div><sub>honey peaches · fresh fruit · farm produce · peach sale</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fresh-yellow-flesh-nectarines"></a>
 <a href="https://posterlet.com/poster/fresh-yellow-flesh-nectarines"><img src="https://files.posterlet.com/assets/generated/md/v2xebv065ejs.webp" alt="Fresh Yellow-Flesh Nectarines — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fresh Yellow-Flesh Nectarines</b></div>
@@ -136,8 +148,6 @@
 <div style="margin-top: 8px;"><b>Fresh Young Coconut Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fresh-young-coconut-product-image">Open on posterlet.com →</a></div>
 <div><sub>coconut · fresh produce · young coconut · healthy drink</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fried-chicken-beer-group-buy-deal"></a>
 <a href="https://posterlet.com/poster/fried-chicken-beer-group-buy-deal"><img src="https://files.posterlet.com/assets/generated/md/zajldo1l42gt.webp" alt="Fried Chicken &amp; Beer Group Buy Deal — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fried Chicken &amp; Beer Group Buy Deal</b></div>
@@ -148,6 +158,8 @@
 <div style="margin-top: 8px;"><b>Frosted Persimmon Harvest Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/frosted-persimmon-harvest-sale">Open on posterlet.com →</a></div>
 <div><sub>frost persimmons · dried persimmons · autumn harvest · Chinese snack</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="frosty-green-lager-beer-promo-with-coupon"></a>
 <a href="https://posterlet.com/poster/frosty-green-lager-beer-promo-with-coupon"><img src="https://files.posterlet.com/assets/generated/md/b91i1ezd18vt.webp" alt="Frosty Green Lager Beer Promo With Coupon — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Frosty Green Lager Beer Promo With Coupon</b></div>
@@ -158,8 +170,6 @@
 <div style="margin-top: 8px;"><b>Fruit Soda 6-Pack Summer Beverage Ad</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fruit-soda-6-pack-summer-beverage-ad">Open on posterlet.com →</a></div>
 <div><sub>soda · summer drink · fruit soda · beverage ad</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fujian-red-heart-honey-pomelo-farm-fresh"></a>
 <a href="https://posterlet.com/poster/fujian-red-heart-honey-pomelo-farm-fresh"><img src="https://files.posterlet.com/assets/generated/md/lm67vblla2tu.webp" alt="Fujian Red-Heart Honey Pomelo Farm Fresh — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fujian Red-Heart Honey Pomelo Farm Fresh</b></div>
@@ -170,6 +180,8 @@
 <div style="margin-top: 8px;"><b>Fully Automatic Quiet Juicer</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/fully-automatic-quiet-juicer">Open on posterlet.com →</a></div>
 <div><sub>juicer · kitchen appliance · electric juicer · product photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="gaoding-electrolyte-water-promo-poster"></a>
 <a href="https://posterlet.com/poster/gaoding-electrolyte-water-promo-poster"><img src="https://files.posterlet.com/assets/generated/md/gplwp9yi5qhi.webp" alt="GAODING Electrolyte Water Promo Poster — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>GAODING Electrolyte Water Promo Poster</b></div>
@@ -180,8 +192,6 @@
 <div style="margin-top: 8px;"><b>GAODING Honeysuckle Yuzu Juice Drink</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/gaoding-honeysuckle-yuzu-juice-drink">Open on posterlet.com →</a></div>
 <div><sub>yuzu juice · GAODING · children juice · fruit juice drink</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="gaoding-premium-cat-food-promotion-banner"></a>
 <a href="https://posterlet.com/poster/gaoding-premium-cat-food-promotion-banner"><img src="https://files.posterlet.com/assets/generated/md/4hphmhqfd207.webp" alt="Gaoding Premium Cat Food Promotion Banner — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Gaoding Premium Cat Food Promotion Banner</b></div>
@@ -192,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Gaoding Snack Gift Pack Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/gaoding-snack-gift-pack-promo">Open on posterlet.com →</a></div>
 <div><sub>snack gift pack · kraft paper pouch · chocolate truffle · roasted almonds</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="gentle-on-the-gut-cat-food"></a>
 <a href="https://posterlet.com/poster/gentle-on-the-gut-cat-food"><img src="https://files.posterlet.com/assets/generated/md/bi7xt5ryoenc.webp" alt="Gentle on the Gut Cat Food — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Gentle on the Gut Cat Food</b></div>
@@ -202,8 +214,6 @@
 <div style="margin-top: 8px;"><b>Ginger Cat Food Promo with Free Gift Deal</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/ginger-cat-food-promo-with-free-gift-deal">Open on posterlet.com →</a></div>
 <div><sub>cat food · pet supplies · e-commerce · product image</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="glass-tea-kettle-with-blooming-herbal-tea"></a>
 <a href="https://posterlet.com/poster/glass-tea-kettle-with-blooming-herbal-tea"><img src="https://files.posterlet.com/assets/generated/md/p4b14wfc6nqf.webp" alt="Glass Tea Kettle with Blooming Herbal Tea — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Glass Tea Kettle with Blooming Herbal Tea</b></div>
@@ -214,16 +224,6 @@
 <div style="margin-top: 8px;"><b>Golden Caramel Cookie Delight Display</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/golden-caramel-cookie-delight-display">Open on posterlet.com →</a></div>
 <div><sub>cookies · caramel · bakery · custard</sub></div></td>
-<td valign="top" width="25%"><a id="golden-diamond-pineapple-fresh-fruit-sale"></a>
-<a href="https://posterlet.com/poster/golden-diamond-pineapple-fresh-fruit-sale"><img src="https://files.posterlet.com/assets/generated/md/vo842arckfco.webp" alt="Golden Diamond Pineapple Fresh Fruit Sale — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Golden Diamond Pineapple Fresh Fruit Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/golden-diamond-pineapple-fresh-fruit-sale">Open on posterlet.com →</a></div>
-<div><sub>pineapple · fresh fruit · product poster · e-commerce</sub></div></td>
-<td valign="top" width="25%"><a id="golden-diamond-pineapple-summer-promo"></a>
-<a href="https://posterlet.com/poster/golden-diamond-pineapple-summer-promo"><img src="https://files.posterlet.com/assets/generated/md/9lbwqynr2wbg.webp" alt="Golden Diamond Pineapple Summer Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Golden Diamond Pineapple Summer Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/golden-diamond-pineapple-summer-promo">Open on posterlet.com →</a></div>
-<div><sub>pineapple · fruit promo · summer sale · fresh fruit</sub></div></td>
 </tr>
 </table>
 

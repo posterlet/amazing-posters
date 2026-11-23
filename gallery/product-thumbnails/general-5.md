@@ -1,11 +1,21 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 5 of 13</b> — 161–200 of 494 · [← Previous](general-4.md) · [Next →](general-6.md)</p>
+<p><b>Part 5 of 13</b> — 161–200 of 500 · [← Previous](general-4.md) · [Next →](general-6.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="wet-dry-2-in-1-mop-product-shot"></a>
+<a href="https://posterlet.com/poster/wet-dry-2-in-1-mop-product-shot"><img src="https://files.posterlet.com/assets/generated/md/c14c8ue4r3ck.webp" alt="Wet &amp; Dry 2-in-1 Mop Product Shot — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Wet &amp; Dry 2-in-1 Mop Product Shot</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/wet-dry-2-in-1-mop-product-shot">Open on posterlet.com →</a></div>
+<div><sub>mop · cleaning product · microfiber · home goods</sub></div></td>
+<td valign="top" width="25%"><a id="winter-fashion-editorial-coat-poster"></a>
+<a href="https://posterlet.com/poster/winter-fashion-editorial-coat-poster"><img src="https://files.posterlet.com/assets/generated/md/lkwk4kokk200.webp" alt="Winter Fashion Editorial Coat Poster — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Winter Fashion Editorial Coat Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/winter-fashion-editorial-coat-poster">Open on posterlet.com →</a></div>
+<div><sub>winter fashion · houndstooth coat · editorial poster · fashion show</sub></div></td>
 <td valign="top" width="25%"><a id="wireless-bluetooth-headset-pastel-pink-product-image"></a>
 <a href="https://posterlet.com/poster/wireless-bluetooth-headset-pastel-pink-product-image"><img src="https://files.posterlet.com/assets/generated/md/9ase2yep6nwq.webp" alt="Wireless Bluetooth Headset Pastel Pink Product Image — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Wireless Bluetooth Headset Pastel Pink Product Image</b></div>
@@ -16,6 +26,8 @@
 <div style="margin-top: 8px;"><b>Zero-Basics Spoken English Course Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/zero-basics-spoken-english-course-promo">Open on posterlet.com →</a></div>
 <div><sub>spoken English · online course · language learning · tutor portrait</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="2024-public-institution-exam-prep-bundle"></a>
 <a href="https://posterlet.com/poster/2024-public-institution-exam-prep-bundle"><img src="https://files.posterlet.com/assets/generated/md/npiltqo074mx.webp" alt="2024 Public Institution Exam Prep Bundle — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>2024 Public Institution Exam Prep Bundle</b></div>
@@ -26,8 +38,6 @@
 <div style="margin-top: 8px;"><b>2026 Civil Service Exam Prep Course</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/2026-civil-service-exam-prep-course">Open on posterlet.com →</a></div>
 <div><sub>civil service exam · public institutions · exam prep course · one-on-one teaching</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cpa-exam-prep-course-poster"></a>
 <a href="https://posterlet.com/poster/cpa-exam-prep-course-poster"><img src="https://files.posterlet.com/assets/generated/md/z9jq6qerdjs9.webp" alt="CPA Exam Prep Course Poster — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>CPA Exam Prep Course Poster</b></div>
@@ -38,6 +48,8 @@
 <div style="margin-top: 8px;"><b>E-commerce Course Training Guide 2026</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/e-commerce-course-training-guide-2026">Open on posterlet.com →</a></div>
 <div><sub>e-commerce · online course · training · graphic design</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="format-professional-e-commerce-product-main-image-square-2"></a>
 <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-2"><img src="https://files.posterlet.com/assets/generated/md/7jzv7ar876gp.webp" alt="2200W Industrial-Grade High Pressure Generator Promo — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>2200W Industrial-Grade High Pressure Generator Promo</b></div>
@@ -48,8 +60,6 @@
 <div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-4">Open on posterlet.com →</a></div>
 <div><sub>product thumbnail</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="format-professional-e-commerce-product-main-image-square-6"></a>
 <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-6"><img src="https://files.posterlet.com/assets/generated/md/ev37z7rf52hw.webp" alt="[Format] Professional e-commerce product main image, square — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
@@ -60,6 +70,8 @@
 <div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-9">Open on posterlet.com →</a></div>
 <div><sub>product thumbnail</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="lasting-smart-lock-premium-black-edition"></a>
 <a href="https://posterlet.com/poster/lasting-smart-lock-premium-black-edition"><img src="https://files.posterlet.com/assets/generated/md/6itferhiq370.webp" alt="Lasting Smart Lock Premium Black Edition — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Lasting Smart Lock Premium Black Edition</b></div>
@@ -70,8 +82,6 @@
 <div style="margin-top: 8px;"><b>Postgraduate Exam Prep Book Set - Official Direct Store</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/postgraduate-exam-prep-book-set-official-direct-store">Open on posterlet.com →</a></div>
 <div><sub>postgraduate exam · exam prep books · study materials · graduate entrance</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="1111-presale-carnival-discount-coupon"></a>
 <a href="https://posterlet.com/poster/1111-presale-carnival-discount-coupon"><img src="https://files.posterlet.com/assets/generated/md/xhfrxxxvtqm2.webp" alt="11.11 Presale Carnival Discount Coupon — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>11.11 Presale Carnival Discount Coupon</b></div>
@@ -82,6 +92,8 @@
 <div style="margin-top: 8px;"><b>12 Functions Wet &amp; Dry Body Trimmer</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/12-functions-wet-dry-body-trimmer">Open on posterlet.com →</a></div>
 <div><sub>body trimmer · men's grooming · wet and dry · USB rechargeable</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="38-queens-day-gold-promotional-frame"></a>
 <a href="https://posterlet.com/poster/38-queens-day-gold-promotional-frame"><img src="https://files.posterlet.com/assets/generated/md/u5z91uzx4vf0.webp" alt="3.8 Queen's Day Gold Promotional Frame — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>3.8 Queen's Day Gold Promotional Frame</b></div>
@@ -92,8 +104,6 @@
 <div style="margin-top: 8px;"><b>3D Printed Luminous Letters Signage</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/3d-printed-luminous-letters-signage">Open on posterlet.com →</a></div>
 <div><sub>3D letters · luminous signage · neon signage · custom signage</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="55-inch-4k-ultra-hd-smart-tv-sale"></a>
 <a href="https://posterlet.com/poster/55-inch-4k-ultra-hd-smart-tv-sale"><img src="https://files.posterlet.com/assets/generated/md/r9uuoer6th7p.webp" alt="55-Inch 4K Ultra HD Smart TV Sale — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>55-Inch 4K Ultra HD Smart TV Sale</b></div>
@@ -104,6 +114,13 @@
 <div style="margin-top: 8px;"><b>55 Mega Sale Festival Offer Board</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/55-mega-sale-festival-offer-board">Open on posterlet.com →</a></div>
 <div><sub>mega sale · festival offer · e-commerce banner · product promotion</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="88-member-day-luxury-watch-sale"></a>
+<a href="https://posterlet.com/poster/88-member-day-luxury-watch-sale"><img src="https://files.posterlet.com/assets/generated/md/7vfuq5l7ei8n.webp" alt="88 Member Day Luxury Watch Sale — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>88 Member Day Luxury Watch Sale</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/88-member-day-luxury-watch-sale">Open on posterlet.com →</a></div>
+<div><sub>luxury watch · chronograph · member day sale · black watch</sub></div></td>
 <td valign="top" width="25%"><a id="92-amino-acid-toothpaste-promo"></a>
 <a href="https://posterlet.com/poster/92-amino-acid-toothpaste-promo"><img src="https://files.posterlet.com/assets/generated/md/t3odr5abz9uz.webp" alt="92% Amino-Acid Toothpaste Promo — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>92% Amino-Acid Toothpaste Promo</b></div>
@@ -114,13 +131,13 @@
 <div style="margin-top: 8px;"><b>99 Bargain Fest Coupon Card</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/99-bargain-fest-coupon-card">Open on posterlet.com →</a></div>
 <div><sub>festive · coupon · sale · 99 festival</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="99-bargain-fest-flash-sale-event-poster"></a>
 <a href="https://posterlet.com/poster/99-bargain-fest-flash-sale-event-poster"><img src="https://files.posterlet.com/assets/generated/md/1h6av7od2g1j.webp" alt="99 Bargain Fest Flash Sale Event Poster — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>99 Bargain Fest Flash Sale Event Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/99-bargain-fest-flash-sale-event-poster">Open on posterlet.com →</a></div>
 <div><sub>flash sale · 99 festival · product banner · e-commerce</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="99-bargain-fest-price-breakdown-banner"></a>
 <a href="https://posterlet.com/poster/99-bargain-fest-price-breakdown-banner"><img src="https://files.posterlet.com/assets/generated/md/z1oiuodoshpp.webp" alt="99 Bargain Fest Price Breakdown Banner — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>99 Bargain Fest Price Breakdown Banner</b></div>
@@ -136,13 +153,13 @@
 <div style="margin-top: 8px;"><b>99 Bargain Fest Sale Promotion</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/99-bargain-fest-sale-promotion">Open on posterlet.com →</a></div>
 <div><sub>sale banner · promo poster · festival sale · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="99-festival-big-sale-event"></a>
 <a href="https://posterlet.com/poster/99-festival-big-sale-event"><img src="https://files.posterlet.com/assets/generated/md/t6ixyd25f4tq.webp" alt="99 Festival Big Sale Event — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>99 Festival Big Sale Event</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/99-festival-big-sale-event">Open on posterlet.com →</a></div>
 <div><sub>99 festival · big sale · e-commerce · discount</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="99-festival-deal-product-main-image-template"></a>
 <a href="https://posterlet.com/poster/99-festival-deal-product-main-image-template"><img src="https://files.posterlet.com/assets/generated/md/7ddablgsfxim.webp" alt="9.9 Festival Deal Product Main Image Template — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>9.9 Festival Deal Product Main Image Template</b></div>
@@ -158,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Acoustic Cello with Promotional Pricing</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/acoustic-cello-with-promotional-pricing">Open on posterlet.com →</a></div>
 <div><sub>cello · acoustic instrument · product photo · e-commerce</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="ai-smart-circulation-fan-cool-comfort"></a>
 <a href="https://posterlet.com/poster/ai-smart-circulation-fan-cool-comfort"><img src="https://files.posterlet.com/assets/generated/md/nk0cp9zbdjij.webp" alt="AI Smart Circulation Fan — Cool Comfort — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>AI Smart Circulation Fan — Cool Comfort</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/ai-smart-circulation-fan-cool-comfort">Open on posterlet.com →</a></div>
 <div><sub>smart fan · air circulation · tower fan · smart home</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="all-day-lasting-cool-tower-fan"></a>
 <a href="https://posterlet.com/poster/all-day-lasting-cool-tower-fan"><img src="https://files.posterlet.com/assets/generated/md/0s0ys82ja627.webp" alt="All-Day Lasting Cool Tower Fan — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>All-Day Lasting Cool Tower Fan</b></div>
@@ -180,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Apricot Leather Loafers Mother's Day Showcase</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/apricot-leather-loafers-mothers-day-showcase">Open on posterlet.com →</a></div>
 <div><sub>loafers · leather shoes · Mother's Day gift · women's footwear</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="autumn-winter-wool-coat-collection"></a>
 <a href="https://posterlet.com/poster/autumn-winter-wool-coat-collection"><img src="https://files.posterlet.com/assets/generated/md/kduwf4yz812b.webp" alt="Autumn-Winter Wool Coat Collection — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Autumn-Winter Wool Coat Collection</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/autumn-winter-wool-coat-collection">Open on posterlet.com →</a></div>
 <div><sub>wool coat · autumn fashion · winter wardrobe · double-breasted coat</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="bare-face-glasses-boutique-style"></a>
 <a href="https://posterlet.com/poster/bare-face-glasses-boutique-style"><img src="https://files.posterlet.com/assets/generated/md/cl1imwpqvxpn.webp" alt="Bare-Face Glasses Boutique Style — 1:1 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Bare-Face Glasses Boutique Style</b></div>
@@ -202,28 +219,11 @@
 <div style="margin-top: 8px;"><b>Beauty Temptation Sale Lingerie Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/beauty-temptation-sale-lingerie-promo">Open on posterlet.com →</a></div>
 <div><sub>boudoir lingerie · sale promotion · product thumbnail · lace bralette</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-mega-sale-promotion"></a>
 <a href="https://posterlet.com/poster/black-friday-mega-sale-promotion"><img src="https://files.posterlet.com/assets/generated/md/0lcprug9rqys.webp" alt="Black Friday Mega Sale Promotion — 9:16 General Products poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Mega Sale Promotion</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/black-friday-mega-sale-promotion">Open on posterlet.com →</a></div>
 <div><sub>Black Friday · sale poster · e-commerce · shopping deal</sub></div></td>
-<td valign="top" width="25%"><a id="black-mesh-running-sneakers-breathable-stylish"></a>
-<a href="https://posterlet.com/poster/black-mesh-running-sneakers-breathable-stylish"><img src="https://files.posterlet.com/assets/generated/md/9wpw1nh4s4t4.webp" alt="Black Mesh Running Sneakers - Breathable &amp; Stylish — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Mesh Running Sneakers - Breathable &amp; Stylish</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/black-mesh-running-sneakers-breathable-stylish">Open on posterlet.com →</a></div>
-<div><sub>running sneakers · black mesh shoes · breathable sneakers · lightweight runners</sub></div></td>
-<td valign="top" width="25%"><a id="black-running-shoes-breathable-stylish"></a>
-<a href="https://posterlet.com/poster/black-running-shoes-breathable-stylish"><img src="https://files.posterlet.com/assets/generated/md/fed7zq7dxfmy.webp" alt="Black Running Shoes Breathable &amp; Stylish — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Running Shoes Breathable &amp; Stylish</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/black-running-shoes-breathable-stylish">Open on posterlet.com →</a></div>
-<div><sub>running shoes · black sneakers · breathable footwear · anti-slip shoes</sub></div></td>
-<td valign="top" width="25%"><a id="black-sneakers-purple-gradient-promo"></a>
-<a href="https://posterlet.com/poster/black-sneakers-purple-gradient-promo"><img src="https://files.posterlet.com/assets/generated/md/2ov2tz5vkvxe.webp" alt="Black Sneakers Purple Gradient Promo — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Black Sneakers Purple Gradient Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/black-sneakers-purple-gradient-promo">Open on posterlet.com →</a></div>
-<div><sub>sneakers · running shoes · product promo · e-commerce</sub></div></td>
 </tr>
 </table>
 

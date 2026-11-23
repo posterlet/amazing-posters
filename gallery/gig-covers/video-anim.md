@@ -1,8 +1,8 @@
 <h2>Gig Covers — Video & Animation</h2>
 
-<p><b>Part 1 of 2</b> — 1–40 of 46 · [Next →](video-anim-2.md)</p>
+<p><b>Part 1 of 2</b> — 1–40 of 47 · [Next →](video-anim-2.md)</p>
 
-<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 46 specs is in <a href="../../data/gig-covers/video-anim.jsonl">data/gig-covers/video-anim.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 47 specs is in <a href="../../data/gig-covers/video-anim.jsonl">data/gig-covers/video-anim.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

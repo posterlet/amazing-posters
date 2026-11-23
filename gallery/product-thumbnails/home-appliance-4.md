@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Home & Kitchen Appliances</h2>
 
-<p><b>Part 4 of 4</b> — 121–149 of 149 · [← Previous](home-appliance-3.md)</p>
+<p><b>Part 4 of 4</b> — 121–153 of 153 · [← Previous](home-appliance-3.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 149 specs is in <a href="../../data/product-thumbnails/home-appliance.jsonl">data/product-thumbnails/home-appliance.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 153 specs is in <a href="../../data/product-thumbnails/home-appliance.jsonl">data/product-thumbnails/home-appliance.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -77,6 +77,11 @@
 <div style="margin-top: 8px;"><b>Smart Dehumidifier with Mite Removal Technology</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/smart-dehumidifier-with-mite-removal-technology">Open on posterlet.com →</a></div>
 <div><sub>dehumidifier · home appliance · product photo · e-commerce</sub></div></td>
+<td valign="top" width="25%"><a id="effortless-smart-cleaning-power"></a>
+<a href="https://posterlet.com/poster/effortless-smart-cleaning-power"><img src="https://files.posterlet.com/assets/generated/md/zvhuerjojyc8.webp" alt="Effortless Smart Cleaning Power — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Effortless Smart Cleaning Power</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/effortless-smart-cleaning-power">Open on posterlet.com →</a></div>
+<div><sub>cordless vacuum · stick vacuum · cleaning appliance · smart home</sub></div></td>
 <td valign="top" width="25%"><a id="ultra-lightweight-cordless-vacuum-cleaner"></a>
 <a href="https://posterlet.com/poster/ultra-lightweight-cordless-vacuum-cleaner"><img src="https://files.posterlet.com/assets/generated/md/vd5wnf2jw4au.webp" alt="Ultra Lightweight Cordless Vacuum Cleaner — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Ultra Lightweight Cordless Vacuum Cleaner</b></div>
@@ -87,13 +92,13 @@
 <div style="margin-top: 8px;"><b>32KPA Whole Home Cordless Vacuum</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/32kpa-whole-home-cordless-vacuum">Open on posterlet.com →</a></div>
 <div><sub>cordless vacuum · stick vacuum · whole home cleaning · vacuum cleaner</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="blend-anywhere-cordless-portable-blender"></a>
 <a href="https://posterlet.com/poster/blend-anywhere-cordless-portable-blender"><img src="https://files.posterlet.com/assets/generated/md/itaos96w5sam.webp" alt="Blend Anywhere Cordless Portable Blender — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Blend Anywhere Cordless Portable Blender</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/blend-anywhere-cordless-portable-blender">Open on posterlet.com →</a></div>
 <div><sub>portable blender · cordless blender · blender · outdoor blender</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="deep-clean-floor-washer-one-pass"></a>
 <a href="https://posterlet.com/poster/deep-clean-floor-washer-one-pass"><img src="https://files.posterlet.com/assets/generated/md/zucm2r94h8xi.webp" alt="Deep Clean Floor Washer — One Pass — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Deep Clean Floor Washer — One Pass</b></div>
@@ -109,13 +114,18 @@
 <div style="margin-top: 8px;"><b>Glass Electric Kettle Keep Warm</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/glass-electric-kettle-keep-warm">Open on posterlet.com →</a></div>
 <div><sub>glass kettle · electric kettle · borosilicate glass · keep warm kettle</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="one-pot-every-meal-electric-hot-pot-ad"></a>
 <a href="https://posterlet.com/poster/one-pot-every-meal-electric-hot-pot-ad"><img src="https://files.posterlet.com/assets/generated/md/dfnmrffi3cfm.webp" alt="One Pot, Every Meal — Electric Hot Pot Ad — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>One Pot, Every Meal — Electric Hot Pot Ad</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/one-pot-every-meal-electric-hot-pot-ad">Open on posterlet.com →</a></div>
 <div><sub>electric hot pot · one pot cooking · kitchen appliance · compact cooker</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="premium-cordless-floor-washer-deal"></a>
+<a href="https://posterlet.com/poster/premium-cordless-floor-washer-deal"><img src="https://files.posterlet.com/assets/generated/md/lsuunigxt5su.webp" alt="Premium Cordless Floor Washer Deal — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Premium Cordless Floor Washer Deal</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/premium-cordless-floor-washer-deal">Open on posterlet.com →</a></div>
+<div><sub>floor washer · cordless cleaner · wet dry vacuum · home cleaning</sub></div></td>
 <td valign="top" width="25%"><a id="premium-quiet-blend-high-speed-blender"></a>
 <a href="https://posterlet.com/poster/premium-quiet-blend-high-speed-blender"><img src="https://files.posterlet.com/assets/generated/md/al7vd0ph46yj.webp" alt="Premium Quiet-Blend High-Speed Blender — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Quiet-Blend High-Speed Blender</b></div>
@@ -126,6 +136,8 @@
 <div style="margin-top: 8px;"><b>Quiet Blender Smooth Blends</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/quiet-blender-smooth-blends">Open on posterlet.com →</a></div>
 <div><sub>blender · kitchen appliance · countertop blender · one touch control</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="quiet-dry-calm-pet-pet-drying-cabinet"></a>
 <a href="https://posterlet.com/poster/quiet-dry-calm-pet-pet-drying-cabinet"><img src="https://files.posterlet.com/assets/generated/md/l8onyne5c0w7.webp" alt="Quiet Dry Calm Pet Pet Drying Cabinet — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Quiet Dry Calm Pet Pet Drying Cabinet</b></div>
@@ -136,18 +148,28 @@
 <div style="margin-top: 8px;"><b>Quiet Mist Humidifier Nighttime Comfort</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/quiet-mist-humidifier-nighttime-comfort">Open on posterlet.com →</a></div>
 <div><sub>humidifier · whisper-quiet · sleep comfort · bedroom essentials</sub></div></td>
-</tr>
-<tr>
+<td valign="top" width="25%"><a id="smart-air-fryer-modern-minimalist-poster"></a>
+<a href="https://posterlet.com/poster/smart-air-fryer-modern-minimalist-poster"><img src="https://files.posterlet.com/assets/generated/md/554g0ms3qrbk.webp" alt="Smart Air Fryer Modern Minimalist Poster — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Smart Air Fryer Modern Minimalist Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/smart-air-fryer-modern-minimalist-poster">Open on posterlet.com →</a></div>
+<div><sub>air fryer · kitchen appliance · product poster · minimalist design</sub></div></td>
 <td valign="top" width="25%"><a id="smart-lid-vacuum-bottle-morning-lifestyle"></a>
 <a href="https://posterlet.com/poster/smart-lid-vacuum-bottle-morning-lifestyle"><img src="https://files.posterlet.com/assets/generated/md/0gk459t43kr6.webp" alt="Smart Lid Vacuum Bottle Morning Lifestyle — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Smart Lid Vacuum Bottle Morning Lifestyle</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/smart-lid-vacuum-bottle-morning-lifestyle">Open on posterlet.com →</a></div>
 <div><sub>vacuum bottle · smart water bottle · fitness hydration · wellness lifestyle</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="uv-purified-countertop-water-dispenser"></a>
 <a href="https://posterlet.com/poster/uv-purified-countertop-water-dispenser"><img src="https://files.posterlet.com/assets/generated/md/twt25yst6jyg.webp" alt="UV Purified Countertop Water Dispenser — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>UV Purified Countertop Water Dispenser</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/uv-purified-countertop-water-dispenser">Open on posterlet.com →</a></div>
 <div><sub>water dispenser · countertop dispenser · UV purified · filtered water</sub></div></td>
+<td valign="top" width="25%"><a id="whisper-quiet-humidifier-up-to-12-hours"></a>
+<a href="https://posterlet.com/poster/whisper-quiet-humidifier-up-to-12-hours"><img src="https://files.posterlet.com/assets/generated/md/yraym21jeghs.webp" alt="Whisper Quiet Humidifier Up to 12 Hours — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Whisper Quiet Humidifier Up to 12 Hours</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/whisper-quiet-humidifier-up-to-12-hours">Open on posterlet.com →</a></div>
+<div><sub>humidifier · air purifier · home appliance · whisper quiet</sub></div></td>
 <td valign="top" width="25%"><a id="boils-in-5-minutes"></a>
 <a href="https://posterlet.com/poster/boils-in-5-minutes"><img src="https://files.posterlet.com/assets/generated/md/kimzgpman729.webp" alt="BOILS IN 5 MINUTES — 1:1 Home &amp; Kitchen Appliances poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>BOILS IN 5 MINUTES</b></div>

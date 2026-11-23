@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 8 of 13</b> — 281–320 of 494 · [← Previous](general-7.md) · [Next →](general-9.md)</p>
+<p><b>Part 8 of 13</b> — 281–320 of 500 · [← Previous](general-7.md) · [Next →](general-9.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="legal-exam-prep-course-promo"></a>
+<a href="https://posterlet.com/poster/legal-exam-prep-course-promo"><img src="https://files.posterlet.com/assets/generated/md/nxzgvlvq14g2.webp" alt="Legal Exam Prep Course Promo — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Legal Exam Prep Course Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/legal-exam-prep-course-promo">Open on posterlet.com →</a></div>
+<div><sub>exam prep · legal qualification · course promo · e-commerce banner</sub></div></td>
+<td valign="top" width="25%"><a id="lithium-battery-cordless-drill-product-showcase"></a>
+<a href="https://posterlet.com/poster/lithium-battery-cordless-drill-product-showcase"><img src="https://files.posterlet.com/assets/generated/md/xnevu9v27gxj.webp" alt="Lithium Battery Cordless Drill Product Showcase — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Lithium Battery Cordless Drill Product Showcase</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/lithium-battery-cordless-drill-product-showcase">Open on posterlet.com →</a></div>
+<div><sub>cordless drill · power tool · hammer drill · lithium battery</sub></div></td>
+<td valign="top" width="25%"><a id="live-karaoke-microphone-gold-edition"></a>
+<a href="https://posterlet.com/poster/live-karaoke-microphone-gold-edition"><img src="https://files.posterlet.com/assets/generated/md/r01rm8a18plf.webp" alt="Live Karaoke Microphone Gold Edition — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Live Karaoke Microphone Gold Edition</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/live-karaoke-microphone-gold-edition">Open on posterlet.com →</a></div>
+<div><sub>karaoke · microphone · gold · singing</sub></div></td>
+<td valign="top" width="25%"><a id="long-lasting-fragrance-laundry-detergent"></a>
+<a href="https://posterlet.com/poster/long-lasting-fragrance-laundry-detergent"><img src="https://files.posterlet.com/assets/generated/md/8k4nz9tr4ahw.webp" alt="Long-Lasting Fragrance Laundry Detergent — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Long-Lasting Fragrance Laundry Detergent</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/long-lasting-fragrance-laundry-detergent">Open on posterlet.com →</a></div>
+<div><sub>laundry detergent · household essentials · product photography · fabric care</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="loud-flash-sale-promotional-poster"></a>
 <a href="https://posterlet.com/poster/loud-flash-sale-promotional-poster"><img src="https://files.posterlet.com/assets/generated/md/1by5ljen1zr5.webp" alt="Loud Flash Sale Promotional Poster — 1:1 General Products poster design" width="100%"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>Red Cordless Brushless Drill Promo Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/red-cordless-brushless-drill-promo-poster">Open on posterlet.com →</a></div>
 <div><sub>power tool · cordless drill · brushless motor · product advertisement</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="red-coupon-festival-sale-banner"></a>
-<a href="https://posterlet.com/poster/red-coupon-festival-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/8fr96vacpfaq.webp" alt="Red Coupon Festival Sale Banner — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Red Coupon Festival Sale Banner</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/red-coupon-festival-sale-banner">Open on posterlet.com →</a></div>
-<div><sub>coupon sale · discount banner · promo poster · gift box sale</sub></div></td>
-<td valign="top" width="25%"><a id="red-hard-shell-suitcase-travel-ready"></a>
-<a href="https://posterlet.com/poster/red-hard-shell-suitcase-travel-ready"><img src="https://files.posterlet.com/assets/generated/md/l9di62n9tel9.webp" alt="Red Hard-Shell Suitcase Travel Ready — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Red Hard-Shell Suitcase Travel Ready</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/red-hard-shell-suitcase-travel-ready">Open on posterlet.com →</a></div>
-<div><sub>suitcase · carry-on luggage · red suitcase · travel gear</sub></div></td>
-<td valign="top" width="25%"><a id="red-toolbox-year-end-mega-sale"></a>
-<a href="https://posterlet.com/poster/red-toolbox-year-end-mega-sale"><img src="https://files.posterlet.com/assets/generated/md/otwszmx90ken.webp" alt="Red Toolbox Year-End Mega Sale — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Red Toolbox Year-End Mega Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/red-toolbox-year-end-mega-sale">Open on posterlet.com →</a></div>
-<div><sub>toolbox · year-end sale · 12.12 sale · hardware</sub></div></td>
-<td valign="top" width="25%"><a id="retro-trend-neon-sneaker-drop"></a>
-<a href="https://posterlet.com/poster/retro-trend-neon-sneaker-drop"><img src="https://files.posterlet.com/assets/generated/md/8e0im3lppe3n.webp" alt="Retro Trend Neon Sneaker Drop — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Retro Trend Neon Sneaker Drop</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/retro-trend-neon-sneaker-drop">Open on posterlet.com →</a></div>
-<div><sub>retro sneakers · streetwear · neon grid · product image</sub></div></td>
 </tr>
 </table>
 

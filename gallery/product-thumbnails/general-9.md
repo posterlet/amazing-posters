@@ -1,10 +1,32 @@
 <h2>Product Thumbnails — General Products</h2>
 
-<p><b>Part 9 of 13</b> — 321–360 of 494 · [← Previous](general-8.md) · [Next →](general-10.md)</p>
+<p><b>Part 9 of 13</b> — 321–360 of 500 · [← Previous](general-8.md) · [Next →](general-10.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 494 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 500 specs is in <a href="../../data/product-thumbnails/general.jsonl">data/product-thumbnails/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
+<tr>
+<td valign="top" width="25%"><a id="red-coupon-festival-sale-banner"></a>
+<a href="https://posterlet.com/poster/red-coupon-festival-sale-banner"><img src="https://files.posterlet.com/assets/generated/md/8fr96vacpfaq.webp" alt="Red Coupon Festival Sale Banner — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Red Coupon Festival Sale Banner</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/red-coupon-festival-sale-banner">Open on posterlet.com →</a></div>
+<div><sub>coupon sale · discount banner · promo poster · gift box sale</sub></div></td>
+<td valign="top" width="25%"><a id="red-hard-shell-suitcase-travel-ready"></a>
+<a href="https://posterlet.com/poster/red-hard-shell-suitcase-travel-ready"><img src="https://files.posterlet.com/assets/generated/md/l9di62n9tel9.webp" alt="Red Hard-Shell Suitcase Travel Ready — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Red Hard-Shell Suitcase Travel Ready</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/red-hard-shell-suitcase-travel-ready">Open on posterlet.com →</a></div>
+<div><sub>suitcase · carry-on luggage · red suitcase · travel gear</sub></div></td>
+<td valign="top" width="25%"><a id="red-toolbox-year-end-mega-sale"></a>
+<a href="https://posterlet.com/poster/red-toolbox-year-end-mega-sale"><img src="https://files.posterlet.com/assets/generated/md/otwszmx90ken.webp" alt="Red Toolbox Year-End Mega Sale — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Red Toolbox Year-End Mega Sale</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/red-toolbox-year-end-mega-sale">Open on posterlet.com →</a></div>
+<div><sub>toolbox · year-end sale · 12.12 sale · hardware</sub></div></td>
+<td valign="top" width="25%"><a id="retro-trend-neon-sneaker-drop"></a>
+<a href="https://posterlet.com/poster/retro-trend-neon-sneaker-drop"><img src="https://files.posterlet.com/assets/generated/md/8e0im3lppe3n.webp" alt="Retro Trend Neon Sneaker Drop — 1:1 General Products poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Retro Trend Neon Sneaker Drop</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/retro-trend-neon-sneaker-drop">Open on posterlet.com →</a></div>
+<div><sub>retro sneakers · streetwear · neon grid · product image</sub></div></td>
+</tr>
 <tr>
 <td valign="top" width="25%"><a id="romantic-silver-watch-with-heart-price-seal"></a>
 <a href="https://posterlet.com/poster/romantic-silver-watch-with-heart-price-seal"><img src="https://files.posterlet.com/assets/generated/md/epda10e1llro.webp" alt="Romantic Silver Watch with Heart Price Seal — 1:1 General Products poster design" width="100%"></a>
@@ -202,28 +224,6 @@
 <div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-7">Open on posterlet.com →</a></div>
 <div><sub>product thumbnail</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="format-professional-e-commerce-product-main-image-square-8"></a>
-<a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-8"><img src="https://files.posterlet.com/assets/generated/md/odxq0pe3y41v.webp" alt="[Format] Professional e-commerce product main image, square — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>[Format] Professional e-commerce product main image, square</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/format-professional-e-commerce-product-main-image-square-8">Open on posterlet.com →</a></div>
-<div><sub>product thumbnail</sub></div></td>
-<td valign="top" width="25%"><a id="ocean-fresh-body-wash-duo-sale"></a>
-<a href="https://posterlet.com/poster/ocean-fresh-body-wash-duo-sale"><img src="https://files.posterlet.com/assets/generated/md/85fsbsrzfsz5.webp" alt="Ocean Fresh Body Wash Duo Sale — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Ocean Fresh Body Wash Duo Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/ocean-fresh-body-wash-duo-sale">Open on posterlet.com →</a></div>
-<div><sub>body wash · product photography · e-commerce · coastal theme</sub></div></td>
-<td valign="top" width="25%"><a id="sneakers-bold-promo"></a>
-<a href="https://posterlet.com/poster/sneakers-bold-promo"><img src="https://files.posterlet.com/assets/generated/md/b2zb7zvhderj.webp" alt="Sneakers Bold Promo — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Sneakers Bold Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/sneakers-bold-promo">Open on posterlet.com →</a></div>
-<div><sub>sneakers · running shoes · athletic footwear · product image</sub></div></td>
-<td valign="top" width="25%"><a id="20v-hammer-drill-factory-direct"></a>
-<a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct"><img src="https://files.posterlet.com/assets/generated/md/zo737dp4i06m.webp" alt="20V Hammer Drill Factory Direct — 1:1 General Products poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>20V Hammer Drill Factory Direct</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/20v-hammer-drill-factory-direct">Open on posterlet.com →</a></div>
-<div><sub>hammer drill · cordless drill · rotary hammer · power tools</sub></div></td>
 </tr>
 </table>
 

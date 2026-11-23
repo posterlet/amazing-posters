@@ -1,8 +1,8 @@
 <h2>Gig Covers — Video & Animation</h2>
 
-<p><b>Part 2 of 2</b> — 41–46 of 46 · [← Previous](video-anim.md)</p>
+<p><b>Part 2 of 2</b> — 41–47 of 47 · [← Previous](video-anim.md)</p>
 
-<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 46 specs is in <a href="../../data/gig-covers/video-anim.jsonl">data/gig-covers/video-anim.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 47 specs is in <a href="../../data/gig-covers/video-anim.jsonl">data/gig-covers/video-anim.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -11,6 +11,11 @@
 <div style="margin-top: 8px;"><b>YouTube Video Editing Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/youtube-video-editing-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>video editing · YouTube gig · Fiverr thumbnail · professional editing</sub></div></td>
+<td valign="top" width="25%"><a id="online-english-tutor-youtube-gig-cover"></a>
+<a href="https://posterlet.com/poster/online-english-tutor-youtube-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/dgidra0id3bu.webp" alt="Online English Tutor YouTube Gig Cover — 16:9 Video &amp; Animation poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Online English Tutor YouTube Gig Cover</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/online-english-tutor-youtube-gig-cover">Open on posterlet.com →</a></div>
+<div><sub>English tutor · online tutoring · language lessons · YouTube gig</sub></div></td>
 <td valign="top" width="25%"><a id="professional-video-editing"></a>
 <a href="https://posterlet.com/poster/professional-video-editing"><img src="https://files.posterlet.com/assets/generated/md/lip3ru0kdklu.webp" alt="Professional Video Editing — 16:9 Video &amp; Animation poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Video Editing</b></div>
@@ -21,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Professional Video Editing Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/professional-video-editing-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>video editing · youtube thumbnail · gig cover · premiere pro</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="professional-video-editing-services-2"></a>
 <a href="https://posterlet.com/poster/professional-video-editing-services-2"><img src="https://files.posterlet.com/assets/generated/md/2n20pi0a4qrh.webp" alt="Professional Video Editing Services — 16:9 Video &amp; Animation poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Video Editing Services</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/professional-video-editing-services-2">Open on posterlet.com →</a></div>
 <div><sub>video editing · content creator · youtube gig · editing services</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="viral-video-editing-gig-cover"></a>
 <a href="https://posterlet.com/poster/viral-video-editing-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/ltijqxx75i5j.webp" alt="Viral Video Editing Gig Cover — 16:9 Video &amp; Animation poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Viral Video Editing Gig Cover</b></div>

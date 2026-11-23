@@ -229,8 +229,15 @@ def fetch_themes():
 
 
 def fetch_theme_members():
-    """theme slug -> set(asset id). Theme pagination IS stable and complete."""
-    owner = {}
+    """asset id -> the theme slug that files it in a collection.
+
+    A poster can now be cross-listed in several themes (align_themes.py), so
+    "last theme wins" is wrong: an asset listed in both christmas and
+    winter-sale-posters would land on winter, which is not a collection, and be
+    dropped. Keep every membership and pick the last one that actually maps to a
+    collection; only fall back to a non-collection theme when that is all there is.
+    """
+    members = defaultdict(list)
     themes = fetch_themes()
     for t in themes:
         slug, name = t["slug"], str(t.get("name") or t["slug"])
@@ -242,12 +249,17 @@ def fetch_theme_members():
             if not imgs:
                 break
             for x in imgs:
-                owner[x["id"]] = slug
+                members[x["id"]].append(slug)
             found += len(imgs)
             if total and found >= total:
                 break
             page += 1
         print(f"  theme {name:42s} {found:5d} assets")
+
+    owner = {}
+    for aid, slugs in members.items():
+        pick = next((s for s in reversed(slugs) if s in THEME_SLUG_MAP), None)
+        owner[aid] = pick or slugs[-1]
     if not owner:
         print("  WARNING: the theme endpoint returned nothing; pass --theme-map to reuse a local map")
     return owner

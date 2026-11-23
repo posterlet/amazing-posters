@@ -1,16 +1,55 @@
 <h2>Product Thumbnails — Beauty & Skincare</h2>
 
-<p><b>Part 15 of 17</b> — 561–600 of 648 · [← Previous](beauty-14.md) · [Next →](beauty-16.md)</p>
+<p><b>Part 15 of 17</b> — 561–600 of 660 · [← Previous](beauty-14.md) · [Next →](beauty-16.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 648 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 660 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="long-lasting-fresh-fragrance-poster"></a>
+<a href="https://posterlet.com/poster/long-lasting-fresh-fragrance-poster"><img src="https://files.posterlet.com/assets/generated/md/z1htrqfdzd48.webp" alt="Long-Lasting Fresh Fragrance Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Long-Lasting Fresh Fragrance Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/long-lasting-fresh-fragrance-poster">Open on posterlet.com →</a></div>
+<div><sub>perfume · fragrance · botanical · cut-paper art</sub></div></td>
+<td valign="top" width="25%"><a id="luxe-skincare-promo-gifting-deal"></a>
+<a href="https://posterlet.com/poster/luxe-skincare-promo-gifting-deal"><img src="https://files.posterlet.com/assets/generated/md/jm7bp198aurc.webp" alt="Luxe Skincare Promo Gifting Deal — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxe Skincare Promo Gifting Deal</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxe-skincare-promo-gifting-deal">Open on posterlet.com →</a></div>
+<div><sub>skincare · toner · beauty products · gift set</sub></div></td>
+<td valign="top" width="25%"><a id="luxury-bath-body-gift-set-promotion"></a>
+<a href="https://posterlet.com/poster/luxury-bath-body-gift-set-promotion"><img src="https://files.posterlet.com/assets/generated/md/ex4rsa07hxw4.webp" alt="Luxury Bath &amp; Body Gift Set Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxury Bath &amp; Body Gift Set Promotion</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxury-bath-body-gift-set-promotion">Open on posterlet.com →</a></div>
+<div><sub>bath products · body care set · luxury skincare · gift set</sub></div></td>
+<td valign="top" width="25%"><a id="luxury-holiday-beauty-gift-set"></a>
+<a href="https://posterlet.com/poster/luxury-holiday-beauty-gift-set"><img src="https://files.posterlet.com/assets/generated/md/g6iskbazj1ad.webp" alt="Luxury Holiday Beauty Gift Set — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxury Holiday Beauty Gift Set</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxury-holiday-beauty-gift-set">Open on posterlet.com →</a></div>
+<div><sub>holiday gift set · beauty products · Christmas gift · luxury skincare</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="luxury-ruby-serum-limited-edition-sale"></a>
+<a href="https://posterlet.com/poster/luxury-ruby-serum-limited-edition-sale"><img src="https://files.posterlet.com/assets/generated/md/co8dovlyubxy.webp" alt="Luxury Ruby Serum Limited Edition Sale — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxury Ruby Serum Limited Edition Sale</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxury-ruby-serum-limited-edition-sale">Open on posterlet.com →</a></div>
+<div><sub>serum · skincare · luxury beauty · limited edition</sub></div></td>
+<td valign="top" width="25%"><a id="luxury-skincare-gift-set-for-sensitive-skin"></a>
+<a href="https://posterlet.com/poster/luxury-skincare-gift-set-for-sensitive-skin"><img src="https://files.posterlet.com/assets/generated/md/n2z0vv98jwle.webp" alt="Luxury Skincare Gift Set for Sensitive Skin — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxury Skincare Gift Set for Sensitive Skin</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/luxury-skincare-gift-set-for-sensitive-skin">Open on posterlet.com →</a></div>
+<div><sub>skincare · sensitive skin · beauty gift set · toner bottles</sub></div></td>
 <td valign="top" width="25%"><a id="luxury-vitamin-complex-product-shot"></a>
 <a href="https://posterlet.com/poster/luxury-vitamin-complex-product-shot"><img src="https://files.posterlet.com/assets/generated/md/78y6um5urzrn.webp" alt="Luxury Vitamin Complex Product Shot — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxury Vitamin Complex Product Shot</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/luxury-vitamin-complex-product-shot">Open on posterlet.com →</a></div>
 <div><sub>vitamin complex · luxury supplement · amber glass bottle · product photography</sub></div></td>
+<td valign="top" width="25%"><a id="mango-cream-cake-fresh-indulgence"></a>
+<a href="https://posterlet.com/poster/mango-cream-cake-fresh-indulgence"><img src="https://files.posterlet.com/assets/generated/md/r3yjk0yqimcx.webp" alt="Mango Cream Cake — Fresh Indulgence — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Mango Cream Cake — Fresh Indulgence</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/mango-cream-cake-fresh-indulgence">Open on posterlet.com →</a></div>
+<div><sub>mango cake · cream cake · chocolate ganache · fresh fruit cake</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="marigold-hard-shell-vanity-case-price-drop"></a>
 <a href="https://posterlet.com/poster/marigold-hard-shell-vanity-case-price-drop"><img src="https://files.posterlet.com/assets/generated/md/z3j8tfrllgxw.webp" alt="Marigold Hard Shell Vanity Case — Price Drop — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Marigold Hard Shell Vanity Case — Price Drop</b></div>
@@ -26,13 +65,13 @@
 <div style="margin-top: 8px;"><b>Midnight Holiday Beauty Trio</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/midnight-holiday-beauty-trio">Open on posterlet.com →</a></div>
 <div><sub>holiday beauty set · serum gift trio · winter skincare · rose gold cosmetics</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="mineral-sunscreen-spf-50-summer-beauty"></a>
 <a href="https://posterlet.com/poster/mineral-sunscreen-spf-50-summer-beauty"><img src="https://files.posterlet.com/assets/generated/md/2hxsnufk0py2.webp" alt="Mineral Sunscreen SPF 50 Summer Beauty — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Mineral Sunscreen SPF 50 Summer Beauty</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mineral-sunscreen-spf-50-summer-beauty">Open on posterlet.com →</a></div>
 <div><sub>sunscreen · SPF 50 · mineral sunscreen · summer skincare</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="mothers-day-beauty-gift-set-promotion"></a>
 <a href="https://posterlet.com/poster/mothers-day-beauty-gift-set-promotion"><img src="https://files.posterlet.com/assets/generated/md/fqnpv1tpn30z.webp" alt="Mothers Day Beauty Gift Set Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Mothers Day Beauty Gift Set Promotion</b></div>
@@ -48,13 +87,13 @@
 <div style="margin-top: 8px;"><b>New Arrival Pressed Blush Compact</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/new-arrival-pressed-blush-compact">Open on posterlet.com →</a></div>
 <div><sub>blush compact · cushion makeup · beauty product · makeup sale</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="new-year-glow-face-cream-promotion"></a>
 <a href="https://posterlet.com/poster/new-year-glow-face-cream-promotion"><img src="https://files.posterlet.com/assets/generated/md/b0d0g64kdg9y.webp" alt="New Year Glow Face Cream Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New Year Glow Face Cream Promotion</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/new-year-glow-face-cream-promotion">Open on posterlet.com →</a></div>
 <div><sub>face cream · new year glow · cushion compact · beauty promotion</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="new-year-glow-lotion-promotion"></a>
 <a href="https://posterlet.com/poster/new-year-glow-lotion-promotion"><img src="https://files.posterlet.com/assets/generated/md/n5m4bqf93986.webp" alt="New Year Glow Lotion Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>New Year Glow Lotion Promotion</b></div>
@@ -70,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Night Repair Serum Duo – Pre-Order Gift</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/night-repair-serum-duo-pre-order-gift">Open on posterlet.com →</a></div>
 <div><sub>night repair serum · serum duo · pre-order gift · year-end savings</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="night-routine-pore-clearing-face-wash"></a>
 <a href="https://posterlet.com/poster/night-routine-pore-clearing-face-wash"><img src="https://files.posterlet.com/assets/generated/md/4cx2ujqw9l0h.webp" alt="Night Routine Pore-Clearing Face Wash — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Night Routine Pore-Clearing Face Wash</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/night-routine-pore-clearing-face-wash">Open on posterlet.com →</a></div>
 <div><sub>face wash · skincare · oil control · pore care</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="overnight-mask-beauty-product-poster"></a>
 <a href="https://posterlet.com/poster/overnight-mask-beauty-product-poster"><img src="https://files.posterlet.com/assets/generated/md/28x9yng4vl6f.webp" alt="Overnight Mask Beauty Product Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Overnight Mask Beauty Product Poster</b></div>
@@ -92,18 +131,23 @@
 <div style="margin-top: 8px;"><b>Premium Eye Cream Promo Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-eye-cream-promo-poster">Open on posterlet.com →</a></div>
 <div><sub>eye cream · skincare · beauty product · cosmetic packaging</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="premium-retinol-serum-exclusive-offer"></a>
 <a href="https://posterlet.com/poster/premium-retinol-serum-exclusive-offer"><img src="https://files.posterlet.com/assets/generated/md/e8w6qb46bfmk.webp" alt="Premium Retinol Serum Exclusive Offer — 3:4 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Retinol Serum Exclusive Offer</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/premium-retinol-serum-exclusive-offer">Open on posterlet.com →</a></div>
 <div><sub>retinol serum · skincare promotion · cosmetic product · beauty sale</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-wet-wipes-product-showcase"></a>
 <a href="https://posterlet.com/poster/premium-wet-wipes-product-showcase"><img src="https://files.posterlet.com/assets/generated/md/wb6gnh8hnnjt.webp" alt="Premium Wet Wipes Product Showcase — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Wet Wipes Product Showcase</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/premium-wet-wipes-product-showcase">Open on posterlet.com →</a></div>
 <div><sub>wet-wipes · product-showcase · premium-packaging · personal-care</sub></div></td>
+<td valign="top" width="25%"><a id="pumpkin-milk-bread-best-seller-poster"></a>
+<a href="https://posterlet.com/poster/pumpkin-milk-bread-best-seller-poster"><img src="https://files.posterlet.com/assets/generated/md/q31mb8he0lzb.webp" alt="Pumpkin Milk Bread Best Seller Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Pumpkin Milk Bread Best Seller Poster</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/pumpkin-milk-bread-best-seller-poster">Open on posterlet.com →</a></div>
+<div><sub>pumpkin milk bread · best seller · bakery poster · fresh bread</sub></div></td>
 <td valign="top" width="25%"><a id="pure-air-humidifier-whispers-of-softness"></a>
 <a href="https://posterlet.com/poster/pure-air-humidifier-whispers-of-softness"><img src="https://files.posterlet.com/assets/generated/md/1l2b8ol7zvo3.webp" alt="Pure Air Humidifier - Whispers of Softness — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pure Air Humidifier - Whispers of Softness</b></div>
@@ -180,50 +224,6 @@
 <div style="margin-top: 8px;"><b>Sage Green Skincare Hydration Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sage-green-skincare-hydration-promo">Open on posterlet.com →</a></div>
 <div><sub>skincare · hydration · beauty · serum</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="salicylic-acid-skincare-product-poster"></a>
-<a href="https://posterlet.com/poster/salicylic-acid-skincare-product-poster"><img src="https://files.posterlet.com/assets/generated/md/k37phdomt7cj.webp" alt="Salicylic Acid Skincare Product Poster — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Salicylic Acid Skincare Product Poster</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/salicylic-acid-skincare-product-poster">Open on posterlet.com →</a></div>
-<div><sub>salicylic acid · skincare · acne treatment · clear skin</sub></div></td>
-<td valign="top" width="25%"><a id="season-sale-eyebrow-palette-promotion"></a>
-<a href="https://posterlet.com/poster/season-sale-eyebrow-palette-promotion"><img src="https://files.posterlet.com/assets/generated/md/ngqxed95uqpw.webp" alt="Season Sale Eyebrow Palette Promotion — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Season Sale Eyebrow Palette Promotion</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/season-sale-eyebrow-palette-promotion">Open on posterlet.com →</a></div>
-<div><sub>brow palette · eyebrow makeup · season sale · cosmetic promo</sub></div></td>
-<td valign="top" width="25%"><a id="sensitive-skin-wipes-cream-gold-packaging"></a>
-<a href="https://posterlet.com/poster/sensitive-skin-wipes-cream-gold-packaging"><img src="https://files.posterlet.com/assets/generated/md/5s1x9t134t26.webp" alt="Sensitive Skin Wipes Cream &amp; Gold Packaging — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Sensitive Skin Wipes Cream &amp; Gold Packaging</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/sensitive-skin-wipes-cream-gold-packaging">Open on posterlet.com →</a></div>
-<div><sub>sensitive skin wipes · skincare wipes · cream packaging · gold foil design</sub></div></td>
-<td valign="top" width="25%"><a id="serum-duo-premium-set-limited-offer"></a>
-<a href="https://posterlet.com/poster/serum-duo-premium-set-limited-offer"><img src="https://files.posterlet.com/assets/generated/md/1e0vcf6yrwlo.webp" alt="SERUM DUO Premium Set — Limited Offer — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>SERUM DUO Premium Set — Limited Offer</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/serum-duo-premium-set-limited-offer">Open on posterlet.com →</a></div>
-<div><sub>serum duo · skincare set · amber bottle · beauty promotion</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="sheer-spf-50-daily-sunscreen-promo"></a>
-<a href="https://posterlet.com/poster/sheer-spf-50-daily-sunscreen-promo"><img src="https://files.posterlet.com/assets/generated/md/sh819z3zv6w9.webp" alt="Sheer SPF 50 Daily Sunscreen Promo — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Sheer SPF 50 Daily Sunscreen Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/sheer-spf-50-daily-sunscreen-promo">Open on posterlet.com →</a></div>
-<div><sub>sunscreen · SPF 50 · beauty · skincare</sub></div></td>
-<td valign="top" width="25%"><a id="signature-lipstick-holiday-sale"></a>
-<a href="https://posterlet.com/poster/signature-lipstick-holiday-sale"><img src="https://files.posterlet.com/assets/generated/md/pjh40srrne2h.webp" alt="Signature Lipstick Holiday Sale — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Signature Lipstick Holiday Sale</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/signature-lipstick-holiday-sale">Open on posterlet.com →</a></div>
-<div><sub>lipstick · beauty · cosmetics · makeup</sub></div></td>
-<td valign="top" width="25%"><a id="silky-hydration-soft-glow-skincare-product"></a>
-<a href="https://posterlet.com/poster/silky-hydration-soft-glow-skincare-product"><img src="https://files.posterlet.com/assets/generated/md/eyzvsys9ures.webp" alt="Silky Hydration Soft Glow Skincare Product — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Silky Hydration Soft Glow Skincare Product</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/silky-hydration-soft-glow-skincare-product">Open on posterlet.com →</a></div>
-<div><sub>skincare · beauty product · serum · hydration</sub></div></td>
-<td valign="top" width="25%"><a id="six-pan-eyeshadow-palette-on-ivory-card"></a>
-<a href="https://posterlet.com/poster/six-pan-eyeshadow-palette-on-ivory-card"><img src="https://files.posterlet.com/assets/generated/md/78tmzu6idz8g.webp" alt="Six Pan Eyeshadow Palette on Ivory Card — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Six Pan Eyeshadow Palette on Ivory Card</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/six-pan-eyeshadow-palette-on-ivory-card">Open on posterlet.com →</a></div>
-<div><sub>eyeshadow palette · makeup palette · beauty products · cosmetics</sub></div></td>
 </tr>
 </table>
 

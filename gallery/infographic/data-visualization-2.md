@@ -1,11 +1,87 @@
 <h2>Infographics — Data Visualization</h2>
 
-<p><b>Part 2 of 5</b> — 41–80 of 168 · [← Previous](data-visualization.md) · [Next →](data-visualization-3.md)</p>
+<p><b>Part 2 of 5</b> — 41–80 of 191 · [← Previous](data-visualization.md) · [Next →](data-visualization-3.md)</p>
 
-<p>Data storytelling layouts: process, comparison, timeline, anatomy. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 168 specs is in <a href="../../data/infographic/data-visualization.jsonl">data/infographic/data-visualization.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Data storytelling layouts: process, comparison, timeline, anatomy. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 191 specs is in <a href="../../data/infographic/data-visualization.jsonl">data/infographic/data-visualization.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="china-aerospace-exploration-infographic-collage"></a>
+<a href="https://posterlet.com/poster/china-aerospace-exploration-infographic-collage"><img src="https://files.posterlet.com/assets/generated/md/u9ed52lq53j0.webp" alt="China Aerospace Exploration Infographic Collage — 1:1 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>China Aerospace Exploration Infographic Collage</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/china-aerospace-exploration-infographic-collage">Open on posterlet.com →</a></div>
+<div><sub>china aerospace · space infographic · tiangong station · chang'e lunar</sub></div></td>
+<td valign="top" width="25%"><a id="chinese-academy-of-sciences-research-infographic"></a>
+<a href="https://posterlet.com/poster/chinese-academy-of-sciences-research-infographic"><img src="https://files.posterlet.com/assets/generated/md/v4hfbc3qsrkc.webp" alt="Chinese Academy of Sciences Research Infographic — 4:5 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Chinese Academy of Sciences Research Infographic</b></div>
+<div>4:5 · <a href="https://posterlet.com/poster/chinese-academy-of-sciences-research-infographic">Open on posterlet.com →</a></div>
+<div><sub>Chinese Academy of Sciences · infographic · research · education</sub></div></td>
+<td valign="top" width="25%"><a id="choosing-your-pet-chameleon-species-guide-2"></a>
+<a href="https://posterlet.com/poster/choosing-your-pet-chameleon-species-guide-2"><img src="https://files.posterlet.com/assets/generated/md/26hdm2u3dka6.webp" alt="Choosing Your Pet Chameleon Species Guide — 4:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Choosing Your Pet Chameleon Species Guide</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/choosing-your-pet-chameleon-species-guide-2">Open on posterlet.com →</a></div>
+<div><sub>chameleon · pet guide · chameleon species · reptile care</sub></div></td>
+<td valign="top" width="25%"><a id="civil-case-withdrawal-ruling-guide"></a>
+<a href="https://posterlet.com/poster/civil-case-withdrawal-ruling-guide"><img src="https://files.posterlet.com/assets/generated/md/oq93axz2ik8n.webp" alt="Civil Case Withdrawal Ruling Guide — 1:1 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Civil Case Withdrawal Ruling Guide</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/civil-case-withdrawal-ruling-guide">Open on posterlet.com →</a></div>
+<div><sub>civil procedure · lawsuit withdrawal · legal infographic · watercolor illustration</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="clean-earth-sustainable-future-infographic"></a>
+<a href="https://posterlet.com/poster/clean-earth-sustainable-future-infographic"><img src="https://files.posterlet.com/assets/generated/md/mk0ynm9z6ly9.webp" alt="Clean Earth Sustainable Future Infographic — 4:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Clean Earth Sustainable Future Infographic</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/clean-earth-sustainable-future-infographic">Open on posterlet.com →</a></div>
+<div><sub>environment · sustainability · carbon neutral · photosynthesis</sub></div></td>
+<td valign="top" width="25%"><a id="co-construction-and-sharing-year-end-incentives-infographic"></a>
+<a href="https://posterlet.com/poster/co-construction-and-sharing-year-end-incentives-infographic"><img src="https://files.posterlet.com/assets/generated/md/m2cqpz08j1ti.webp" alt="Co-Construction and Sharing Year-End Incentives Infographic — 3:7 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Co-Construction and Sharing Year-End Incentives Infographic</b></div>
+<div>3:7 · <a href="https://posterlet.com/poster/co-construction-and-sharing-year-end-incentives-infographic">Open on posterlet.com →</a></div>
+<div><sub>employee benefits · year-end incentives · corporate culture · benefits infographic</sub></div></td>
+<td valign="top" width="25%"><a id="community-governance-let-love-drop-by"></a>
+<a href="https://posterlet.com/poster/community-governance-let-love-drop-by"><img src="https://files.posterlet.com/assets/generated/md/baijqci6f7fh.webp" alt="Community Governance: Let Love Drop By — 3:2 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Community Governance: Let Love Drop By</b></div>
+<div>3:2 · <a href="https://posterlet.com/poster/community-governance-let-love-drop-by">Open on posterlet.com →</a></div>
+<div><sub>community governance · social work · infographic · resident participation</sub></div></td>
+<td valign="top" width="25%"><a id="cordyceps-health-benefits-infographic"></a>
+<a href="https://posterlet.com/poster/cordyceps-health-benefits-infographic"><img src="https://files.posterlet.com/assets/generated/md/mr0mu8q0xvov.webp" alt="Cordyceps Health Benefits Infographic — 4:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cordyceps Health Benefits Infographic</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/cordyceps-health-benefits-infographic">Open on posterlet.com →</a></div>
+<div><sub>cordyceps · health benefits · infographic · wellness</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="core-impacts-of-urbanization-across-key-sectors"></a>
+<a href="https://posterlet.com/poster/core-impacts-of-urbanization-across-key-sectors"><img src="https://files.posterlet.com/assets/generated/md/4ll2cc30rhbn.webp" alt="Core Impacts of Urbanization Across Key Sectors — 3:2 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Core Impacts of Urbanization Across Key Sectors</b></div>
+<div>3:2 · <a href="https://posterlet.com/poster/core-impacts-of-urbanization-across-key-sectors">Open on posterlet.com →</a></div>
+<div><sub>urbanization · infographic · smart city · sustainability</sub></div></td>
+<td valign="top" width="25%"><a id="core-logic-career-growth-and-corporate-culture-symbiosis"></a>
+<a href="https://posterlet.com/poster/core-logic-career-growth-and-corporate-culture-symbiosis"><img src="https://files.posterlet.com/assets/generated/md/638jyxkav594.webp" alt="Core Logic: Career Growth and Corporate Culture Symbiosis — 2:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Core Logic: Career Growth and Corporate Culture Symbiosis</b></div>
+<div>2:3 · <a href="https://posterlet.com/poster/core-logic-career-growth-and-corporate-culture-symbiosis">Open on posterlet.com →</a></div>
+<div><sub>career growth · corporate culture · fit assessment · professional development</sub></div></td>
+<td valign="top" width="25%"><a id="crop-physiology-educational-infographic"></a>
+<a href="https://posterlet.com/poster/crop-physiology-educational-infographic"><img src="https://files.posterlet.com/assets/generated/md/men5i3iongat.webp" alt="Crop Physiology Educational Infographic — 4:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Crop Physiology Educational Infographic</b></div>
+<div>4:3 · <a href="https://posterlet.com/poster/crop-physiology-educational-infographic">Open on posterlet.com →</a></div>
+<div><sub>crop physiology · plant biology · photosynthesis · agriculture education</sub></div></td>
+<td valign="top" width="25%"><a id="cute-short-hair-braiding-tutorial-collection"></a>
+<a href="https://posterlet.com/poster/cute-short-hair-braiding-tutorial-collection"><img src="https://files.posterlet.com/assets/generated/md/r1rei9c5sdq1.webp" alt="Cute Short Hair Braiding Tutorial Collection — 3:4 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cute Short Hair Braiding Tutorial Collection</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/cute-short-hair-braiding-tutorial-collection">Open on posterlet.com →</a></div>
+<div><sub>short hair · braiding tutorial · hair accessories · kawaii style</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="cyberpunk-embroidery-techniques-guide"></a>
+<a href="https://posterlet.com/poster/cyberpunk-embroidery-techniques-guide"><img src="https://files.posterlet.com/assets/generated/md/nebvwizuzda0.webp" alt="Cyberpunk Embroidery Techniques Guide — 9:16 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cyberpunk Embroidery Techniques Guide</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/cyberpunk-embroidery-techniques-guide">Open on posterlet.com →</a></div>
+<div><sub>embroidery · stitches · tutorial · cyberpunk</sub></div></td>
+<td valign="top" width="25%"><a id="cyberpunk-pork-liver-cooking-guide-3"></a>
+<a href="https://posterlet.com/poster/cyberpunk-pork-liver-cooking-guide-3"><img src="https://files.posterlet.com/assets/generated/md/83l4jw586e47.webp" alt="Cyberpunk Pork Liver Cooking Guide — 16:9 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cyberpunk Pork Liver Cooking Guide</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/cyberpunk-pork-liver-cooking-guide-3">Open on posterlet.com →</a></div>
+<div><sub>cyberpunk · pork liver · cooking guide · infographic</sub></div></td>
 <td valign="top" width="25%"><a id="cyberpunk-pork-liver-cooking-infographic"></a>
 <a href="https://posterlet.com/poster/cyberpunk-pork-liver-cooking-infographic"><img src="https://files.posterlet.com/assets/generated/md/gnpufai17rgx.webp" alt="Cyberpunk Pork Liver Cooking Infographic — 3:2 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cyberpunk Pork Liver Cooking Infographic</b></div>
@@ -16,6 +92,8 @@
 <div style="margin-top: 8px;"><b>Cyclical Unemployment Infographic Guide</b></div>
 <div>3:2 · <a href="https://posterlet.com/poster/cyclical-unemployment-infographic-guide">Open on posterlet.com →</a></div>
 <div><sub>cyclical unemployment · business cycle · economic recession · macroeconomics</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="deep-sea-survival-evolutionary-adaptations"></a>
 <a href="https://posterlet.com/poster/deep-sea-survival-evolutionary-adaptations"><img src="https://files.posterlet.com/assets/generated/md/td8ndzzvp20j.webp" alt="Deep-Sea Survival Evolutionary Adaptations — 4:3 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Deep-Sea Survival Evolutionary Adaptations</b></div>
@@ -26,8 +104,6 @@
 <div style="margin-top: 8px;"><b>Degree Upgrade Planning Resource Hub</b></div>
 <div>4:5 · <a href="https://posterlet.com/poster/degree-upgrade-planning-resource-hub-2">Open on posterlet.com →</a></div>
 <div><sub>degree upgrade · associate to bachelor · higher education · transfer credits</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="desert-root-systems-underground-survival"></a>
 <a href="https://posterlet.com/poster/desert-root-systems-underground-survival"><img src="https://files.posterlet.com/assets/generated/md/07nigsoeecpj.webp" alt="Desert Root Systems Underground Survival — 1:1 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Desert Root Systems Underground Survival</b></div>
@@ -38,6 +114,13 @@
 <div style="margin-top: 8px;"><b>Diet &amp; Cancer Risk: Your Scientific Prevention Guide</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/diet-cancer-risk-your-scientific-prevention-guide">Open on posterlet.com →</a></div>
 <div><sub>cancer prevention diet · healthy eating guide · cancer risk reduction · nutrition science</sub></div></td>
+</tr>
+<tr>
+<td valign="top" width="25%"><a id="digital-navigator-infographic"></a>
+<a href="https://posterlet.com/poster/digital-navigator-infographic"><img src="https://files.posterlet.com/assets/generated/md/20oynpmxwzdu.webp" alt="Digital Navigator Infographic — 2:3 Data Visualization poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Digital Navigator Infographic</b></div>
+<div>2:3 · <a href="https://posterlet.com/poster/digital-navigator-infographic">Open on posterlet.com →</a></div>
+<div><sub>infographic · digital · isometric · tech</sub></div></td>
 <td valign="top" width="25%"><a id="domestic-violence-impact-on-child-education"></a>
 <a href="https://posterlet.com/poster/domestic-violence-impact-on-child-education"><img src="https://files.posterlet.com/assets/generated/md/5pis2mduct9g.webp" alt="Domestic Violence Impact on Child Education — 1:1 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Domestic Violence Impact on Child Education</b></div>
@@ -48,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Earthen Souls: Rural Verticality Infographic</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/earthen-souls-rural-verticality-infographic-2">Open on posterlet.com →</a></div>
 <div><sub>infographic · paper craft · rural life · mixed media</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="earthquake-stay-alive-survival-guide"></a>
 <a href="https://posterlet.com/poster/earthquake-stay-alive-survival-guide"><img src="https://files.posterlet.com/assets/generated/md/29mgzye14dht.webp" alt="EARTHQUAKE: Stay Alive Survival Guide — 1:1 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>EARTHQUAKE: Stay Alive Survival Guide</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/earthquake-stay-alive-survival-guide">Open on posterlet.com →</a></div>
 <div><sub>earthquake · emergency · survival · infographic</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="earths-rotation-infographic-2"></a>
 <a href="https://posterlet.com/poster/earths-rotation-infographic-2"><img src="https://files.posterlet.com/assets/generated/md/2fejb9fxf2lg.webp" alt="Earth's Rotation Infographic — 1:1 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Earth's Rotation Infographic</b></div>
@@ -70,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Embroidery Starter Guide for Beginners</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/embroidery-starter-guide-for-beginners">Open on posterlet.com →</a></div>
 <div><sub>embroidery · beginner guide · stitch tutorial · embroidery techniques</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="epidemic-prevention-event-guidelines"></a>
 <a href="https://posterlet.com/poster/epidemic-prevention-event-guidelines"><img src="https://files.posterlet.com/assets/generated/md/e3wkhvp8r651.webp" alt="Epidemic Prevention Event Guidelines — 1:1 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Epidemic Prevention Event Guidelines</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/epidemic-prevention-event-guidelines">Open on posterlet.com →</a></div>
 <div><sub>pandemic prevention · event safety · epidemic control · pixel art</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="ergonomic-chair-comfort-and-stability-guide"></a>
 <a href="https://posterlet.com/poster/ergonomic-chair-comfort-and-stability-guide"><img src="https://files.posterlet.com/assets/generated/md/4sh30bsehpwc.webp" alt="Ergonomic Chair Comfort and Stability Guide — 3:4 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Ergonomic Chair Comfort and Stability Guide</b></div>
@@ -92,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Eye Shadow Virtual Introduction Infographic</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/eye-shadow-virtual-introduction-infographic-2">Open on posterlet.com →</a></div>
 <div><sub>eye shadow · makeup guide · infographic · sci-fi aesthetic</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fun-hopscotch-infographic"></a>
 <a href="https://posterlet.com/poster/fun-hopscotch-infographic"><img src="https://files.posterlet.com/assets/generated/md/6m4lazp0k6ew.webp" alt="Fun Hopscotch Infographic — 4:3 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fun Hopscotch Infographic</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/fun-hopscotch-infographic">Open on posterlet.com →</a></div>
 <div><sub>hopscotch · infographic · kids game · health benefits</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="garlic-spare-ribs-recipe-flowchart"></a>
 <a href="https://posterlet.com/poster/garlic-spare-ribs-recipe-flowchart"><img src="https://files.posterlet.com/assets/generated/md/0ohzt5f5bcz9.webp" alt="Garlic Spare Ribs Recipe Flowchart — 4:3 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Garlic Spare Ribs Recipe Flowchart</b></div>
@@ -114,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Health Education Campaign Playbook</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/health-education-campaign-playbook">Open on posterlet.com →</a></div>
 <div><sub>health education · campaign planning · infographic · mind map</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="healthy-mooncake-festival-guide"></a>
 <a href="https://posterlet.com/poster/healthy-mooncake-festival-guide"><img src="https://files.posterlet.com/assets/generated/md/nrtvy7h4fxb3.webp" alt="Healthy Mooncake Festival Guide — 16:9 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Healthy Mooncake Festival Guide</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/healthy-mooncake-festival-guide">Open on posterlet.com →</a></div>
 <div><sub>mid-autumn-festival · mooncake · healthy-eating · food-safety</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="healthy-mooncake-guide-for-mid-autumn-festival-2"></a>
 <a href="https://posterlet.com/poster/healthy-mooncake-guide-for-mid-autumn-festival-2"><img src="https://files.posterlet.com/assets/generated/md/htzfp6e0g14y.webp" alt="Healthy Mooncake Guide for Mid-Autumn Festival — 3:2 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Healthy Mooncake Guide for Mid-Autumn Festival</b></div>
@@ -136,94 +219,11 @@
 <div style="margin-top: 8px;"><b>House Contract Legal Risk Control Infographic</b></div>
 <div>2:3 · <a href="https://posterlet.com/poster/house-contract-legal-risk-control-infographic">Open on posterlet.com →</a></div>
 <div><sub>real estate · house purchase · contract · legal risk</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="inner-conscious-evolution-infographic-2"></a>
 <a href="https://posterlet.com/poster/inner-conscious-evolution-infographic-2"><img src="https://files.posterlet.com/assets/generated/md/mn8wc2rsttaz.webp" alt="Inner Conscious Evolution Infographic — 9:16 Data Visualization poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Inner Conscious Evolution Infographic</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/inner-conscious-evolution-infographic-2">Open on posterlet.com →</a></div>
 <div><sub>conscious evolution · meditation · spiritual growth · chakra</sub></div></td>
-<td valign="top" width="25%"><a id="ip-is-the-ultimate-asset-infographic-2"></a>
-<a href="https://posterlet.com/poster/ip-is-the-ultimate-asset-infographic-2"><img src="https://files.posterlet.com/assets/generated/md/nrl3rtg7amdp.webp" alt="IP Is The Ultimate Asset Infographic — 9:16 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>IP Is The Ultimate Asset Infographic</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/ip-is-the-ultimate-asset-infographic-2">Open on posterlet.com →</a></div>
-<div><sub>intellectual property · brand strategy · infographic · cyberpunk design</sub></div></td>
-<td valign="top" width="25%"><a id="keyboard-static-electricity-causes-and-protection-2"></a>
-<a href="https://posterlet.com/poster/keyboard-static-electricity-causes-and-protection-2"><img src="https://files.posterlet.com/assets/generated/md/5u145bb920ek.webp" alt="Keyboard Static Electricity: Causes and Protection — 9:16 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Keyboard Static Electricity: Causes and Protection</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/keyboard-static-electricity-causes-and-protection-2">Open on posterlet.com →</a></div>
-<div><sub>static electricity · keyboard · infographic · dry air</sub></div></td>
-<td valign="top" width="25%"><a id="legal-issues-blueprint-sports-controversies"></a>
-<a href="https://posterlet.com/poster/legal-issues-blueprint-sports-controversies"><img src="https://files.posterlet.com/assets/generated/md/yp8vpwdb1ji0.webp" alt="Legal Issues Blueprint: Sports Controversies — 1:1 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Legal Issues Blueprint: Sports Controversies</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/legal-issues-blueprint-sports-controversies">Open on posterlet.com →</a></div>
-<div><sub>sports law · infographic · legal controversies · athletes</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="lighting-the-way-home-free-positioning-bracelets"></a>
-<a href="https://posterlet.com/poster/lighting-the-way-home-free-positioning-bracelets"><img src="https://files.posterlet.com/assets/generated/md/a65a4gelpuqg.webp" alt="Lighting the Way Home — Free Positioning Bracelets — 16:9 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Lighting the Way Home — Free Positioning Bracelets</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/lighting-the-way-home-free-positioning-bracelets">Open on posterlet.com →</a></div>
-<div><sub>public welfare · positioning bracelet · elderly care · child safety</sub></div></td>
-<td valign="top" width="25%"><a id="linear-equation-solving-guide-with-step-by-step-process"></a>
-<a href="https://posterlet.com/poster/linear-equation-solving-guide-with-step-by-step-process"><img src="https://files.posterlet.com/assets/generated/md/egs9zqc5l9e3.webp" alt="Linear Equation Solving Guide with Step-by-Step Process — 9:16 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Linear Equation Solving Guide with Step-by-Step Process</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/linear-equation-solving-guide-with-step-by-step-process">Open on posterlet.com →</a></div>
-<div><sub>linear equations · algebra solving · mathematics education · equation steps</sub></div></td>
-<td valign="top" width="25%"><a id="little-known-facts-about-free-solo-climbing-2"></a>
-<a href="https://posterlet.com/poster/little-known-facts-about-free-solo-climbing-2"><img src="https://files.posterlet.com/assets/generated/md/1e3ndcf6monf.webp" alt="Little-Known Facts About Free Solo Climbing — 4:3 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Little-Known Facts About Free Solo Climbing</b></div>
-<div>4:3 · <a href="https://posterlet.com/poster/little-known-facts-about-free-solo-climbing-2">Open on posterlet.com →</a></div>
-<div><sub>free solo climbing · climbing infographic · adventure sports · outdoor education</sub></div></td>
-<td valign="top" width="25%"><a id="mendels-laws-of-gene-transmission-infographic"></a>
-<a href="https://posterlet.com/poster/mendels-laws-of-gene-transmission-infographic"><img src="https://files.posterlet.com/assets/generated/md/f4ukz9ir6ps7.webp" alt="Mendel's Laws of Gene Transmission Infographic — 4:3 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Mendel's Laws of Gene Transmission Infographic</b></div>
-<div>4:3 · <a href="https://posterlet.com/poster/mendels-laws-of-gene-transmission-infographic">Open on posterlet.com →</a></div>
-<div><sub>Mendel · genetics · heredity · DNA</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="moon-man-marketing-feedback-infographic"></a>
-<a href="https://posterlet.com/poster/moon-man-marketing-feedback-infographic"><img src="https://files.posterlet.com/assets/generated/md/wi1fkthvjbbc.webp" alt="Moon Man Marketing Feedback Infographic — 9:16 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Moon Man Marketing Feedback Infographic</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/moon-man-marketing-feedback-infographic">Open on posterlet.com →</a></div>
-<div><sub>infographic · movie marketing · audience feedback · promotion tactics</sub></div></td>
-<td valign="top" width="25%"><a id="myopia-prevention-style-guide-for-eyes"></a>
-<a href="https://posterlet.com/poster/myopia-prevention-style-guide-for-eyes"><img src="https://files.posterlet.com/assets/generated/md/ggty5vdktt0e.webp" alt="Myopia Prevention Style Guide for Eyes — 3:2 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Myopia Prevention Style Guide for Eyes</b></div>
-<div>3:2 · <a href="https://posterlet.com/poster/myopia-prevention-style-guide-for-eyes">Open on posterlet.com →</a></div>
-<div><sub>myopia prevention · eye health · infographic · vision care</sub></div></td>
-<td valign="top" width="25%"><a id="natures-weird-mysteries-uncovered"></a>
-<a href="https://posterlet.com/poster/natures-weird-mysteries-uncovered"><img src="https://files.posterlet.com/assets/generated/md/eunldepc8wl8.webp" alt="Nature's Weird Mysteries Uncovered — 1:1 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Nature's Weird Mysteries Uncovered</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/natures-weird-mysteries-uncovered">Open on posterlet.com →</a></div>
-<div><sub>mystery · nature · infographic · secret dossier</sub></div></td>
-<td valign="top" width="25%"><a id="neural-logic-of-dream-generation-infographic"></a>
-<a href="https://posterlet.com/poster/neural-logic-of-dream-generation-infographic"><img src="https://files.posterlet.com/assets/generated/md/y7523npcdjxn.webp" alt="Neural Logic of Dream Generation Infographic — 3:4 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Neural Logic of Dream Generation Infographic</b></div>
-<div>3:4 · <a href="https://posterlet.com/poster/neural-logic-of-dream-generation-infographic">Open on posterlet.com →</a></div>
-<div><sub>dreams · neuroscience · REM sleep · brain activity</sub></div></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a id="oh-my-future-building-dreams-2"></a>
-<a href="https://posterlet.com/poster/oh-my-future-building-dreams-2"><img src="https://files.posterlet.com/assets/generated/md/n7vx4ycx2pgq.webp" alt="Oh My Future Building Dreams — 9:16 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Oh My Future Building Dreams</b></div>
-<div>9:16 · <a href="https://posterlet.com/poster/oh-my-future-building-dreams-2">Open on posterlet.com →</a></div>
-<div><sub>Pop Art · infographic · college application · vocational education</sub></div></td>
-<td valign="top" width="25%"><a id="pandemic-exhibition-resilience-guochao-fusion"></a>
-<a href="https://posterlet.com/poster/pandemic-exhibition-resilience-guochao-fusion"><img src="https://files.posterlet.com/assets/generated/md/gwr1lg0uhiyn.webp" alt="Pandemic Exhibition Resilience Guochao Fusion — 3:4 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Pandemic Exhibition Resilience Guochao Fusion</b></div>
-<div>3:4 · <a href="https://posterlet.com/poster/pandemic-exhibition-resilience-guochao-fusion">Open on posterlet.com →</a></div>
-<div><sub>exhibition · pandemic · guochao · virtual transition</sub></div></td>
-<td valign="top" width="25%"><a id="personal-growth-and-fate-ukiyo-e-wisdom-scroll"></a>
-<a href="https://posterlet.com/poster/personal-growth-and-fate-ukiyo-e-wisdom-scroll"><img src="https://files.posterlet.com/assets/generated/md/n44jw7v1xme5.webp" alt="Personal Growth and Fate: Ukiyo-e Wisdom Scroll — 1:1 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Personal Growth and Fate: Ukiyo-e Wisdom Scroll</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/personal-growth-and-fate-ukiyo-e-wisdom-scroll">Open on posterlet.com →</a></div>
-<div><sub>ukiyo-e · Japanese art · personal growth · fate</sub></div></td>
-<td valign="top" width="25%"><a id="plant-growth-and-the-power-of-patience"></a>
-<a href="https://posterlet.com/poster/plant-growth-and-the-power-of-patience"><img src="https://files.posterlet.com/assets/generated/md/vwk52f0vnps7.webp" alt="Plant Growth and the Power of Patience — 5:4 Data Visualization poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Plant Growth and the Power of Patience</b></div>
-<div>5:4 · <a href="https://posterlet.com/poster/plant-growth-and-the-power-of-patience">Open on posterlet.com →</a></div>
-<div><sub>plant growth · patience · infographic · healing illustration</sub></div></td>
 </tr>
 </table>
 

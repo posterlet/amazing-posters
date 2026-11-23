@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Beauty & Skincare</h2>
 
-<p><b>Part 4 of 17</b> — 121–160 of 648 · [← Previous](beauty-3.md) · [Next →](beauty-5.md)</p>
+<p><b>Part 4 of 17</b> — 121–160 of 660 · [← Previous](beauty-3.md) · [Next →](beauty-5.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 648 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 660 specs is in <a href="../../data/product-thumbnails/beauty.jsonl">data/product-thumbnails/beauty.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -131,13 +131,18 @@
 <div style="margin-top: 8px;"><b>Sonic Facial Cleansing Brush – 4-Way Skincare Upgrade</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/sonic-facial-cleansing-brush-4-way-skincare-upgrade">Open on posterlet.com →</a></div>
 <div><sub>facial brush · sonic cleanser · skincare device · beauty tool</sub></div></td>
+<td valign="top" width="25%"><a id="sonic-facial-cleansing-brush-deep-clean-skin-renew"></a>
+<a href="https://posterlet.com/poster/sonic-facial-cleansing-brush-deep-clean-skin-renew"><img src="https://files.posterlet.com/assets/generated/md/hhluyd8sjit0.webp" alt="Sonic Facial Cleansing Brush - Deep Clean &amp; Skin Renew — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Sonic Facial Cleansing Brush - Deep Clean &amp; Skin Renew</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/sonic-facial-cleansing-brush-deep-clean-skin-renew">Open on posterlet.com →</a></div>
+<div><sub>facial cleansing brush · sonic skincare device · beauty gadget · skincare tool</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="spa-grade-scented-body-wash-duo"></a>
 <a href="https://posterlet.com/poster/spa-grade-scented-body-wash-duo"><img src="https://files.posterlet.com/assets/generated/md/e898bas7s0ru.webp" alt="SPA-Grade Scented Body Wash Duo — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>SPA-Grade Scented Body Wash Duo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/spa-grade-scented-body-wash-duo">Open on posterlet.com →</a></div>
 <div><sub>body wash · bath duo · spa · skincare</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="spf-50-sunblock-suncare-product-display"></a>
 <a href="https://posterlet.com/poster/spf-50-sunblock-suncare-product-display"><img src="https://files.posterlet.com/assets/generated/md/vocfwc22jpak.webp" alt="SPF 50+ Sunblock Suncare Product Display — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>SPF 50+ Sunblock Suncare Product Display</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Spring Botanical Body Lotion</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/spring-botanical-body-lotion">Open on posterlet.com →</a></div>
 <div><sub>body lotion · spring skincare · botanical beauty · natural skin care</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="spring-skincare-seaside-hydration"></a>
 <a href="https://posterlet.com/poster/spring-skincare-seaside-hydration"><img src="https://files.posterlet.com/assets/generated/md/lef3mjwrgwaz.webp" alt="Spring Skincare Seaside Hydration — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Spring Skincare Seaside Hydration</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/spring-skincare-seaside-hydration">Open on posterlet.com →</a></div>
 <div><sub>skincare · spring · hydration · beach</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="spring-summer-lipstick-shade-chart"></a>
 <a href="https://posterlet.com/poster/spring-summer-lipstick-shade-chart"><img src="https://files.posterlet.com/assets/generated/md/0oet7drn85xf.webp" alt="Spring Summer Lipstick Shade Chart — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Spring Summer Lipstick Shade Chart</b></div>
@@ -175,13 +180,13 @@
 <div style="margin-top: 8px;"><b>Summer Facial Cleanser Product Showcase</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/summer-facial-cleanser-product-showcase">Open on posterlet.com →</a></div>
 <div><sub>skincare · facial cleanser · product photography · Japanese minimal</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="summer-skincare-essence-bottle-product-image"></a>
 <a href="https://posterlet.com/poster/summer-skincare-essence-bottle-product-image"><img src="https://files.posterlet.com/assets/generated/md/9j06nue4w2v2.webp" alt="Summer Skincare Essence Bottle Product Image — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Summer Skincare Essence Bottle Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/summer-skincare-essence-bottle-product-image">Open on posterlet.com →</a></div>
 <div><sub>skincare · essence · summer beauty · product photo</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="sunny-spf-30-sunscreen-tube-product-shot"></a>
 <a href="https://posterlet.com/poster/sunny-spf-30-sunscreen-tube-product-shot"><img src="https://files.posterlet.com/assets/generated/md/la6whakshswo.webp" alt="Sunny SPF 30 Sunscreen Tube Product Shot — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sunny SPF 30 Sunscreen Tube Product Shot</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>Taobao Festival Lipstick Collection</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/taobao-festival-lipstick-collection">Open on posterlet.com →</a></div>
 <div><sub>lipstick · cosmetics · taobao · festival</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="tropical-sunscreen-protects-your-little-one"></a>
 <a href="https://posterlet.com/poster/tropical-sunscreen-protects-your-little-one"><img src="https://files.posterlet.com/assets/generated/md/k0oyeaepm204.webp" alt="Tropical Sunscreen Protects Your Little One — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Tropical Sunscreen Protects Your Little One</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/tropical-sunscreen-protects-your-little-one">Open on posterlet.com →</a></div>
 <div><sub>sunscreen · baby sunscreen · SPF 30 · toddler skincare</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="two-choice-mineral-sunscreen-tubes"></a>
 <a href="https://posterlet.com/poster/two-choice-mineral-sunscreen-tubes"><img src="https://files.posterlet.com/assets/generated/md/ykppr798ou7e.webp" alt="Two-Choice Mineral Sunscreen Tubes — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Two-Choice Mineral Sunscreen Tubes</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Violet Cleanser Duo for Sensitive Skin</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/violet-cleanser-duo-for-sensitive-skin">Open on posterlet.com →</a></div>
 <div><sub>cleanser duo · sensitive skin · skincare · facial cleanser</sub></div></td>
-<td valign="top" width="25%"><a id="violet-haircare-nourish-control"></a>
-<a href="https://posterlet.com/poster/violet-haircare-nourish-control"><img src="https://files.posterlet.com/assets/generated/md/sfifj5q83tx6.webp" alt="Violet Haircare Nourish &amp; Control — 1:1 Beauty &amp; Skincare poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Violet Haircare Nourish &amp; Control</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/violet-haircare-nourish-control">Open on posterlet.com →</a></div>
-<div><sub>haircare · shampoo · serum conditioner · oil control</sub></div></td>
 </tr>
 </table>
 

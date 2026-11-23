@@ -1,8 +1,8 @@
 <h2>Gig Covers — General Services</h2>
 
-<p><b>Part 1 of 4</b> — 1–40 of 131 · [Next →](general-2.md)</p>
+<p><b>Part 1 of 4</b> — 1–40 of 132 · [Next →](general-2.md)</p>
 
-<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 131 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 132 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -82,23 +82,18 @@
 <div style="margin-top: 8px;"><b>Candid Wedding Celebration on Stone Steps</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/candid-wedding-celebration-on-stone-steps">Open on posterlet.com →</a></div>
 <div><sub>wedding · bride · groom · documentary photography</sub></div></td>
-<td valign="top" width="25%"><a id="cannabis-oil-medical-benefits-infographic"></a>
-<a href="https://posterlet.com/poster/cannabis-oil-medical-benefits-infographic"><img src="https://files.posterlet.com/assets/generated/md/vqglfzcqpwd5.webp" alt="Cannabis Oil Medical Benefits Infographic — 16:9 General Services poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Cannabis Oil Medical Benefits Infographic</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/cannabis-oil-medical-benefits-infographic">Open on posterlet.com →</a></div>
-<div><sub>cannabis oil · CBD benefits · medical infographic · wellness product</sub></div></td>
 <td valign="top" width="25%"><a id="career-coaching-dream-job-cover"></a>
 <a href="https://posterlet.com/poster/career-coaching-dream-job-cover"><img src="https://files.posterlet.com/assets/generated/md/dv5efiap3p8k.webp" alt="Career Coaching Dream Job Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Career Coaching Dream Job Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/career-coaching-dream-job-cover">Open on posterlet.com →</a></div>
 <div><sub>career coaching · job success · professional growth · LinkedIn banner</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cartoon-tower-defense-game-screenshot"></a>
 <a href="https://posterlet.com/poster/cartoon-tower-defense-game-screenshot"><img src="https://files.posterlet.com/assets/generated/md/ctwqof3d1msh.webp" alt="Cartoon Tower Defense Game Screenshot — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cartoon Tower Defense Game Screenshot</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/cartoon-tower-defense-game-screenshot">Open on posterlet.com →</a></div>
 <div><sub>tower defense · mobile game · 2D cartoon · gameplay screenshot</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="classroom-moments-at-golden-hour"></a>
 <a href="https://posterlet.com/poster/classroom-moments-at-golden-hour"><img src="https://files.posterlet.com/assets/generated/md/v9cy1282dxv0.webp" alt="Classroom Moments at Golden Hour — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Classroom Moments at Golden Hour</b></div>
@@ -114,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Connect with Local Hosts</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/connect-with-local-hosts">Open on posterlet.com →</a></div>
 <div><sub>gig cover · marketplace · host platform · travel gigs</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="custom-designed-presentation-decks"></a>
 <a href="https://posterlet.com/poster/custom-designed-presentation-decks"><img src="https://files.posterlet.com/assets/generated/md/dcjqhrh3mdd6.webp" alt="Custom Designed Presentation Decks — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Custom Designed Presentation Decks</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/custom-designed-presentation-decks">Open on posterlet.com →</a></div>
 <div><sub>presentation deck · gig cover · corporate design · slide mockup</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="e-commerce-fashion-product-flatlay-cover"></a>
 <a href="https://posterlet.com/poster/e-commerce-fashion-product-flatlay-cover"><img src="https://files.posterlet.com/assets/generated/md/9s4q2td56qyw.webp" alt="E-Commerce Fashion Product Flatlay Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>E-Commerce Fashion Product Flatlay Cover</b></div>
@@ -136,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Elegant Math Tutoring Service Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/elegant-math-tutoring-service-cover">Open on posterlet.com →</a></div>
 <div><sub>math tutoring · education · academic · tutoring services</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="english-tutoring-promotional-cover"></a>
 <a href="https://posterlet.com/poster/english-tutoring-promotional-cover"><img src="https://files.posterlet.com/assets/generated/md/nu7vxb7a51hp.webp" alt="English Tutoring Promotional Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>English Tutoring Promotional Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/english-tutoring-promotional-cover">Open on posterlet.com →</a></div>
 <div><sub>tutoring · English lessons · education · learning</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="expert-quran-and-islamic-studies-teacher"></a>
 <a href="https://posterlet.com/poster/expert-quran-and-islamic-studies-teacher"><img src="https://files.posterlet.com/assets/generated/md/geacsjuwhot2.webp" alt="Expert Quran and Islamic Studies Teacher — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Expert Quran and Islamic Studies Teacher</b></div>
@@ -158,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Financial Projections Pro Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/financial-projections-pro-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>financial projections · business model · gig cover · fiverr</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="fiverr-pro-fintech-saas-slide-mockup-collage"></a>
 <a href="https://posterlet.com/poster/fiverr-pro-fintech-saas-slide-mockup-collage"><img src="https://files.posterlet.com/assets/generated/md/kzbftnaowbig.webp" alt="Fiverr Pro Fintech SaaS Slide Mockup Collage — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fiverr Pro Fintech SaaS Slide Mockup Collage</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/fiverr-pro-fintech-saas-slide-mockup-collage">Open on posterlet.com →</a></div>
 <div><sub>fintech · SaaS · slide design · mockup collage</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="fly-fishing-river-adventure-collage"></a>
 <a href="https://posterlet.com/poster/fly-fishing-river-adventure-collage"><img src="https://files.posterlet.com/assets/generated/md/qz69x65hh8uh.webp" alt="Fly Fishing River Adventure Collage — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Fly Fishing River Adventure Collage</b></div>
@@ -180,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Fortnite Gig Cover with Meme Overlay</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/fortnite-gig-cover-with-meme-overlay">Open on posterlet.com →</a></div>
 <div><sub>Fortnite · gaming · thumbnail · meme</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="framed-portrait-with-pink-flower-in-sunlit-park"></a>
 <a href="https://posterlet.com/poster/framed-portrait-with-pink-flower-in-sunlit-park"><img src="https://files.posterlet.com/assets/generated/md/7hx7qm9pollw.webp" alt="Framed Portrait with Pink Flower in Sunlit Park — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Framed Portrait with Pink Flower in Sunlit Park</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/framed-portrait-with-pink-flower-in-sunlit-park">Open on posterlet.com →</a></div>
 <div><sub>elderly woman · pink flower · antique frame · park portrait</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="full-stack-ai-developer-production-ready"></a>
 <a href="https://posterlet.com/poster/full-stack-ai-developer-production-ready"><img src="https://files.posterlet.com/assets/generated/md/abn9tsgnejnl.webp" alt="Full Stack AI Developer — Production-Ready — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Full Stack AI Developer — Production-Ready</b></div>
@@ -202,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Game App Development Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/game-app-development-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>game development · gig cover · cartoon game art · Unity</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="game-developer-portfolio-gig-cover"></a>
 <a href="https://posterlet.com/poster/game-developer-portfolio-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/j1ob9navljx6.webp" alt="Game Developer Portfolio Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Game Developer Portfolio Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/game-developer-portfolio-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>game development · portfolio · gig cover · unity</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="game-development-promo-gig-cover"></a>
 <a href="https://posterlet.com/poster/game-development-promo-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/em2lmrroc7y5.webp" alt="Game Development Promo Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Game Development Promo Gig Cover</b></div>
@@ -224,6 +219,11 @@
 <div style="margin-top: 8px;"><b>Golden Hour Wedding Ring Moments</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/golden-hour-wedding-ring-moments">Open on posterlet.com →</a></div>
 <div><sub>wedding · album cover · gig cover · golden hour</sub></div></td>
+<td valign="top" width="25%"><a id="golden-hour-wedding-smoke-celebration"></a>
+<a href="https://posterlet.com/poster/golden-hour-wedding-smoke-celebration"><img src="https://files.posterlet.com/assets/generated/md/tqcgrj846tbx.webp" alt="Golden Hour Wedding Smoke Celebration — 16:9 General Services poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Golden Hour Wedding Smoke Celebration</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/golden-hour-wedding-smoke-celebration">Open on posterlet.com →</a></div>
+<div><sub>wedding · golden hour · smoke flares · bride</sub></div></td>
 </tr>
 </table>
 

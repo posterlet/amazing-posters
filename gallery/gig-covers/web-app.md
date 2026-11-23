@@ -38,16 +38,16 @@
 <div style="margin-top: 8px;"><b>AI Native Mobile Apps and Agents</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/ai-native-mobile-apps-and-agents">Open on posterlet.com →</a></div>
 <div><sub>AI native · mobile apps · AI agents · SaaS</sub></div></td>
+<td valign="top" width="25%"><a id="ai-powered-high-converting-shopify-store-designs"></a>
+<a href="https://posterlet.com/poster/ai-powered-high-converting-shopify-store-designs"><img src="https://files.posterlet.com/assets/generated/md/x60nru628grf.webp" alt="AI-Powered High-Converting Shopify Store Designs — 16:9 Web &amp; App Development poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>AI-Powered High-Converting Shopify Store Designs</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/ai-powered-high-converting-shopify-store-designs">Open on posterlet.com →</a></div>
+<div><sub>fiverr · shopify · web design · ecommerce</sub></div></td>
 <td valign="top" width="25%"><a id="ai-powered-mobile-app-development-studio"></a>
 <a href="https://posterlet.com/poster/ai-powered-mobile-app-development-studio"><img src="https://files.posterlet.com/assets/generated/md/y7us23yq5kaw.webp" alt="AI-Powered Mobile App Development Studio — 16:9 Web &amp; App Development poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>AI-Powered Mobile App Development Studio</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/ai-powered-mobile-app-development-studio">Open on posterlet.com →</a></div>
 <div><sub>AI · mobile app · development · startup</sub></div></td>
-<td valign="top" width="25%"><a id="ai-powered-shopify-store-design-showcase"></a>
-<a href="https://posterlet.com/poster/ai-powered-shopify-store-design-showcase"><img src="https://files.posterlet.com/assets/generated/md/xqyvmgc0pan9.webp" alt="AI-Powered Shopify Store Design Showcase — 16:9 Web &amp; App Development poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>AI-Powered Shopify Store Design Showcase</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/ai-powered-shopify-store-design-showcase">Open on posterlet.com →</a></div>
-<div><sub>Fiverr gig cover · Shopify store design · web design portfolio · conversion-focused design</sub></div></td>
 </tr>
 <tr>
 <td valign="top" width="25%"><a id="ai-powered-travel-affiliate-website-fiverr-gig-cover"></a>

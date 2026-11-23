@@ -1,8 +1,8 @@
 <h2>Product Thumbnails — Electronics</h2>
 
-<p><b>Part 3 of 4</b> — 81–120 of 150 · [← Previous](electronics-2.md) · [Next →](electronics-4.md)</p>
+<p><b>Part 3 of 4</b> — 81–120 of 152 · [← Previous](electronics-2.md) · [Next →](electronics-4.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 150 specs is in <a href="../../data/product-thumbnails/electronics.jsonl">data/product-thumbnails/electronics.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 152 specs is in <a href="../../data/product-thumbnails/electronics.jsonl">data/product-thumbnails/electronics.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -219,11 +219,11 @@
 <div style="margin-top: 8px;"><b>Portable Battery Power Bank</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/portable-battery-power-bank">Open on posterlet.com →</a></div>
 <div><sub>power bank · portable charger · battery pack · camping gear</sub></div></td>
-<td valign="top" width="25%"><a id="true-wireless-earbuds-pick-your-color"></a>
-<a href="https://posterlet.com/poster/true-wireless-earbuds-pick-your-color"><img src="https://files.posterlet.com/assets/generated/md/wndqc65c1w9z.webp" alt="True Wireless Earbuds — Pick Your Color — 1:1 Electronics poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>True Wireless Earbuds — Pick Your Color</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/true-wireless-earbuds-pick-your-color">Open on posterlet.com →</a></div>
-<div><sub>true wireless earbuds · wireless headphones · bluetooth earbuds · earbud cases</sub></div></td>
+<td valign="top" width="25%"><a id="rgb-gaming-pc-free-keyboard-bundle"></a>
+<a href="https://posterlet.com/poster/rgb-gaming-pc-free-keyboard-bundle"><img src="https://files.posterlet.com/assets/generated/md/v2tiyu88skbd.webp" alt="RGB Gaming PC Free Keyboard Bundle — 1:1 Electronics poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>RGB Gaming PC Free Keyboard Bundle</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/rgb-gaming-pc-free-keyboard-bundle">Open on posterlet.com →</a></div>
+<div><sub>gaming pc · neon gradient · gaming setup · free keyboard</sub></div></td>
 </tr>
 </table>
 

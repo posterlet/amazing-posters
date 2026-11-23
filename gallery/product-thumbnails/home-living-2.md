@@ -1,11 +1,16 @@
 <h2>Product Thumbnails — Home & Living</h2>
 
-<p><b>Part 2 of 2</b> — 41–75 of 75 · [← Previous](home-living.md)</p>
+<p><b>Part 2 of 2</b> — 41–77 of 77 · [← Previous](home-living.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 75 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 77 specs is in <a href="../../data/product-thumbnails/home-living.jsonl">data/product-thumbnails/home-living.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="pink-baby-formula-gift-promo"></a>
+<a href="https://posterlet.com/poster/pink-baby-formula-gift-promo"><img src="https://files.posterlet.com/assets/generated/md/mu209nsudba9.webp" alt="Pink Baby Formula Gift Promo — 1:1 Home &amp; Living poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Pink Baby Formula Gift Promo</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/pink-baby-formula-gift-promo">Open on posterlet.com →</a></div>
+<div><sub>baby formula · mother and child · ecommerce · promotion</sub></div></td>
 <td valign="top" width="25%"><a id="pink-ergonomic-chair-sit-long-without-fatigue"></a>
 <a href="https://posterlet.com/poster/pink-ergonomic-chair-sit-long-without-fatigue"><img src="https://files.posterlet.com/assets/generated/md/87s49krbwwkv.webp" alt="Pink Ergonomic Chair – Sit Long Without Fatigue — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pink Ergonomic Chair – Sit Long Without Fatigue</b></div>
@@ -21,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Resort-Style Teak Outdoor Furniture Set by the Sea</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/resort-style-teak-outdoor-furniture-set-by-the-sea">Open on posterlet.com →</a></div>
 <div><sub>outdoor furniture · teak garden table · resort lifestyle · seaside deck</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="silver-fishing-tackle-box-promo"></a>
 <a href="https://posterlet.com/poster/silver-fishing-tackle-box-promo"><img src="https://files.posterlet.com/assets/generated/md/jtuoazhacu81.webp" alt="Silver Fishing Tackle Box Promo — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Silver Fishing Tackle Box Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/silver-fishing-tackle-box-promo">Open on posterlet.com →</a></div>
 <div><sub>fishing tackle box · aluminium storage · waterproof fishing gear · angling equipment</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="storewide-specials-swivel-armchair-sale"></a>
 <a href="https://posterlet.com/poster/storewide-specials-swivel-armchair-sale"><img src="https://files.posterlet.com/assets/generated/md/7vu076pacrno.webp" alt="Storewide Specials Swivel Armchair Sale — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Storewide Specials Swivel Armchair Sale</b></div>
@@ -43,13 +48,13 @@
 <div style="margin-top: 8px;"><b>Teak Outdoor Dining Set by the Sea</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/teak-outdoor-dining-set-by-the-sea">Open on posterlet.com →</a></div>
 <div><sub>outdoor furniture · teak dining set · seaside deck · patio furniture</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="tropical-resort-outdoor-furniture-set"></a>
 <a href="https://posterlet.com/poster/tropical-resort-outdoor-furniture-set"><img src="https://files.posterlet.com/assets/generated/md/zpne8s7c2gwc.webp" alt="Tropical Resort Outdoor Furniture Set — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Tropical Resort Outdoor Furniture Set</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/tropical-resort-outdoor-furniture-set">Open on posterlet.com →</a></div>
 <div><sub>outdoor furniture · teak wood table · patio set · resort furniture</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="black-friday-sofa-sale-up-to-50-off"></a>
 <a href="https://posterlet.com/poster/black-friday-sofa-sale-up-to-50-off"><img src="https://files.posterlet.com/assets/generated/md/nfrb1av6k3s5.webp" alt="Black Friday Sofa Sale Up to 50% Off — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Black Friday Sofa Sale Up to 50% Off</b></div>
@@ -65,13 +70,13 @@
 <div style="margin-top: 8px;"><b>Gentle Baby Wash Detergent Display</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/gentle-baby-wash-detergent-display">Open on posterlet.com →</a></div>
 <div><sub>baby wash · detergent jugs · baby care products · blonde laundry</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="heavy-duty-water-filled-barricade"></a>
 <a href="https://posterlet.com/poster/heavy-duty-water-filled-barricade"><img src="https://files.posterlet.com/assets/generated/md/lyrm88aa07iq.webp" alt="Heavy-Duty Water-Filled Barricade — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Heavy-Duty Water-Filled Barricade</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/heavy-duty-water-filled-barricade">Open on posterlet.com →</a></div>
 <div><sub>barricade · safety barrier · construction · water-filled barrier</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="merry-christmas-holiday-stocking-collection"></a>
 <a href="https://posterlet.com/poster/merry-christmas-holiday-stocking-collection"><img src="https://files.posterlet.com/assets/generated/md/0wlei99hzksj.webp" alt="Merry Christmas Holiday Stocking Collection — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Merry Christmas Holiday Stocking Collection</b></div>
@@ -87,13 +92,13 @@
 <div style="margin-top: 8px;"><b>Teddy Bear in Yellow Basket on Wooden Table</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/teddy-bear-in-yellow-basket-on-wooden-table">Open on posterlet.com →</a></div>
 <div><sub>teddy bear · storage basket · yellow basket · cozy home</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="ultra-bright-tactical-flashlight-power"></a>
 <a href="https://posterlet.com/poster/ultra-bright-tactical-flashlight-power"><img src="https://files.posterlet.com/assets/generated/md/krf2sk9z4bwl.webp" alt="Ultra Bright Tactical Flashlight Power — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Ultra Bright Tactical Flashlight Power</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/ultra-bright-tactical-flashlight-power">Open on posterlet.com →</a></div>
 <div><sub>tactical flashlight · LED flashlight · outdoor gear · EDC light</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="white-cotton-duvet-cover-with-forest-green-accent"></a>
 <a href="https://posterlet.com/poster/white-cotton-duvet-cover-with-forest-green-accent"><img src="https://files.posterlet.com/assets/generated/md/t8e3uogbcg4x.webp" alt="White Cotton Duvet Cover with Forest Green Accent — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>White Cotton Duvet Cover with Forest Green Accent</b></div>
@@ -109,23 +114,30 @@
 <div style="margin-top: 8px;"><b>All-Season Cotton Comforter Stack</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/all-season-cotton-comforter-stack">Open on posterlet.com →</a></div>
 <div><sub>comforter · cotton bedding · bedroom decor · linen comforter</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="aluminum-tool-case-premium-product-shot"></a>
 <a href="https://posterlet.com/poster/aluminum-tool-case-premium-product-shot"><img src="https://files.posterlet.com/assets/generated/md/jdlgnu8grzlc.webp" alt="Aluminum Tool Case Premium Product Shot — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Aluminum Tool Case Premium Product Shot</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/aluminum-tool-case-premium-product-shot">Open on posterlet.com →</a></div>
 <div><sub>aluminum tool case · tool storage · industrial design · premium hardware</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="buy-one-get-one-fall-vase-collection"></a>
 <a href="https://posterlet.com/poster/buy-one-get-one-fall-vase-collection"><img src="https://files.posterlet.com/assets/generated/md/w7jyyg4k2gzn.webp" alt="Buy One Get One — Fall Vase Collection — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Buy One Get One — Fall Vase Collection</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/buy-one-get-one-fall-vase-collection">Open on posterlet.com →</a></div>
 <div><sub>vase · sunflower · BOGO · fall collection</sub></div></td>
+<td valign="top" width="25%"><a id="cotton-bedding-set-soft-washed-linen"></a>
+<a href="https://posterlet.com/poster/cotton-bedding-set-soft-washed-linen"><img src="https://files.posterlet.com/assets/generated/md/k7bgaaxwwyul.webp" alt="Cotton Bedding Set Soft Washed Linen — 1:1 Home &amp; Living poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Cotton Bedding Set Soft Washed Linen</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/cotton-bedding-set-soft-washed-linen">Open on posterlet.com →</a></div>
+<div><sub>cotton bedding · washed cotton · bedroom decor · linen upholstery</sub></div></td>
 <td valign="top" width="25%"><a id="cotton-bedding-set-warm-linen-bedroom"></a>
 <a href="https://posterlet.com/poster/cotton-bedding-set-warm-linen-bedroom"><img src="https://files.posterlet.com/assets/generated/md/483gzmddor90.webp" alt="Cotton Bedding Set — Warm Linen Bedroom — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cotton Bedding Set — Warm Linen Bedroom</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/cotton-bedding-set-warm-linen-bedroom">Open on posterlet.com →</a></div>
 <div><sub>cotton bedding · bedroom set · linen upholstery · washed cotton</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cozy-fleece-duvet-set-holiday-sale"></a>
 <a href="https://posterlet.com/poster/cozy-fleece-duvet-set-holiday-sale"><img src="https://files.posterlet.com/assets/generated/md/hw8sjggojc6o.webp" alt="Cozy Fleece Duvet Set Holiday Sale — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Fleece Duvet Set Holiday Sale</b></div>
@@ -136,8 +148,6 @@
 <div style="margin-top: 8px;"><b>Flannel Sheet Set Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/flannel-sheet-set-sale">Open on posterlet.com →</a></div>
 <div><sub>flannel sheet set · bedroom bedding · duvet cover · cozy sheets</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="queen-oak-platform-bed-half-price-sale"></a>
 <a href="https://posterlet.com/poster/queen-oak-platform-bed-half-price-sale"><img src="https://files.posterlet.com/assets/generated/md/kks80yyra3tv.webp" alt="Queen Oak Platform Bed Half Price Sale — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Queen Oak Platform Bed Half Price Sale</b></div>
@@ -148,6 +158,8 @@
 <div style="margin-top: 8px;"><b>Soft Plush Cotton Bath Towels</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/soft-plush-cotton-bath-towels">Open on posterlet.com →</a></div>
 <div><sub>cotton towels · bath towels · blush taupe · chalk white</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="sonic-clean-electric-toothbrush-poster"></a>
 <a href="https://posterlet.com/poster/sonic-clean-electric-toothbrush-poster"><img src="https://files.posterlet.com/assets/generated/md/9e7b3rjziqvd.webp" alt="Sonic Clean Electric Toothbrush Poster — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sonic Clean Electric Toothbrush Poster</b></div>
@@ -158,8 +170,6 @@
 <div style="margin-top: 8px;"><b>Strong Suction Rail Kitchen Organizer $12</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/strong-suction-rail-kitchen-organizer-12">Open on posterlet.com →</a></div>
 <div><sub>kitchen organizer · suction rail · utensil holder · wall mounted</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="sturdy-sisal-cat-scratcher"></a>
 <a href="https://posterlet.com/poster/sturdy-sisal-cat-scratcher"><img src="https://files.posterlet.com/assets/generated/md/p7b3v356qthz.webp" alt="Sturdy Sisal Cat Scratcher — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Sturdy Sisal Cat Scratcher</b></div>
@@ -170,6 +180,8 @@
 <div style="margin-top: 8px;"><b>UTENSIL CROCK WITH CUTLERY — FREE SPATULAS OFFER</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/utensil-crock-with-cutlery-free-spatulas-offer">Open on posterlet.com →</a></div>
 <div><sub>utensil crock · kitchenware storage · cutlery organizer · kitchen accessories</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="warm-led-clip-on-reading-lamp"></a>
 <a href="https://posterlet.com/poster/warm-led-clip-on-reading-lamp"><img src="https://files.posterlet.com/assets/generated/md/6ygjzew9vp0m.webp" alt="Warm LED Clip-On Reading Lamp — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Warm LED Clip-On Reading Lamp</b></div>
@@ -180,8 +192,6 @@
 <div style="margin-top: 8px;"><b>HEAVY DUTY PEEL AND STICK WALL HOOKS</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/heavy-duty-peel-and-stick-wall-hooks">Open on posterlet.com →</a></div>
 <div><sub>wall hooks · adhesive hooks · peel and stick · home organization</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="pastel-desktop-storage-drawer-on-sale"></a>
 <a href="https://posterlet.com/poster/pastel-desktop-storage-drawer-on-sale"><img src="https://files.posterlet.com/assets/generated/md/g40zzdb8tnlm.webp" alt="Pastel Desktop Storage Drawer on Sale — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pastel Desktop Storage Drawer on Sale</b></div>
@@ -192,6 +202,8 @@
 <div style="margin-top: 8px;"><b>Stackable Acrylic Storage Drawers</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/stackable-acrylic-storage-drawers">Open on posterlet.com →</a></div>
 <div><sub>acrylic storage · drawer tower · stackable drawers · home organization</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="everyday-linen-sofa"></a>
 <a href="https://posterlet.com/poster/everyday-linen-sofa"><img src="https://files.posterlet.com/assets/generated/md/re32xm0tq3kl.webp" alt="Everyday Linen Sofa — 1:1 Home &amp; Living poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Everyday Linen Sofa</b></div>

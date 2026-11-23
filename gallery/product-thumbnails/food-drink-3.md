@@ -1,11 +1,16 @@
 <h2>Product Thumbnails — Food & Drink</h2>
 
-<p><b>Part 3 of 17</b> — 81–120 of 666 · [← Previous](food-drink-2.md) · [Next →](food-drink-4.md)</p>
+<p><b>Part 3 of 18</b> — 81–120 of 684 · [← Previous](food-drink-2.md) · [Next →](food-drink-4.md)</p>
 
-<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 666 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>E-commerce main images and listing thumbnails on clean grounds. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 684 specs is in <a href="../../data/product-thumbnails/food-drink.jsonl">data/product-thumbnails/food-drink.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="growing-up-milk-formula-with-dairy-splash"></a>
+<a href="https://posterlet.com/poster/growing-up-milk-formula-with-dairy-splash"><img src="https://files.posterlet.com/assets/generated/md/vzu3vcrnu469.webp" alt="Growing-Up Milk Formula with Dairy Splash — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Growing-Up Milk Formula with Dairy Splash</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/growing-up-milk-formula-with-dairy-splash">Open on posterlet.com →</a></div>
+<div><sub>formula milk · baby nutrition · child growth · milk splash</sub></div></td>
 <td valign="top" width="25%"><a id="guilin-karst-river-scenery-tour-promotion"></a>
 <a href="https://posterlet.com/poster/guilin-karst-river-scenery-tour-promotion"><img src="https://files.posterlet.com/assets/generated/md/ggy9hxfv34n4.webp" alt="Guilin Karst River Scenery Tour Promotion — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Guilin Karst River Scenery Tour Promotion</b></div>
@@ -21,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Hami Melon Origin Story Poster</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/hami-melon-origin-story-poster">Open on posterlet.com →</a></div>
 <div><sub>hami melon · fruit poster · Turpan · Xizhou Honey</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="handmade-cuttlefish-balls-product-image"></a>
 <a href="https://posterlet.com/poster/handmade-cuttlefish-balls-product-image"><img src="https://files.posterlet.com/assets/generated/md/02147084wofr.webp" alt="Handmade Cuttlefish Balls Product Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Handmade Cuttlefish Balls Product Image</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/handmade-cuttlefish-balls-product-image">Open on posterlet.com →</a></div>
 <div><sub>cuttlefish balls · seafood product · Chaoshan cuisine · handmade seafood</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="healthy-breakfast-food-collage"></a>
 <a href="https://posterlet.com/poster/healthy-breakfast-food-collage"><img src="https://files.posterlet.com/assets/generated/md/61ktshcuyl2b.webp" alt="Healthy Breakfast Food Collage — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Healthy Breakfast Food Collage</b></div>
@@ -43,13 +48,13 @@
 <div style="margin-top: 8px;"><b>Heritage Black Tea Premium Gift Chest</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/heritage-black-tea-premium-gift-chest">Open on posterlet.com →</a></div>
 <div><sub>black tea · tea gift box · heritage tea · festive gift</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="high-mountain-tea-arrival-serene-mountain-valley"></a>
 <a href="https://posterlet.com/poster/high-mountain-tea-arrival-serene-mountain-valley"><img src="https://files.posterlet.com/assets/generated/md/da8bz98bob6k.webp" alt="High-Mountain Tea Arrival — Serene Mountain Valley — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>High-Mountain Tea Arrival — Serene Mountain Valley</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/high-mountain-tea-arrival-serene-mountain-valley">Open on posterlet.com →</a></div>
 <div><sub>tea · Yixing teapot · high-mountain tea · pre-Qingming</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="honey-roasted-sweet-potatoes-farm-fresh"></a>
 <a href="https://posterlet.com/poster/honey-roasted-sweet-potatoes-farm-fresh"><img src="https://files.posterlet.com/assets/generated/md/7r5hdfjed4uk.webp" alt="Honey-Roasted Sweet Potatoes Farm Fresh — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Honey-Roasted Sweet Potatoes Farm Fresh</b></div>
@@ -65,13 +70,13 @@
 <div style="margin-top: 8px;"><b>Iced Latte Brand Trial Sale</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/iced-latte-brand-trial-sale">Open on posterlet.com →</a></div>
 <div><sub>iced latte · coffee sale · beverage · product image</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="icy-sparkling-lemon-tea-promo"></a>
 <a href="https://posterlet.com/poster/icy-sparkling-lemon-tea-promo"><img src="https://files.posterlet.com/assets/generated/md/lu1859vnnxdp.webp" alt="Icy Sparkling Lemon Tea Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Icy Sparkling Lemon Tea Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/icy-sparkling-lemon-tea-promo">Open on posterlet.com →</a></div>
 <div><sub>sparkling lemon tea · refreshing beverage · summer drink · e-commerce product</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="imported-milk-watermelon-midsummer-fresh"></a>
 <a href="https://posterlet.com/poster/imported-milk-watermelon-midsummer-fresh"><img src="https://files.posterlet.com/assets/generated/md/x6zuvnrxfl1l.webp" alt="Imported Milk Watermelon Midsummer Fresh — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Imported Milk Watermelon Midsummer Fresh</b></div>
@@ -87,13 +92,13 @@
 <div style="margin-top: 8px;"><b>Japanese Sponge Cake Wellness Ad</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/japanese-sponge-cake-wellness-ad">Open on posterlet.com →</a></div>
 <div><sub>Japanese sponge cake · wellness dessert · pastel food photography · flat-lay advertisement</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="japanese-style-instant-noodle-bowl-set"></a>
 <a href="https://posterlet.com/poster/japanese-style-instant-noodle-bowl-set"><img src="https://files.posterlet.com/assets/generated/md/31og6jndgpam.webp" alt="Japanese-Style Instant Noodle Bowl Set — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Japanese-Style Instant Noodle Bowl Set</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/japanese-style-instant-noodle-bowl-set">Open on posterlet.com →</a></div>
 <div><sub>ceramic bowl · noodle bowl · kitchenware · homeware</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="juicy-hainan-guifei-mango-sale-hero-image"></a>
 <a href="https://posterlet.com/poster/juicy-hainan-guifei-mango-sale-hero-image"><img src="https://files.posterlet.com/assets/generated/md/0bwegjbw18ck.webp" alt="Juicy Hainan Guifei Mango Sale Hero Image — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Juicy Hainan Guifei Mango Sale Hero Image</b></div>
@@ -109,13 +114,13 @@
 <div style="margin-top: 8px;"><b>Juicy Soft-Seed Pomegranate Product</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/juicy-soft-seed-pomegranate-product">Open on posterlet.com →</a></div>
 <div><sub>pomegranate · fresh fruit · juicy splash · product photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="juicy-tunisian-pomegranate-market-promo"></a>
 <a href="https://posterlet.com/poster/juicy-tunisian-pomegranate-market-promo"><img src="https://files.posterlet.com/assets/generated/md/jx0c60au3c6f.webp" alt="Juicy Tunisian Pomegranate Market Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Juicy Tunisian Pomegranate Market Promo</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/juicy-tunisian-pomegranate-market-promo">Open on posterlet.com →</a></div>
 <div><sub>pomegranate · fresh fruit · organic produce · healthy snack</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="kitten-adult-cat-staple-cans"></a>
 <a href="https://posterlet.com/poster/kitten-adult-cat-staple-cans"><img src="https://files.posterlet.com/assets/generated/md/wylr4yyq6j58.webp" alt="Kitten Adult Cat Staple Cans — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Kitten Adult Cat Staple Cans</b></div>
@@ -131,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Korla Fragrant Pears Fresh Harvest</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/korla-fragrant-pears-fresh-harvest">Open on posterlet.com →</a></div>
 <div><sub>Korla pears · fresh fruit · orchard harvest · product photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="lapsang-souchong-premium-tea-package"></a>
 <a href="https://posterlet.com/poster/lapsang-souchong-premium-tea-package"><img src="https://files.posterlet.com/assets/generated/md/3ceuqurd5ru6.webp" alt="Lapsang Souchong Premium Tea Package — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Lapsang Souchong Premium Tea Package</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/lapsang-souchong-premium-tea-package">Open on posterlet.com →</a></div>
 <div><sub>lapsang souchong · black tea · tea product · rustic packaging</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="lingnan-fresh-lychee-gift-box-promo"></a>
 <a href="https://posterlet.com/poster/lingnan-fresh-lychee-gift-box-promo"><img src="https://files.posterlet.com/assets/generated/md/bd91ulyt5ir5.webp" alt="Lingnan Fresh Lychee Gift Box Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Lingnan Fresh Lychee Gift Box Promo</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Low Calories Zero Guilt Coffee Versus Milk Tea</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/low-calories-zero-guilt-coffee-versus-milk-tea">Open on posterlet.com →</a></div>
 <div><sub>low calorie · iced coffee · milk tea · calorie comparison</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="luxurious-chocolate-dessert-editorial"></a>
 <a href="https://posterlet.com/poster/luxurious-chocolate-dessert-editorial"><img src="https://files.posterlet.com/assets/generated/md/mvuqpwziiu5u.webp" alt="Luxurious Chocolate Dessert Editorial — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxurious Chocolate Dessert Editorial</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/luxurious-chocolate-dessert-editorial">Open on posterlet.com →</a></div>
 <div><sub>chocolate dessert · gourmet pralines · chocolate waffles · luxury confectionery</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="luxurious-heritage-pu-erh-tea-gift-canister"></a>
 <a href="https://posterlet.com/poster/luxurious-heritage-pu-erh-tea-gift-canister"><img src="https://files.posterlet.com/assets/generated/md/mcll440h85tw.webp" alt="Luxurious Heritage Pu-erh Tea Gift Canister — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Luxurious Heritage Pu-erh Tea Gift Canister</b></div>
@@ -175,23 +180,30 @@
 <div style="margin-top: 8px;"><b>Mapo Tofu Seasoning Sauce Bottle</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/mapo-tofu-seasoning-sauce-bottle">Open on posterlet.com →</a></div>
 <div><sub>mapo tofu · Chinese seasoning · spicy sauce · food photography</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="misty-mountain-longjing-tea-tins"></a>
 <a href="https://posterlet.com/poster/misty-mountain-longjing-tea-tins"><img src="https://files.posterlet.com/assets/generated/md/stgrjt14p1js.webp" alt="Misty Mountain Longjing Tea Tins — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Misty Mountain Longjing Tea Tins</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/misty-mountain-longjing-tea-tins">Open on posterlet.com →</a></div>
 <div><sub>longjing tea · green tea tin · misty mountain · driftwood</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="nfc-cold-pressed-juice-four-flavor-lineup"></a>
 <a href="https://posterlet.com/poster/nfc-cold-pressed-juice-four-flavor-lineup"><img src="https://files.posterlet.com/assets/generated/md/3j1i2xzcs5l7.webp" alt="NFC Cold-Pressed Juice Four Flavor Lineup — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>NFC Cold-Pressed Juice Four Flavor Lineup</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/nfc-cold-pressed-juice-four-flavor-lineup">Open on posterlet.com →</a></div>
 <div><sub>cold-pressed juice · NFC juice · organic juice · juice bottles</sub></div></td>
+<td valign="top" width="25%"><a id="no-additives-baby-safe-chips"></a>
+<a href="https://posterlet.com/poster/no-additives-baby-safe-chips"><img src="https://files.posterlet.com/assets/generated/md/hj6edxo52j3m.webp" alt="No Additives Baby-Safe Chips — 1:1 Food &amp; Drink poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>No Additives Baby-Safe Chips</b></div>
+<div>1:1 · <a href="https://posterlet.com/poster/no-additives-baby-safe-chips">Open on posterlet.com →</a></div>
+<div><sub>baby food · no additives · healthy snacks · toddler friendly</sub></div></td>
 <td valign="top" width="25%"><a id="northeast-premium-fragrant-rice-harvest"></a>
 <a href="https://posterlet.com/poster/northeast-premium-fragrant-rice-harvest"><img src="https://files.posterlet.com/assets/generated/md/afu9w51jj37u.webp" alt="Northeast Premium Fragrant Rice Harvest — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Northeast Premium Fragrant Rice Harvest</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/northeast-premium-fragrant-rice-harvest">Open on posterlet.com →</a></div>
 <div><sub>rice · premium grain · harvest · organic food</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="organic-toddler-fruit-puree-promo"></a>
 <a href="https://posterlet.com/poster/organic-toddler-fruit-puree-promo"><img src="https://files.posterlet.com/assets/generated/md/pfyqcqscgl94.webp" alt="Organic Toddler Fruit Puree Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Organic Toddler Fruit Puree Promo</b></div>
@@ -202,8 +214,6 @@
 <div style="margin-top: 8px;"><b>Pastoral Milk Powder Promotion with Cans</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/pastoral-milk-powder-promotion-with-cans">Open on posterlet.com →</a></div>
 <div><sub>milk powder · baby formula · organic formula · e-commerce product</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="pet-food-kibble-bowl-promo-with-fresh-ingredients"></a>
 <a href="https://posterlet.com/poster/pet-food-kibble-bowl-promo-with-fresh-ingredients"><img src="https://files.posterlet.com/assets/generated/md/taiwiaxz6pqe.webp" alt="Pet Food Kibble Bowl Promo with Fresh Ingredients — 1:1 Food &amp; Drink poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Pet Food Kibble Bowl Promo with Fresh Ingredients</b></div>
@@ -214,16 +224,6 @@
 <div style="margin-top: 8px;"><b>Plant Nutrient Liquid for All Gardens</b></div>
 <div>1:1 · <a href="https://posterlet.com/poster/plant-nutrient-liquid-for-all-gardens">Open on posterlet.com →</a></div>
 <div><sub>plant nutrient · garden fertilizer · liquid feed · flower fertilizer</sub></div></td>
-<td valign="top" width="25%"><a id="playful-grain-free-cat-food-promo"></a>
-<a href="https://posterlet.com/poster/playful-grain-free-cat-food-promo"><img src="https://files.posterlet.com/assets/generated/md/h0fu65mtw0zm.webp" alt="Playful Grain-Free Cat Food Promo — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Playful Grain-Free Cat Food Promo</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/playful-grain-free-cat-food-promo">Open on posterlet.com →</a></div>
-<div><sub>pet food · cat food · grain-free · kitten</sub></div></td>
-<td valign="top" width="25%"><a id="polka-dot-headband-eye-earring-set"></a>
-<a href="https://posterlet.com/poster/polka-dot-headband-eye-earring-set"><img src="https://files.posterlet.com/assets/generated/md/rsvvz6oojhfh.webp" alt="Polka-Dot Headband &amp; Eye Earring Set — 1:1 Food &amp; Drink poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>Polka-Dot Headband &amp; Eye Earring Set</b></div>
-<div>1:1 · <a href="https://posterlet.com/poster/polka-dot-headband-eye-earring-set">Open on posterlet.com →</a></div>
-<div><sub>fashion accessory · statement earrings · polka dot headband · product thumbnail</sub></div></td>
 </tr>
 </table>
 

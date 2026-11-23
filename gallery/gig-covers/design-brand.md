@@ -21,18 +21,13 @@
 <div style="margin-top: 8px;"><b>2D Animation US-Based Creative Team</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/2d-animation-us-based-creative-team">Open on posterlet.com →</a></div>
 <div><sub>2D animation · gig cover · American team · cartoon characters</sub></div></td>
-<td valign="top" width="25%"><a id="3d-embossed-logo-showcase-wall"></a>
-<a href="https://posterlet.com/poster/3d-embossed-logo-showcase-wall"><img src="https://files.posterlet.com/assets/generated/md/ocjitoev7n8a.webp" alt="3D Embossed Logo Showcase Wall — 16:9 Design &amp; Branding poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>3D Embossed Logo Showcase Wall</b></div>
-<div>16:9 · <a href="https://posterlet.com/poster/3d-embossed-logo-showcase-wall">Open on posterlet.com →</a></div>
-<div><sub>logo portfolio · 3D embossed · relief logos · brand showcase</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="80-solutions-fail-execution-matters"></a>
 <a href="https://posterlet.com/poster/80-solutions-fail-execution-matters"><img src="https://files.posterlet.com/assets/generated/md/vi8d7bcqwee9.webp" alt="80% Solutions Fail Execution Matters — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>80% Solutions Fail Execution Matters</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/80-solutions-fail-execution-matters">Open on posterlet.com →</a></div>
 <div><sub>gig cover · business poster · typographic design · portfolio cover</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="9-logo-portfolio-showcase-grid"></a>
 <a href="https://posterlet.com/poster/9-logo-portfolio-showcase-grid"><img src="https://files.posterlet.com/assets/generated/md/6zmc2ul8s7cf.webp" alt="9 Logo Portfolio Showcase Grid — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>9 Logo Portfolio Showcase Grid</b></div>
@@ -48,13 +43,13 @@
 <div style="margin-top: 8px;"><b>AI Product Brand Moodboard Violet Tiles</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/ai-product-brand-moodboard-violet-tiles">Open on posterlet.com →</a></div>
 <div><sub>gig cover · moodboard · AI product · violet gradient</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="ai-tool-logos-on-black-grid"></a>
 <a href="https://posterlet.com/poster/ai-tool-logos-on-black-grid"><img src="https://files.posterlet.com/assets/generated/md/7drc60low6o0.webp" alt="AI Tool Logos on Black Grid — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>AI Tool Logos on Black Grid</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/ai-tool-logos-on-black-grid">Open on posterlet.com →</a></div>
 <div><sub>gig cover · logo wall · minimalist design · AI tools</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="anatomical-brain-gig-cover"></a>
 <a href="https://posterlet.com/poster/anatomical-brain-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/3htexqq4i2sy.webp" alt="Anatomical Brain Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Anatomical Brain Gig Cover</b></div>
@@ -70,13 +65,13 @@
 <div style="margin-top: 8px;"><b>Are You Ready for Motion Animation</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/are-you-ready-for-motion-animation">Open on posterlet.com →</a></div>
 <div><sub>motion graphics · gig cover · kinetic typography · music video</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="astronaut-burger-cart-gig-cover"></a>
 <a href="https://posterlet.com/poster/astronaut-burger-cart-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/8cnhmbv6duat.webp" alt="Astronaut Burger Cart Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Astronaut Burger Cart Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/astronaut-burger-cart-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · astronaut mascot · burger cartoon · music thumbnail</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="ats-approved-resume-career-transformation-poster"></a>
 <a href="https://posterlet.com/poster/ats-approved-resume-career-transformation-poster"><img src="https://files.posterlet.com/assets/generated/md/hqi9lzx5uty2.webp" alt="ATS Approved Resume Career Transformation Poster — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>ATS Approved Resume Career Transformation Poster</b></div>
@@ -92,13 +87,13 @@
 <div style="margin-top: 8px;"><b>Bold Flat Vector SEO Audit Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/bold-flat-vector-seo-audit-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>SEO audit · gig cover · flat vector · letterform illustration</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="bold-horse-flag-gig-cover"></a>
 <a href="https://posterlet.com/poster/bold-horse-flag-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/fnudmzphgeex.webp" alt="Bold Horse Flag Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Bold Horse Flag Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/bold-horse-flag-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · music poster · horse logo · sports club</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="bold-minimal-gig-cover-logo"></a>
 <a href="https://posterlet.com/poster/bold-minimal-gig-cover-logo"><img src="https://files.posterlet.com/assets/generated/md/a93kv74cywwk.webp" alt="Bold Minimal Gig Cover Logo — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Bold Minimal Gig Cover Logo</b></div>
@@ -114,13 +109,13 @@
 <div style="margin-top: 8px;"><b>Brand Guidelines Presentation Sheet</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/brand-guidelines-presentation-sheet">Open on posterlet.com →</a></div>
 <div><sub>brand guidelines · logo design · color palette · typography system</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="brand-identity-moodboard"></a>
 <a href="https://posterlet.com/poster/brand-identity-moodboard"><img src="https://files.posterlet.com/assets/generated/md/tqusct6oen9v.webp" alt="Brand Identity Moodboard — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Brand Identity Moodboard</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/brand-identity-moodboard">Open on posterlet.com →</a></div>
 <div><sub>brand identity · moodboard · logo design · visual identity</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="caramel-chocolate-deluxe-protein-bar"></a>
 <a href="https://posterlet.com/poster/caramel-chocolate-deluxe-protein-bar"><img src="https://files.posterlet.com/assets/generated/md/9cmya1j92m0h.webp" alt="Caramel Chocolate Deluxe Protein Bar — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Caramel Chocolate Deluxe Protein Bar</b></div>
@@ -136,13 +131,13 @@
 <div style="margin-top: 8px;"><b>Cinematic 3D Gig Cover with Glowing Emblem</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/cinematic-3d-gig-cover-with-glowing-emblem">Open on posterlet.com →</a></div>
 <div><sub>gig cover · youtube thumbnail · 3d monogram · cinematic branding</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="city-country-professional-team-illustration"></a>
 <a href="https://posterlet.com/poster/city-country-professional-team-illustration"><img src="https://files.posterlet.com/assets/generated/md/vregsbo5ffm7.webp" alt="City Country Professional Team Illustration — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>City Country Professional Team Illustration</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/city-country-professional-team-illustration">Open on posterlet.com →</a></div>
 <div><sub>vector illustration · flat design · professionals · city country</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="clean-dashboard-ui-with-charts"></a>
 <a href="https://posterlet.com/poster/clean-dashboard-ui-with-charts"><img src="https://files.posterlet.com/assets/generated/md/cg13hc2sthqt.webp" alt="Clean Dashboard UI with Charts — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Clean Dashboard UI with Charts</b></div>
@@ -158,13 +153,13 @@
 <div style="margin-top: 8px;"><b>Cobalt Blue Minimalist Logo Lockup</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/cobalt-blue-minimalist-logo-lockup">Open on posterlet.com →</a></div>
 <div><sub>logo lockup · corporate identity · cobalt blue · minimalist design</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cobalt-financial-dashboard-ui-screenshot"></a>
 <a href="https://posterlet.com/poster/cobalt-financial-dashboard-ui-screenshot"><img src="https://files.posterlet.com/assets/generated/md/9y3y93xcm0wj.webp" alt="Cobalt Financial Dashboard UI Screenshot — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cobalt Financial Dashboard UI Screenshot</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/cobalt-financial-dashboard-ui-screenshot">Open on posterlet.com →</a></div>
 <div><sub>financial dashboard · UI screenshot · analytics report · cobalt blue</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="content-creation-course-cover"></a>
 <a href="https://posterlet.com/poster/content-creation-course-cover"><img src="https://files.posterlet.com/assets/generated/md/5infn7aedig9.webp" alt="Content Creation Course Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Content Creation Course Cover</b></div>
@@ -180,13 +175,13 @@
 <div style="margin-top: 8px;"><b>Corporate Office Vector Illustration Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/corporate-office-vector-illustration-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>gig cover · corporate illustration · office scene · flat vector</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cozy-home-office-vector-illustration"></a>
 <a href="https://posterlet.com/poster/cozy-home-office-vector-illustration"><img src="https://files.posterlet.com/assets/generated/md/spe09ygkob7q.webp" alt="Cozy Home Office Vector Illustration — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Home Office Vector Illustration</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/cozy-home-office-vector-illustration">Open on posterlet.com →</a></div>
 <div><sub>home office · cozy workspace · flat illustration · vector art</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="craft-beer-can-mockup-trio"></a>
 <a href="https://posterlet.com/poster/craft-beer-can-mockup-trio"><img src="https://files.posterlet.com/assets/generated/md/hg1mg3978y15.webp" alt="Craft Beer Can Mockup Trio — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Craft Beer Can Mockup Trio</b></div>
@@ -202,13 +197,13 @@
 <div style="margin-top: 8px;"><b>Crimson &amp; Marigold Restaurant Brand Mockups</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/crimson-marigold-restaurant-brand-mockups">Open on posterlet.com →</a></div>
 <div><sub>restaurant branding · food mockup · brand identity · gig cover</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="crimson-rocket-label-logo-on-dark-cardstock"></a>
 <a href="https://posterlet.com/poster/crimson-rocket-label-logo-on-dark-cardstock"><img src="https://files.posterlet.com/assets/generated/md/isjjfwzyw62n.webp" alt="Crimson Rocket Label Logo on Dark Cardstock — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Crimson Rocket Label Logo on Dark Cardstock</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/crimson-rocket-label-logo-on-dark-cardstock">Open on posterlet.com →</a></div>
 <div><sub>music logo · producer branding · gig cover · rocket logo</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cruise-holiday-bi-dashboard-mockup"></a>
 <a href="https://posterlet.com/poster/cruise-holiday-bi-dashboard-mockup"><img src="https://files.posterlet.com/assets/generated/md/qkvwb0jawyxt.webp" alt="Cruise Holiday BI Dashboard Mockup — 16:9 Design &amp; Branding poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cruise Holiday BI Dashboard Mockup</b></div>
@@ -224,6 +219,11 @@
 <div style="margin-top: 8px;"><b>Custom Logo Animation Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/custom-logo-animation-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>logo animation · animated intro · gig cover · 3D animation</sub></div></td>
+<td valign="top" width="25%"><a id="custom-logo-animation-gig-cover-2"></a>
+<a href="https://posterlet.com/poster/custom-logo-animation-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/aka5i3ez1huu.webp" alt="Custom Logo Animation Gig Cover — 16:9 Design &amp; Branding poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Custom Logo Animation Gig Cover</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/custom-logo-animation-gig-cover-2">Open on posterlet.com →</a></div>
+<div><sub>logo animation · gig cover · fiverr · intro video</sub></div></td>
 </tr>
 </table>
 

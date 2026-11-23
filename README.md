@@ -1,27 +1,27 @@
 # Amazing Posters — generated posters with the prompts behind them
 
-**6,318 poster prompt specs** — the exact structured text behind each image, paired with the
+**6,668 poster prompt specs** — the exact structured text behind each image, paired with the
 finished example. Free to copy, adapt and ship.
 
 [![](https://img.shields.io/badge/site-posterlet.com-111)](https://posterlet.com)
-[![](https://img.shields.io/badge/prompts-6,318-e02020)](data/)
+[![](https://img.shields.io/badge/prompts-6,668-e02020)](data/)
 [![](https://img.shields.io/badge/license-CC%20BY%204.0-blue)](LICENSE)
 
 <div align="center">
 <table><tr>
 <td align="center"><a href="https://posterlet.com/poster/halloween-event-schedule-infographic-poster"><img src="https://files.posterlet.com/assets/generated/md/joybnm2bsmkc.webp" height="250" alt="Halloween Event Schedule Infographic Poster — 9:16 example poster"></a><br><sub><a href="gallery/halloween/event.md">Halloween Posters</a> · 593</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 358</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/black-friday-annual-blowout-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/z7hxi1q9fp3z.webp" height="250" alt="Black Friday Annual Blowout Sale Poster — 9:16 example poster"></a><br><sub><a href="gallery/black-friday/sale.md">Black Friday &amp; Cyber Monday</a> · 430</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="250" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/atmosphere.md">Christmas &amp; Holiday</a> · 356</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 378</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/black-friday-annual-blowout-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/z7hxi1q9fp3z.webp" height="250" alt="Black Friday Annual Blowout Sale Poster — 9:16 example poster"></a><br><sub><a href="gallery/black-friday/sale.md">Black Friday &amp; Cyber Monday</a> · 523</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="250" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/atmosphere.md">Christmas &amp; Holiday</a> · 493</sub></td>
 </tr></table>
 </div>
 
 <div align="center">
 <table><tr>
-<td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/apparel.md">Product Thumbnails</a> · 2613</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/data-center-power-evolution"><img src="https://files.posterlet.com/assets/generated/md/uxzakhsy59qj.webp" height="190" alt="Data Center Power Evolution — 16:9 example poster"></a><br><sub><a href="gallery/infographic/data-visualization.md">Infographics</a> · 168</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/full-stack-web-development-fiverr-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/x3c91athwgmi.webp" height="190" alt="Full-Stack Web Development Fiverr Gig Cover — 16:9 example poster"></a><br><sub><a href="gallery/gig-covers/web-app.md">Gig Covers</a> · 1112</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/build-in-flow-ai-native-editor-launch"><img src="https://files.posterlet.com/assets/generated/md/fef09rc0qrcs.webp" height="190" alt="Build in Flow AI Native Editor Launch — 16:9 example poster"></a><br><sub><a href="gallery/app-screenshots/screenshots.md">App Screenshots</a> · 688</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/floating-teal-sneaker-on-clouds"><img src="https://files.posterlet.com/assets/generated/md/lo6f76r1yuil.webp" height="190" alt="Floating Teal Sneaker on Clouds — 1:1 example poster"></a><br><sub><a href="gallery/product-thumbnails/apparel.md">Product Thumbnails</a> · 2661</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/data-center-power-evolution"><img src="https://files.posterlet.com/assets/generated/md/uxzakhsy59qj.webp" height="190" alt="Data Center Power Evolution — 16:9 example poster"></a><br><sub><a href="gallery/infographic/data-visualization.md">Infographics</a> · 191</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/full-stack-web-development-fiverr-gig-cover-2"><img src="https://files.posterlet.com/assets/generated/md/x3c91athwgmi.webp" height="190" alt="Full-Stack Web Development Fiverr Gig Cover — 16:9 example poster"></a><br><sub><a href="gallery/gig-covers/web-app.md">Gig Covers</a> · 1114</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/build-in-flow-ai-native-editor-launch"><img src="https://files.posterlet.com/assets/generated/md/fef09rc0qrcs.webp" height="190" alt="Build in Flow AI Native Editor Launch — 16:9 example poster"></a><br><sub><a href="gallery/app-screenshots/screenshots.md">App Screenshots</a> · 715</sub></td>
 </tr></table>
 </div>
 
@@ -29,7 +29,7 @@ finished example. Free to copy, adapt and ship.
 ## What this is
 
 Every poster on [posterlet.com](https://posterlet.com) is generated from a structured prompt spec rather than a one-line
-description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 6,318
+description. Posterlet is an SI (superintelligence) poster generator, and this repository publishes 6,668
 of the specs behind its output — the exact text that produced each image — so you can see how layout,
 color, typography and subject are constrained separately, and copy the patterns into your own pipeline.
 
@@ -43,29 +43,29 @@ version.
 | | [`data/halloween/sale.jsonl`](data/halloween/sale.jsonl) | 0.20 MB |
 | | [`data/halloween/event.jsonl`](data/halloween/event.jsonl) | 0.66 MB |
 | | [`data/halloween/atmosphere.jsonl`](data/halloween/atmosphere.jsonl) | 0.23 MB |
-| **Thanksgiving** | 358 | |
+| **Thanksgiving** | 378 | |
 | | [`data/thanksgiving/sale.jsonl`](data/thanksgiving/sale.jsonl) | 0.09 MB |
 | | [`data/thanksgiving/event.jsonl`](data/thanksgiving/event.jsonl) | 0.11 MB |
-| | [`data/thanksgiving/greeting.jsonl`](data/thanksgiving/greeting.jsonl) | 0.49 MB |
-| **Black Friday & Cyber Monday** | 430 | |
-| | [`data/black-friday/sale.jsonl`](data/black-friday/sale.jsonl) | 1.07 MB |
-| **Christmas & Holiday** | 356 | |
-| | [`data/christmas/sale.jsonl`](data/christmas/sale.jsonl) | 0.17 MB |
-| | [`data/christmas/event.jsonl`](data/christmas/event.jsonl) | 0.13 MB |
-| | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.35 MB |
-| **Infographics** | 168 | |
-| | [`data/infographic/data-visualization.jsonl`](data/infographic/data-visualization.jsonl) | 0.77 MB |
-| **Product Thumbnails** | 2613 | |
-| | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 1.36 MB |
-| | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.42 MB |
-| | [`data/product-thumbnails/apparel.jsonl`](data/product-thumbnails/apparel.jsonl) | 0.51 MB |
+| | [`data/thanksgiving/greeting.jsonl`](data/thanksgiving/greeting.jsonl) | 0.51 MB |
+| **Black Friday & Cyber Monday** | 523 | |
+| | [`data/black-friday/sale.jsonl`](data/black-friday/sale.jsonl) | 1.24 MB |
+| **Christmas & Holiday** | 493 | |
+| | [`data/christmas/sale.jsonl`](data/christmas/sale.jsonl) | 0.32 MB |
+| | [`data/christmas/event.jsonl`](data/christmas/event.jsonl) | 0.15 MB |
+| | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.44 MB |
+| **Infographics** | 191 | |
+| | [`data/infographic/data-visualization.jsonl`](data/infographic/data-visualization.jsonl) | 0.87 MB |
+| **Product Thumbnails** | 2661 | |
+| | [`data/product-thumbnails/beauty.jsonl`](data/product-thumbnails/beauty.jsonl) | 1.39 MB |
+| | [`data/product-thumbnails/food-drink.jsonl`](data/product-thumbnails/food-drink.jsonl) | 1.46 MB |
+| | [`data/product-thumbnails/apparel.jsonl`](data/product-thumbnails/apparel.jsonl) | 0.52 MB |
 | | [`data/product-thumbnails/electronics.jsonl`](data/product-thumbnails/electronics.jsonl) | 0.33 MB |
-| | [`data/product-thumbnails/home-appliance.jsonl`](data/product-thumbnails/home-appliance.jsonl) | 0.33 MB |
+| | [`data/product-thumbnails/home-appliance.jsonl`](data/product-thumbnails/home-appliance.jsonl) | 0.34 MB |
 | | [`data/product-thumbnails/home-living.jsonl`](data/product-thumbnails/home-living.jsonl) | 0.16 MB |
 | | [`data/product-thumbnails/health.jsonl`](data/product-thumbnails/health.jsonl) | 0.17 MB |
 | | [`data/product-thumbnails/baby-kids.jsonl`](data/product-thumbnails/baby-kids.jsonl) | 0.23 MB |
-| | [`data/product-thumbnails/general.jsonl`](data/product-thumbnails/general.jsonl) | 1.05 MB |
-| **Gig Covers** | 1112 | |
+| | [`data/product-thumbnails/general.jsonl`](data/product-thumbnails/general.jsonl) | 1.06 MB |
+| **Gig Covers** | 1114 | |
 | | [`data/gig-covers/web-app.jsonl`](data/gig-covers/web-app.jsonl) | 0.91 MB |
 | | [`data/gig-covers/design-brand.jsonl`](data/gig-covers/design-brand.jsonl) | 0.54 MB |
 | | [`data/gig-covers/marketing-seo.jsonl`](data/gig-covers/marketing-seo.jsonl) | 0.28 MB |
@@ -75,8 +75,8 @@ version.
 | | [`data/gig-covers/writing-biz.jsonl`](data/gig-covers/writing-biz.jsonl) | 0.19 MB |
 | | [`data/gig-covers/photo-3d.jsonl`](data/gig-covers/photo-3d.jsonl) | 0.16 MB |
 | | [`data/gig-covers/general.jsonl`](data/gig-covers/general.jsonl) | 0.36 MB |
-| **App Screenshots** | 688 | |
-| | [`data/app-screenshots/screenshots.jsonl`](data/app-screenshots/screenshots.jsonl) | 2.43 MB |
+| **App Screenshots** | 715 | |
+| | [`data/app-screenshots/screenshots.jsonl`](data/app-screenshots/screenshots.jsonl) | 2.50 MB |
 
 Each record looks like this:
 
@@ -110,37 +110,37 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Sales & Discounts](gallery/halloween/sale.md) | 109 (3p) |
 | | [Events & Parties](gallery/halloween/event.md) | 358 (9p) |
 | | [Greeting & Decor](gallery/halloween/atmosphere.md) | 126 (4p) |
-| **Thanksgiving** | | 358 |
-| | [Sales & Promotions](gallery/thanksgiving/sale.md) | 44 (2p) |
-| | [Events & Invitations](gallery/thanksgiving/event.md) | 56 (2p) |
-| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 258 (7p) |
-| **[Black Friday & Cyber Monday](gallery/black-friday/sale.md)** | | 430 |
-| **Christmas & Holiday** | | 356 |
-| | [Sales & Discounts](gallery/christmas/sale.md) | 92 (3p) |
-| | [Events & Parties](gallery/christmas/event.md) | 73 (2p) |
-| | [Greeting & Decor](gallery/christmas/atmosphere.md) | 191 (5p) |
-| **[Infographics](gallery/infographic/data-visualization.md)** | | 168 |
-| **Product Thumbnails** | | 2613 |
-| | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 648 (17p) |
-| | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 666 (17p) |
-| | [Apparel & Accessories](gallery/product-thumbnails/apparel.md) | 247 (7p) |
-| | [Electronics](gallery/product-thumbnails/electronics.md) | 150 (4p) |
-| | [Home & Kitchen Appliances](gallery/product-thumbnails/home-appliance.md) | 149 (4p) |
-| | [Home & Living](gallery/product-thumbnails/home-living.md) | 75 (2p) |
+| **Thanksgiving** | | 378 |
+| | [Sales & Promotions](gallery/thanksgiving/sale.md) | 46 (2p) |
+| | [Events & Invitations](gallery/thanksgiving/event.md) | 59 (2p) |
+| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 273 (7p) |
+| **[Black Friday & Cyber Monday](gallery/black-friday/sale.md)** | | 523 |
+| **Christmas & Holiday** | | 493 |
+| | [Sales & Discounts](gallery/christmas/sale.md) | 175 (5p) |
+| | [Events & Parties](gallery/christmas/event.md) | 79 (2p) |
+| | [Greeting & Decor](gallery/christmas/atmosphere.md) | 239 (6p) |
+| **[Infographics](gallery/infographic/data-visualization.md)** | | 191 |
+| **Product Thumbnails** | | 2661 |
+| | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 660 (17p) |
+| | [Food & Drink](gallery/product-thumbnails/food-drink.md) | 684 (18p) |
+| | [Apparel & Accessories](gallery/product-thumbnails/apparel.md) | 251 (7p) |
+| | [Electronics](gallery/product-thumbnails/electronics.md) | 152 (4p) |
+| | [Home & Kitchen Appliances](gallery/product-thumbnails/home-appliance.md) | 153 (4p) |
+| | [Home & Living](gallery/product-thumbnails/home-living.md) | 77 (2p) |
 | | [Health & Wellness](gallery/product-thumbnails/health.md) | 78 (2p) |
 | | [Baby & Kids](gallery/product-thumbnails/baby-kids.md) | 106 (3p) |
-| | [General Products](gallery/product-thumbnails/general.md) | 494 (13p) |
-| **Gig Covers** | | 1112 |
+| | [General Products](gallery/product-thumbnails/general.md) | 500 (13p) |
+| **Gig Covers** | | 1114 |
 | | [Web & App Development](gallery/gig-covers/web-app.md) | 337 (9p) |
 | | [Design & Branding](gallery/gig-covers/design-brand.md) | 207 (6p) |
 | | [Marketing & SEO](gallery/gig-covers/marketing-seo.md) | 100 (3p) |
 | | [Data & Analytics](gallery/gig-covers/data-analytics.md) | 70 (2p) |
-| | [Video & Animation](gallery/gig-covers/video-anim.md) | 46 (2p) |
+| | [Video & Animation](gallery/gig-covers/video-anim.md) | 47 (2p) |
 | | [Audio & Podcast](gallery/gig-covers/audio.md) | 93 (3p) |
 | | [Writing & Business](gallery/gig-covers/writing-biz.md) | 69 (2p) |
 | | [Photo & 3D](gallery/gig-covers/photo-3d.md) | 59 (2p) |
-| | [General Services](gallery/gig-covers/general.md) | 131 (4p) |
-| **[App Screenshots](gallery/app-screenshots/screenshots.md)** | | 688 |
+| | [General Services](gallery/gig-covers/general.md) | 132 (4p) |
+| **[App Screenshots](gallery/app-screenshots/screenshots.md)** | | 715 |
 
 Pages hold at most 40 images, so a large subcollection continues as `-2.md`, `-3.md` and so on.
 

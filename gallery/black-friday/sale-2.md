@@ -1,8 +1,8 @@
 <h2>Black Friday & Cyber Monday — Sale Posters</h2>
 
-<p><b>Part 2 of 11</b> — 41–80 of 430 · [← Previous](sale.md) · [Next →](sale-3.md)</p>
+<p><b>Part 2 of 14</b> — 41–80 of 523 · [← Previous](sale.md) · [Next →](sale-3.md)</p>
 
-<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 430 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>High-contrast discount posters built for peak sale season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 523 specs is in <a href="../../data/black-friday/sale.jsonl">data/black-friday/sale.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

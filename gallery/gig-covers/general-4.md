@@ -1,11 +1,16 @@
 <h2>Gig Covers — General Services</h2>
 
-<p><b>Part 4 of 4</b> — 121–131 of 131 · [← Previous](general-3.md)</p>
+<p><b>Part 4 of 4</b> — 121–132 of 132 · [← Previous](general-3.md)</p>
 
-<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 131 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Marketplace service covers for freelancers and studios. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 132 specs is in <a href="../../data/gig-covers/general.jsonl">data/gig-covers/general.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
+<td valign="top" width="25%"><a id="power-in-motion-sports-campaign-poster"></a>
+<a href="https://posterlet.com/poster/power-in-motion-sports-campaign-poster"><img src="https://files.posterlet.com/assets/generated/md/2nf851d16vdf.webp" alt="Power In Motion Sports Campaign Poster — 16:9 General Services poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Power In Motion Sports Campaign Poster</b></div>
+<div>16:9 · <a href="https://posterlet.com/poster/power-in-motion-sports-campaign-poster">Open on posterlet.com →</a></div>
+<div><sub>sports poster · event flyer · collage design · Nike campaign</sub></div></td>
 <td valign="top" width="25%"><a id="powerpoint-presentation-gig-cover-template"></a>
 <a href="https://posterlet.com/poster/powerpoint-presentation-gig-cover-template"><img src="https://files.posterlet.com/assets/generated/md/t04zstqddwin.webp" alt="PowerPoint Presentation Gig Cover Template — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>PowerPoint Presentation Gig Cover Template</b></div>
@@ -21,13 +26,13 @@
 <div style="margin-top: 8px;"><b>Premium Gig Cover Laptop Presentation</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/premium-gig-cover-laptop-presentation">Open on posterlet.com →</a></div>
 <div><sub>gig cover · laptop · presentation · slides</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="premium-skincare-product-grid"></a>
 <a href="https://posterlet.com/poster/premium-skincare-product-grid"><img src="https://files.posterlet.com/assets/generated/md/su7ywirrla2q.webp" alt="Premium Skincare Product Grid — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Premium Skincare Product Grid</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/premium-skincare-product-grid">Open on posterlet.com →</a></div>
 <div><sub>skincare · beauty products · cosmetics · serum bottles</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="professional-data-analyst-linkedin-gig-cover"></a>
 <a href="https://posterlet.com/poster/professional-data-analyst-linkedin-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/9924ey0fqqh9.webp" alt="Professional Data Analyst LinkedIn Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Professional Data Analyst LinkedIn Gig Cover</b></div>
@@ -43,13 +48,13 @@
 <div style="margin-top: 8px;"><b>Spiritual Coaching Session Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/spiritual-coaching-session-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>spiritual coaching · life coaching · gig cover · pastel gradient</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="vibrant-product-collage-gig-cover"></a>
 <a href="https://posterlet.com/poster/vibrant-product-collage-gig-cover"><img src="https://files.posterlet.com/assets/generated/md/pl0eu6qwido0.webp" alt="Vibrant Product Collage Gig Cover — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Vibrant Product Collage Gig Cover</b></div>
 <div>16:9 · <a href="https://posterlet.com/poster/vibrant-product-collage-gig-cover">Open on posterlet.com →</a></div>
 <div><sub>product collage · gig cover · dropper bottles · beauty products</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="format-landscape-169-gig-cover-high-impact-dark-tech-des"></a>
 <a href="https://posterlet.com/poster/format-landscape-169-gig-cover-high-impact-dark-tech-des"><img src="https://files.posterlet.com/assets/generated/md/lv4js5dpfxxa.webp" alt="[Format] Landscape 16:9 gig cover, high-impact dark tech des — 16:9 General Services poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>[Format] Landscape 16:9 gig cover, high-impact dark tech des</b></div>

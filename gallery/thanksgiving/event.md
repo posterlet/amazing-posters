@@ -1,8 +1,8 @@
 <h2>Thanksgiving — Events & Invitations</h2>
 
-<p><b>Part 1 of 2</b> — 1–40 of 56 · [Next →](event-2.md)</p>
+<p><b>Part 1 of 2</b> — 1–40 of 59 · [Next →](event-2.md)</p>
 
-<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 56 specs is in <a href="../../data/thanksgiving/event.jsonl">data/thanksgiving/event.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 59 specs is in <a href="../../data/thanksgiving/event.jsonl">data/thanksgiving/event.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -143,6 +143,11 @@
 <div style="margin-top: 8px;"><b>Thank You For Everything Thanksgiving Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thank-you-for-everything-thanksgiving-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · thank you poster · warm typography · blush pink</sub></div></td>
+<td valign="top" width="25%"><a id="thank-you-for-this-meal-thanksgiving-dinner-poster"></a>
+<a href="https://posterlet.com/poster/thank-you-for-this-meal-thanksgiving-dinner-poster"><img src="https://files.posterlet.com/assets/generated/md/g19bguacr408.webp" alt="Thank You For This Meal Thanksgiving Dinner Poster — 9:16 Events &amp; Invitations poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Thank You For This Meal Thanksgiving Dinner Poster</b></div>
+<div>9:16 · <a href="https://posterlet.com/poster/thank-you-for-this-meal-thanksgiving-dinner-poster">Open on posterlet.com →</a></div>
+<div><sub>Thanksgiving · roasted squash · dinner party · gratitude</sub></div></td>
 <td valign="top" width="25%"><a id="thank-you-tech-event-thanksgiving-poster"></a>
 <a href="https://posterlet.com/poster/thank-you-tech-event-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/eegzylfkibov.webp" alt="Thank You Tech Event Thanksgiving Poster — 9:16 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thank You Tech Event Thanksgiving Poster</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Thankful For You Thanksgiving Family Party</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/thankful-for-you-thanksgiving-family-party">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · family dinner · autumn celebration · illustrated poster</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thankful-rainbow-heart-thanksgiving-poster"></a>
 <a href="https://posterlet.com/poster/thankful-rainbow-heart-thanksgiving-poster"><img src="https://files.posterlet.com/assets/generated/md/nywugzdizame.webp" alt="Thankful Rainbow Heart Thanksgiving Poster — 9:16 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thankful Rainbow Heart Thanksgiving Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thankful-rainbow-heart-thanksgiving-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · grateful · rainbow heart · watercolor poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-family-gather-give-thanks"></a>
 <a href="https://posterlet.com/poster/thanksgiving-family-gather-give-thanks"><img src="https://files.posterlet.com/assets/generated/md/tyg8aweii10t.webp" alt="Thanksgiving Family Gather &amp; Give Thanks — 21:9 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Family Gather &amp; Give Thanks</b></div>
@@ -175,13 +180,13 @@
 <div style="margin-top: 8px;"><b>Thanksgiving Floral Event Banner</b></div>
 <div>4:3 · <a href="https://posterlet.com/poster/thanksgiving-floral-event-banner">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · floral banner · roses · event poster</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thanksgiving-grateful-heart-hands-greeting"></a>
 <a href="https://posterlet.com/poster/thanksgiving-grateful-heart-hands-greeting"><img src="https://files.posterlet.com/assets/generated/md/1lpdrbbtswrb.webp" alt="Thanksgiving Grateful Heart Hands Greeting — 9:16 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Grateful Heart Hands Greeting</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-grateful-heart-hands-greeting">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · grateful · heart · hands</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-market-table-friends-poster"></a>
 <a href="https://posterlet.com/poster/thanksgiving-market-table-friends-poster"><img src="https://files.posterlet.com/assets/generated/md/cyaihha91bik.webp" alt="Thanksgiving Market Table Friends Poster — 1:1 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Market Table Friends Poster</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>Thanksgiving Warm Embrace Minimal Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/thanksgiving-warm-embrace-minimal-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · holiday poster · gratitude · warmth</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="thanksgiving-wish-list-poster"></a>
 <a href="https://posterlet.com/poster/thanksgiving-wish-list-poster"><img src="https://files.posterlet.com/assets/generated/md/f6cnxl5ci242.webp" alt="Thanksgiving Wish List Poster — 3:4 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving Wish List Poster</b></div>
 <div>3:4 · <a href="https://posterlet.com/poster/thanksgiving-wish-list-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · holiday poster · wish list · turkey illustration</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="thanksgiving-you-came-like-a-gentle-wind"></a>
 <a href="https://posterlet.com/poster/thanksgiving-you-came-like-a-gentle-wind"><img src="https://files.posterlet.com/assets/generated/md/mrmsmdpm1puo.webp" alt="Thanksgiving You Came Like A Gentle Wind — 9:16 Events &amp; Invitations poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Thanksgiving You Came Like A Gentle Wind</b></div>
@@ -219,11 +224,6 @@
 <div style="margin-top: 8px;"><b>Warm Thanksgiving Family Dinner Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/warm-thanksgiving-family-dinner-poster">Open on posterlet.com →</a></div>
 <div><sub>thanksgiving · family dinner · illustration · holiday poster</sub></div></td>
-<td valign="top" width="25%"><a id="a-slice-of-thanks"></a>
-<a href="https://posterlet.com/poster/a-slice-of-thanks"><img src="https://files.posterlet.com/assets/generated/md/4wnffges4sgn.webp" alt="A Slice of Thanks — 3:4 Events &amp; Invitations poster design" width="100%"></a>
-<div style="margin-top: 8px;"><b>A Slice of Thanks</b></div>
-<div>3:4 · <a href="https://posterlet.com/poster/a-slice-of-thanks">Open on posterlet.com →</a></div>
-<div><sub>Thanksgiving · pumpkin pie · fall recipe · holiday dessert</sub></div></td>
 </tr>
 </table>
 
