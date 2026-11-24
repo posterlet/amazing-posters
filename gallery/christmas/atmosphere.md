@@ -1,8 +1,8 @@
 <h2>Christmas & Holiday — Greeting & Decor</h2>
 
-<p><b>Part 1 of 6</b> — 1–40 of 239 · [Next →](atmosphere-2.md)</p>
+<p><b>Part 1 of 6</b> — 1–40 of 240 · [Next →](atmosphere-2.md)</p>
 
-<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 239 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 240 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

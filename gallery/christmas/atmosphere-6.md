@@ -1,8 +1,8 @@
 <h2>Christmas & Holiday — Greeting & Decor</h2>
 
-<p><b>Part 6 of 6</b> — 201–239 of 239 · [← Previous](atmosphere-5.md)</p>
+<p><b>Part 6 of 6</b> — 201–240 of 240 · [← Previous](atmosphere-5.md)</p>
 
-<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 239 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Festive retail, greeting and event posters for the holiday season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 240 specs is in <a href="../../data/christmas/atmosphere.jsonl">data/christmas/atmosphere.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>
@@ -87,13 +87,18 @@
 <div style="margin-top: 8px;"><b>Golden Glow Winter Skincare Gift Set</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/golden-glow-winter-skincare-gift-set">Open on posterlet.com →</a></div>
 <div><sub>skincare gift set · winter beauty · luxury skincare · gold packaging</sub></div></td>
+<td valign="top" width="25%"><a id="luxury-gift-poster-with-perfume-wax-seal"></a>
+<a href="https://posterlet.com/poster/luxury-gift-poster-with-perfume-wax-seal"><img src="https://files.posterlet.com/assets/generated/md/7v00qywyaolm.webp" alt="Luxury Gift Poster with Perfume &amp; Wax Seal — 3:4 Greeting &amp; Decor poster design" width="100%"></a>
+<div style="margin-top: 8px;"><b>Luxury Gift Poster with Perfume &amp; Wax Seal</b></div>
+<div>3:4 · <a href="https://posterlet.com/poster/luxury-gift-poster-with-perfume-wax-seal">Open on posterlet.com →</a></div>
+<div><sub>luxury gift · perfume set · premium packaging · thank you card</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="minimalist-holiday-livestream-backdrop-with-product-display"></a>
 <a href="https://posterlet.com/poster/minimalist-holiday-livestream-backdrop-with-product-display"><img src="https://files.posterlet.com/assets/generated/md/vxchv53u50g3.webp" alt="Minimalist Holiday Livestream Backdrop with Product Display — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Minimalist Holiday Livestream Backdrop with Product Display</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/minimalist-holiday-livestream-backdrop-with-product-display">Open on posterlet.com →</a></div>
 <div><sub>livestream · backdrop · holiday · product display</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="christmas-clay-diorama-greeting-poster"></a>
 <a href="https://posterlet.com/poster/christmas-clay-diorama-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/rrdya0yyiwak.webp" alt="Christmas Clay Diorama Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Christmas Clay Diorama Greeting Poster</b></div>
@@ -109,13 +114,13 @@
 <div style="margin-top: 8px;"><b>Cozy Christmas Felt Stop-Motion Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-christmas-felt-stop-motion-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas poster · felt stop-motion · needle-felted Santa · holiday greeting</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="cozy-christmas-paper-cut-cottage-diorama"></a>
 <a href="https://posterlet.com/poster/cozy-christmas-paper-cut-cottage-diorama"><img src="https://files.posterlet.com/assets/generated/md/b1rh1w3hmunp.webp" alt="Cozy Christmas Paper-Cut Cottage Diorama — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Christmas Paper-Cut Cottage Diorama</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/cozy-christmas-paper-cut-cottage-diorama">Open on posterlet.com →</a></div>
 <div><sub>Christmas · paper-cut · diorama · Santa</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="cozy-winter-brand-poster-illustration"></a>
 <a href="https://posterlet.com/poster/cozy-winter-brand-poster-illustration"><img src="https://files.posterlet.com/assets/generated/md/emg1lye64elk.webp" alt="Cozy Winter Brand Poster Illustration — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Cozy Winter Brand Poster Illustration</b></div>
@@ -131,13 +136,13 @@
 <div style="margin-top: 8px;"><b>Festive Christmas Ornaments Greeting Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/festive-christmas-ornaments-greeting-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · greeting · ornament · poster</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="festive-clay-snow-globe-christmas-greeting"></a>
 <a href="https://posterlet.com/poster/festive-clay-snow-globe-christmas-greeting"><img src="https://files.posterlet.com/assets/generated/md/2ehqi1guq7nm.webp" alt="Festive Clay Snow Globe Christmas Greeting — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Festive Clay Snow Globe Christmas Greeting</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/festive-clay-snow-globe-christmas-greeting">Open on posterlet.com →</a></div>
 <div><sub>Christmas · snow globe · clay diorama · holiday poster</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="hand-stitched-yarn-christmas-tree-poster"></a>
 <a href="https://posterlet.com/poster/hand-stitched-yarn-christmas-tree-poster"><img src="https://files.posterlet.com/assets/generated/md/eqklsim6f2vp.webp" alt="Hand-Stitched Yarn Christmas Tree Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Hand-Stitched Yarn Christmas Tree Poster</b></div>
@@ -153,13 +158,13 @@
 <div style="margin-top: 8px;"><b>Merry Christmas Clay Art Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/merry-christmas-clay-art-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · merry christmas · clay art · plasticine</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="merry-christmas-clay-diorama-greeting-poster"></a>
 <a href="https://posterlet.com/poster/merry-christmas-clay-diorama-greeting-poster"><img src="https://files.posterlet.com/assets/generated/md/rmu09ywmly16.webp" alt="Merry Christmas Clay Diorama Greeting Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Merry Christmas Clay Diorama Greeting Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/merry-christmas-clay-diorama-greeting-poster">Open on posterlet.com →</a></div>
 <div><sub>Christmas poster · clay diorama · Santa car · holiday greeting</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="merry-christmas-cozy-holiday-banner"></a>
 <a href="https://posterlet.com/poster/merry-christmas-cozy-holiday-banner"><img src="https://files.posterlet.com/assets/generated/md/6dvghgrqsoyr.webp" alt="Merry Christmas Cozy Holiday Banner — 7:3 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Merry Christmas Cozy Holiday Banner</b></div>
@@ -175,13 +180,13 @@
 <div style="margin-top: 8px;"><b>Merry Christmas Gold Handbell Social Post</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/merry-christmas-gold-handbell-social-post">Open on posterlet.com →</a></div>
 <div><sub>christmas · handbell · holiday poster · 3d render</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="merry-christmas-holiday-feast-poster"></a>
 <a href="https://posterlet.com/poster/merry-christmas-holiday-feast-poster"><img src="https://files.posterlet.com/assets/generated/md/ocyqz9gge5nd.webp" alt="Merry Christmas Holiday Feast Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Merry Christmas Holiday Feast Poster</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/merry-christmas-holiday-feast-poster">Open on posterlet.com →</a></div>
 <div><sub>christmas · holiday dinner · roast turkey · food photography</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="moonlit-christmas-eve-cinematic-cover"></a>
 <a href="https://posterlet.com/poster/moonlit-christmas-eve-cinematic-cover"><img src="https://files.posterlet.com/assets/generated/md/gcmlgg2e8msm.webp" alt="Moonlit Christmas Eve Cinematic Cover — 3:4 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Moonlit Christmas Eve Cinematic Cover</b></div>
@@ -197,13 +202,13 @@
 <div style="margin-top: 8px;"><b>Warm Christmas Eve Interior Through Window</b></div>
 <div>9:16 · <a href="https://posterlet.com/poster/warm-christmas-eve-interior-through-window">Open on posterlet.com →</a></div>
 <div><sub>christmas · holiday · interior · window</sub></div></td>
+</tr>
+<tr>
 <td valign="top" width="25%"><a id="winter-nourish-wellness-supplement-sale"></a>
 <a href="https://posterlet.com/poster/winter-nourish-wellness-supplement-sale"><img src="https://files.posterlet.com/assets/generated/md/noar0c2pvyij.webp" alt="Winter Nourish Wellness Supplement Sale — 2:3 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Winter Nourish Wellness Supplement Sale</b></div>
 <div>2:3 · <a href="https://posterlet.com/poster/winter-nourish-wellness-supplement-sale">Open on posterlet.com →</a></div>
 <div><sub>winter wellness · supplements · vitamins · healthy lifestyle</sub></div></td>
-</tr>
-<tr>
 <td valign="top" width="25%"><a id="winter-hydration-skincare-promo-poster"></a>
 <a href="https://posterlet.com/poster/winter-hydration-skincare-promo-poster"><img src="https://files.posterlet.com/assets/generated/md/d2l78v9qyt35.webp" alt="Winter Hydration Skincare Promo Poster — 9:16 Greeting &amp; Decor poster design" width="100%"></a>
 <div style="margin-top: 8px;"><b>Winter Hydration Skincare Promo Poster</b></div>

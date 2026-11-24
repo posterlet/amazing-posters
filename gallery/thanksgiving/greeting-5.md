@@ -1,8 +1,8 @@
 <h2>Thanksgiving — Greeting & Gratitude</h2>
 
-<p><b>Part 5 of 7</b> — 161–200 of 273 · [← Previous](greeting-4.md) · [Next →](greeting-6.md)</p>
+<p><b>Part 5 of 7</b> — 161–200 of 272 · [← Previous](greeting-4.md) · [Next →](greeting-6.md)</p>
 
-<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 273 specs is in <a href="../../data/thanksgiving/greeting.jsonl">data/thanksgiving/greeting.jsonl</a>. <a href="../../README.md">All collections →</a></p>
+<p>Gratitude, greeting and dinner-invite posters for the November harvest season. Every image links to a live, editable example on <a href="https://posterlet.com">posterlet.com</a>. The prompt text for all 272 specs is in <a href="../../data/thanksgiving/greeting.jsonl">data/thanksgiving/greeting.jsonl</a>. <a href="../../README.md">All collections →</a></p>
 
 <table width="100%" style="table-layout: fixed;">
 <tr>

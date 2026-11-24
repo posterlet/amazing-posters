@@ -10,9 +10,9 @@ finished example. Free to copy, adapt and ship.
 <div align="center">
 <table><tr>
 <td align="center"><a href="https://posterlet.com/poster/halloween-event-schedule-infographic-poster"><img src="https://files.posterlet.com/assets/generated/md/joybnm2bsmkc.webp" height="250" alt="Halloween Event Schedule Infographic Poster — 9:16 example poster"></a><br><sub><a href="gallery/halloween/event.md">Halloween Posters</a> · 593</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 378</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/sunlit-thanksgiving-dinner-poster-with-glazed-turkey"><img src="https://files.posterlet.com/assets/generated/md/0pjldnbm5c4c.webp" height="250" alt="Sunlit Thanksgiving Dinner Poster with Glazed Turkey — 9:16 example poster"></a><br><sub><a href="gallery/thanksgiving/greeting.md">Thanksgiving</a> · 377</sub></td>
 <td align="center"><a href="https://posterlet.com/poster/black-friday-annual-blowout-sale-poster"><img src="https://files.posterlet.com/assets/generated/md/z7hxi1q9fp3z.webp" height="250" alt="Black Friday Annual Blowout Sale Poster — 9:16 example poster"></a><br><sub><a href="gallery/black-friday/sale.md">Black Friday &amp; Cyber Monday</a> · 523</sub></td>
-<td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="250" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/atmosphere.md">Christmas &amp; Holiday</a> · 493</sub></td>
+<td align="center"><a href="https://posterlet.com/poster/3d-gingerbread-christmas-village-diorama-poster"><img src="https://files.posterlet.com/assets/generated/md/3f2dyvg8juzh.webp" height="250" alt="3D Gingerbread Christmas Village Diorama Poster — 9:16 example poster"></a><br><sub><a href="gallery/christmas/atmosphere.md">Christmas &amp; Holiday</a> · 494</sub></td>
 </tr></table>
 </div>
 
@@ -43,13 +43,13 @@ version.
 | | [`data/halloween/sale.jsonl`](data/halloween/sale.jsonl) | 0.20 MB |
 | | [`data/halloween/event.jsonl`](data/halloween/event.jsonl) | 0.66 MB |
 | | [`data/halloween/atmosphere.jsonl`](data/halloween/atmosphere.jsonl) | 0.23 MB |
-| **Thanksgiving** | 378 | |
+| **Thanksgiving** | 377 | |
 | | [`data/thanksgiving/sale.jsonl`](data/thanksgiving/sale.jsonl) | 0.09 MB |
 | | [`data/thanksgiving/event.jsonl`](data/thanksgiving/event.jsonl) | 0.11 MB |
 | | [`data/thanksgiving/greeting.jsonl`](data/thanksgiving/greeting.jsonl) | 0.51 MB |
 | **Black Friday & Cyber Monday** | 523 | |
 | | [`data/black-friday/sale.jsonl`](data/black-friday/sale.jsonl) | 1.24 MB |
-| **Christmas & Holiday** | 493 | |
+| **Christmas & Holiday** | 494 | |
 | | [`data/christmas/sale.jsonl`](data/christmas/sale.jsonl) | 0.32 MB |
 | | [`data/christmas/event.jsonl`](data/christmas/event.jsonl) | 0.15 MB |
 | | [`data/christmas/atmosphere.jsonl`](data/christmas/atmosphere.jsonl) | 0.44 MB |
@@ -110,15 +110,15 @@ whole-page diagram is easier to specify as one description than as independent b
 | | [Sales & Discounts](gallery/halloween/sale.md) | 109 (3p) |
 | | [Events & Parties](gallery/halloween/event.md) | 358 (9p) |
 | | [Greeting & Decor](gallery/halloween/atmosphere.md) | 126 (4p) |
-| **Thanksgiving** | | 378 |
+| **Thanksgiving** | | 377 |
 | | [Sales & Promotions](gallery/thanksgiving/sale.md) | 46 (2p) |
 | | [Events & Invitations](gallery/thanksgiving/event.md) | 59 (2p) |
-| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 273 (7p) |
+| | [Greeting & Gratitude](gallery/thanksgiving/greeting.md) | 272 (7p) |
 | **[Black Friday & Cyber Monday](gallery/black-friday/sale.md)** | | 523 |
-| **Christmas & Holiday** | | 493 |
+| **Christmas & Holiday** | | 494 |
 | | [Sales & Discounts](gallery/christmas/sale.md) | 175 (5p) |
 | | [Events & Parties](gallery/christmas/event.md) | 79 (2p) |
-| | [Greeting & Decor](gallery/christmas/atmosphere.md) | 239 (6p) |
+| | [Greeting & Decor](gallery/christmas/atmosphere.md) | 240 (6p) |
 | **[Infographics](gallery/infographic/data-visualization.md)** | | 191 |
 | **Product Thumbnails** | | 2661 |
 | | [Beauty & Skincare](gallery/product-thumbnails/beauty.md) | 660 (17p) |
